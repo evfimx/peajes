@@ -1,7 +1,7 @@
 {
   "casetas": [
     {
-      "nombre": "Plaza de Cobro N° 21 Ojo de Agua",
+      "nombre": "Plaza de Cobro Ojo de Agua",
       "ubicacion": {
         "latitud": 19.6187,
         "longitud": -99.02939
@@ -23,19 +23,19 @@
       }
     },
     {
-      "nombre": "Arco Norte",
+      "nombre": "Arco Norte - Sección Entradas y Salidas",
       "tipo": "por_punto",
       "tarifas": [
         {
           "entrada": {
-            "nombre": "Pachuca",
+            "nombre": "Pachuca - Entrada Principal",
             "ubicacion": {
               "latitud": 19.92735,
               "longitud": -98.8914
             }
           },
           "salida": {
-            "nombre": "Acambay",
+            "nombre": "Acambay - Salida Principal",
             "ubicacion": {
               "latitud": 19.9235,
               "longitud": -99.8442
@@ -58,14 +58,14 @@
         },
         {
           "entrada": {
-            "nombre": "Pachuca",
+            "nombre": "Pachuca - Entrada Principal",
             "ubicacion": {
               "latitud": 19.92735,
               "longitud": -98.8914
             }
           },
           "salida": {
-            "nombre": "Jilotepec",
+            "nombre": "Jilotepec - Salida Secundaria",
             "ubicacion": {
               "latitud": 19.97657,
               "longitud": -99.53162

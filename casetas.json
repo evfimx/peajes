@@ -28,44 +28,62 @@
         "tarifas": [
             {
                 "entrada": {
-                    "nombre": "Atlacomulco",
+                    "nombre": "Pachuca",
                     "ubicacion": {
-                        "latitud": 19.7983,
-                        "longitud": -99.8735
+                        "latitud": 19.92735,
+                        "longitud": -98.8914
                     }
                 },
                 "salida": {
-                    "nombre": "Pachuca",
+                    "nombre": "Acambay",
                     "ubicacion": {
-                        "latitud": 20.125,
-                        "longitud": -98.7333
+                        "latitud": 19.9235,
+                        "longitud": -99.8442
                     }
                 },
                 "costos": {
-                    "clase_1": 120,
-                    "clase_2_b2": 150,
-                    "clase_3_b3": 180
+              "clase_1": 265,
+              "clase_2_b2": 525,
+              "clase_3_b3": 525,
+              "clase_2_t2": 525,
+              "clase_3_t3": 525,
+              "clase_4_t4": 525,
+              "clase_5_t5": 790,
+              "clase_6_t6": 790,
+              "clase_7_t7": 1215,
+              "clase_8_t8": 1215,
+              "clase_9_t9": 1215,
+              "clase_10_motocicleta": 132
                 }
             },
             {
                 "entrada": {
                     "nombre": "Pachuca",
                     "ubicacion": {
-                        "latitud": 20.125,
-                        "longitud": -98.7333
+                        "latitud": 19.92735,
+                        "longitud": -98.8914
                     }
                 },
                 "salida": {
-                    "nombre": "Puebla",
+                    "nombre": "Jilotepec",
                     "ubicacion": {
-                        "latitud": 19.0414,
-                        "longitud": -98.2063
+                        "latitud": 19.97657,
+                        "longitud": -99.53162
                     }
                 },
                 "costos": {
-                    "clase_1": 200,
-                    "clase_2_b2": 250,
-                    "clase_3_b3": 300
+                  "clase_1": 190,
+                  "clase_2_b2": 395,
+                  "clase_3_b3": 395,
+                  "clase_2_t2": 395,
+                  "clase_3_t3": 395,
+                  "clase_4_t4": 395,
+                  "clase_5_t5": 615,
+                  "clase_6_t6": 615,
+                  "clase_7_t7": 920,
+                  "clase_8_t8": 920,
+                  "clase_9_t9": 920,
+                  "clase_10_motocicleta": 95
                 }
             }
         ]

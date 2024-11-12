@@ -1565,8 +1565,8 @@
     {
       "nombre": "Tepexpan",
       "ubicacion": {
-        "latitud": NaN,
-        "longitud": NaN
+        "latitud": 5,
+        "longitud": 5
       },
       "tipo": "general",
       "costos": {
@@ -2247,8 +2247,8 @@
     {
       "nombre": "Cazones2",
       "ubicacion": {
-        "latitud": NaN,
-        "longitud": NaN
+        "latitud": 7,
+        "longitud": 7
       },
       "tipo": "general",
       "costos": {
@@ -2973,8 +2973,8 @@
     {
       "nombre": "Mexicali A2",
       "ubicacion": {
-        "latitud": NaN,
-        "longitud": NaN
+        "latitud": 6,
+        "longitud": 6
       },
       "tipo": "general",
       "costos": {
@@ -5789,8 +5789,8 @@
     {
       "nombre": "Sin cargo para los usuarios",
       "ubicacion": {
-        "latitud": NaN,
-        "longitud": NaN
+        "latitud": 1,
+        "longitud": 1
       },
       "tipo": "general",
       "costos": {

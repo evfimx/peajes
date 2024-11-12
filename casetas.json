@@ -1,92 +1,7946 @@
 {
   "casetas": [
     {
-      "nombre": "Plaza de Cobro Ojo de Agua",
+      "nombre": "Esperanza",
       "ubicacion": {
-        "latitud": 19.6187,
-        "longitud": -99.02939
+        "latitud": 18.870777,
+        "longitud": -97.385869
       },
       "tipo": "general",
       "costos": {
-        "clase_1": 65,
+        "clase_1": 80,
+        "clase_2_b2": 80,
+        "clase_3_b3": 80,
+        "clase_2_t2": 80,
+        "clase_3_t3": 80,
+        "clase_4_t4": 80,
+        "clase_5_t5": 80,
+        "clase_6_t6": 80,
+        "clase_7_t7": 80,
+        "clase_8_t8": 80,
+        "clase_9_t9": 80,
+        "clase_10_motocicleta": 51
+      }
+    },
+    {
+      "nombre": "Amozoc II",
+      "ubicacion": {
+        "latitud": 19.063585,
+        "longitud": -98.069075
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 83,
+        "clase_2_b2": 83,
+        "clase_3_b3": 83,
+        "clase_2_t2": 83,
+        "clase_3_t3": 83,
+        "clase_4_t4": 83,
+        "clase_5_t5": 83,
+        "clase_6_t6": 83,
+        "clase_7_t7": 83,
+        "clase_8_t8": 83,
+        "clase_9_t9": 83,
+        "clase_10_motocicleta": 54
+      }
+    },
+    {
+      "nombre": "Cantona",
+      "ubicacion": {
+        "latitud": 19.507568,
+        "longitud": -97.497774
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 84,
+        "clase_2_b2": 84,
+        "clase_3_b3": 84,
+        "clase_2_t2": 84,
+        "clase_3_t3": 84,
+        "clase_4_t4": 84,
+        "clase_5_t5": 84,
+        "clase_6_t6": 84,
+        "clase_7_t7": 84,
+        "clase_8_t8": 84,
+        "clase_9_t9": 84,
+        "clase_10_motocicleta": 55
+      }
+    },
+    {
+      "nombre": "Cantona A1",
+      "ubicacion": {
+        "latitud": 19.506554,
+        "longitud": -97.495453
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 85,
+        "clase_2_b2": 85,
+        "clase_3_b3": 85,
+        "clase_2_t2": 85,
+        "clase_3_t3": 85,
+        "clase_4_t4": 85,
+        "clase_5_t5": 85,
+        "clase_6_t6": 85,
+        "clase_7_t7": 85,
+        "clase_8_t8": 85,
+        "clase_9_t9": 85,
+        "clase_10_motocicleta": 56
+      }
+    },
+    {
+      "nombre": "Cantona A2",
+      "ubicacion": {
+        "latitud": 19.508966,
+        "longitud": -97.497172
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 86,
+        "clase_2_b2": 86,
+        "clase_3_b3": 86,
+        "clase_2_t2": 86,
+        "clase_3_t3": 86,
+        "clase_4_t4": 86,
+        "clase_5_t5": 86,
+        "clase_6_t6": 86,
+        "clase_7_t7": 86,
+        "clase_8_t8": 86,
+        "clase_9_t9": 86,
+        "clase_10_motocicleta": 57
+      }
+    },
+    {
+      "nombre": "Cuapiaxtla",
+      "ubicacion": {
+        "latitud": 19.310368,
+        "longitud": -97.797562
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 87,
+        "clase_2_b2": 87,
+        "clase_3_b3": 87,
+        "clase_2_t2": 87,
+        "clase_3_t3": 87,
+        "clase_4_t4": 87,
+        "clase_5_t5": 87,
+        "clase_6_t6": 87,
+        "clase_7_t7": 87,
+        "clase_8_t8": 87,
+        "clase_9_t9": 87,
+        "clase_10_motocicleta": 58
+      }
+    },
+    {
+      "nombre": "Cuapiaxtla A1",
+      "ubicacion": {
+        "latitud": 19.304147,
+        "longitud": -97.805436
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 88,
+        "clase_2_b2": 88,
+        "clase_3_b3": 88,
+        "clase_2_t2": 88,
+        "clase_3_t3": 88,
+        "clase_4_t4": 88,
+        "clase_5_t5": 88,
+        "clase_6_t6": 88,
+        "clase_7_t7": 88,
+        "clase_8_t8": 88,
+        "clase_9_t9": 88,
+        "clase_10_motocicleta": 59
+      }
+    },
+    {
+      "nombre": "Cuapiaxtla A2",
+      "ubicacion": {
+        "latitud": 19.304378,
+        "longitud": -97.805668
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 89,
+        "clase_2_b2": 89,
+        "clase_3_b3": 89,
+        "clase_2_t2": 89,
+        "clase_3_t3": 89,
+        "clase_4_t4": 89,
+        "clase_5_t5": 89,
+        "clase_6_t6": 89,
+        "clase_7_t7": 89,
+        "clase_8_t8": 89,
+        "clase_9_t9": 89,
+        "clase_10_motocicleta": 60
+      }
+    },
+    {
+      "nombre": "Perote",
+      "ubicacion": {
+        "latitud": 19.55172,
+        "longitud": -97.289536
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 90,
+        "clase_2_b2": 90,
+        "clase_3_b3": 90,
+        "clase_2_t2": 90,
+        "clase_3_t3": 90,
+        "clase_4_t4": 90,
+        "clase_5_t5": 90,
+        "clase_6_t6": 90,
+        "clase_7_t7": 90,
+        "clase_8_t8": 90,
+        "clase_9_t9": 90,
+        "clase_10_motocicleta": 61
+      }
+    },
+    {
+      "nombre": "Cuyutlán",
+      "ubicacion": {
+        "latitud": 18.927786,
+        "longitud": -104.081504
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 91,
+        "clase_2_b2": 91,
+        "clase_3_b3": 91,
+        "clase_2_t2": 91,
+        "clase_3_t3": 91,
+        "clase_4_t4": 91,
+        "clase_5_t5": 91,
+        "clase_6_t6": 91,
+        "clase_7_t7": 91,
+        "clase_8_t8": 91,
+        "clase_9_t9": 91,
+        "clase_10_motocicleta": 62
+      }
+    },
+    {
+      "nombre": "Arriaga",
+      "ubicacion": {
+        "latitud": 16.245558,
+        "longitud": -93.880876
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 92,
+        "clase_2_b2": 92,
+        "clase_3_b3": 92,
+        "clase_2_t2": 92,
+        "clase_3_t3": 92,
+        "clase_4_t4": 92,
+        "clase_5_t5": 92,
+        "clase_6_t6": 92,
+        "clase_7_t7": 92,
+        "clase_8_t8": 92,
+        "clase_9_t9": 92,
+        "clase_10_motocicleta": 63
+      }
+    },
+    {
+      "nombre": "Jiquipilas",
+      "ubicacion": {
+        "latitud": 16.620564,
+        "longitud": -93.60209
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 93,
+        "clase_2_b2": 93,
+        "clase_3_b3": 93,
+        "clase_2_t2": 93,
+        "clase_3_t3": 93,
+        "clase_4_t4": 93,
+        "clase_5_t5": 93,
+        "clase_6_t6": 93,
+        "clase_7_t7": 93,
+        "clase_8_t8": 93,
+        "clase_9_t9": 93,
+        "clase_10_motocicleta": 64
+      }
+    },
+    {
+      "nombre": "Ocozocuautla",
+      "ubicacion": {
+        "latitud": 16.738493,
+        "longitud": -93.400414
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 94,
+        "clase_2_b2": 94,
+        "clase_3_b3": 94,
+        "clase_2_t2": 94,
+        "clase_3_t3": 94,
+        "clase_4_t4": 94,
+        "clase_5_t5": 94,
+        "clase_6_t6": 94,
+        "clase_7_t7": 94,
+        "clase_8_t8": 94,
+        "clase_9_t9": 94,
+        "clase_10_motocicleta": 65
+      }
+    },
+    {
+      "nombre": "Tierra y Libertad",
+      "ubicacion": {
+        "latitud": 16.368058,
+        "longitud": -93.867043
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 95,
+        "clase_2_b2": 95,
+        "clase_3_b3": 95,
+        "clase_2_t2": 95,
+        "clase_3_t3": 95,
+        "clase_4_t4": 95,
+        "clase_5_t5": 95,
+        "clase_6_t6": 95,
+        "clase_7_t7": 95,
+        "clase_8_t8": 95,
+        "clase_9_t9": 95,
+        "clase_10_motocicleta": 66
+      }
+    },
+    {
+      "nombre": "Contepec",
+      "ubicacion": {
+        "latitud": 19.876127,
+        "longitud": -100.177072
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 96,
+        "clase_2_b2": 96,
+        "clase_3_b3": 96,
+        "clase_2_t2": 96,
+        "clase_3_t3": 96,
+        "clase_4_t4": 96,
+        "clase_5_t5": 96,
+        "clase_6_t6": 96,
+        "clase_7_t7": 96,
+        "clase_8_t8": 96,
+        "clase_9_t9": 96,
+        "clase_10_motocicleta": 67
+      }
+    },
+    {
+      "nombre": "Contepec A1",
+      "ubicacion": {
+        "latitud": 19.877644,
+        "longitud": -100.176358
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 97,
+        "clase_2_b2": 97,
+        "clase_3_b3": 97,
+        "clase_2_t2": 97,
+        "clase_3_t3": 97,
+        "clase_4_t4": 97,
+        "clase_5_t5": 97,
+        "clase_6_t6": 97,
+        "clase_7_t7": 97,
+        "clase_8_t8": 97,
+        "clase_9_t9": 97,
+        "clase_10_motocicleta": 68
+      }
+    },
+    {
+      "nombre": "Contepec A2",
+      "ubicacion": {
+        "latitud": 19.875531,
+        "longitud": -100.176711
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 98,
+        "clase_2_b2": 98,
+        "clase_3_b3": 98,
+        "clase_2_t2": 98,
+        "clase_3_t3": 98,
+        "clase_4_t4": 98,
+        "clase_5_t5": 98,
+        "clase_6_t6": 98,
+        "clase_7_t7": 98,
+        "clase_8_t8": 98,
+        "clase_9_t9": 98,
+        "clase_10_motocicleta": 69
+      }
+    },
+    {
+      "nombre": "San Juanico",
+      "ubicacion": {
+        "latitud": 19.830719,
+        "longitud": -99.905209
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 99,
+        "clase_2_b2": 99,
+        "clase_3_b3": 99,
+        "clase_2_t2": 99,
+        "clase_3_t3": 99,
+        "clase_4_t4": 99,
+        "clase_5_t5": 99,
+        "clase_6_t6": 99,
+        "clase_7_t7": 99,
+        "clase_8_t8": 99,
+        "clase_9_t9": 99,
+        "clase_10_motocicleta": 70
+      }
+    },
+    {
+      "nombre": "Dr. Coss",
+      "ubicacion": {
+        "latitud": 25.813509,
+        "longitud": -99.169588
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 100,
+        "clase_2_b2": 100,
+        "clase_3_b3": 100,
+        "clase_2_t2": 100,
+        "clase_3_t3": 100,
+        "clase_4_t4": 100,
+        "clase_5_t5": 100,
+        "clase_6_t6": 100,
+        "clase_7_t7": 100,
+        "clase_8_t8": 100,
+        "clase_9_t9": 100,
+        "clase_10_motocicleta": 71
+      }
+    },
+    {
+      "nombre": "General Bravo",
+      "ubicacion": {
+        "latitud": 25.813509,
+        "longitud": -99.169588
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 101,
+        "clase_2_b2": 101,
+        "clase_3_b3": 101,
+        "clase_2_t2": 101,
+        "clase_3_t3": 101,
+        "clase_4_t4": 101,
+        "clase_5_t5": 101,
+        "clase_6_t6": 101,
+        "clase_7_t7": 101,
+        "clase_8_t8": 101,
+        "clase_9_t9": 101,
+        "clase_10_motocicleta": 72
+      }
+    },
+    {
+      "nombre": "Los Herreras",
+      "ubicacion": {
+        "latitud": 25.757295,
+        "longitud": -99.373856
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 103,
+        "clase_2_b2": 103,
+        "clase_3_b3": 103,
+        "clase_2_t2": 103,
+        "clase_3_t3": 103,
+        "clase_4_t4": 103,
+        "clase_5_t5": 103,
+        "clase_6_t6": 103,
+        "clase_7_t7": 103,
+        "clase_8_t8": 103,
+        "clase_9_t9": 103,
+        "clase_10_motocicleta": 74
+      }
+    },
+    {
+      "nombre": "Los Ramones",
+      "ubicacion": {
+        "latitud": 25.656016,
+        "longitud": -99.631035
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 105,
+        "clase_2_b2": 105,
+        "clase_3_b3": 105,
+        "clase_2_t2": 105,
+        "clase_3_t3": 105,
+        "clase_4_t4": 105,
+        "clase_5_t5": 105,
+        "clase_6_t6": 105,
+        "clase_7_t7": 105,
+        "clase_8_t8": 105,
+        "clase_9_t9": 105,
+        "clase_10_motocicleta": 76
+      }
+    },
+    {
+      "nombre": "Altavista",
+      "ubicacion": {
+        "latitud": 27.730842,
+        "longitud": -105.197882
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 107,
+        "clase_2_b2": 107,
+        "clase_3_b3": 107,
+        "clase_2_t2": 107,
+        "clase_3_t3": 107,
+        "clase_4_t4": 107,
+        "clase_5_t5": 107,
+        "clase_6_t6": 107,
+        "clase_7_t7": 107,
+        "clase_8_t8": 107,
+        "clase_9_t9": 107,
+        "clase_10_motocicleta": 78
+      }
+    },
+    {
+      "nombre": "Saucillo",
+      "ubicacion": {
+        "latitud": 28.04638,
+        "longitud": -105.329342
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 108,
+        "clase_2_b2": 108,
+        "clase_3_b3": 108,
+        "clase_2_t2": 108,
+        "clase_3_t3": 108,
+        "clase_4_t4": 108,
+        "clase_5_t5": 108,
+        "clase_6_t6": 108,
+        "clase_7_t7": 108,
+        "clase_8_t8": 108,
+        "clase_9_t9": 108,
+        "clase_10_motocicleta": 79
+      }
+    },
+    {
+      "nombre": "La Antigua",
+      "ubicacion": {
+        "latitud": 19.320385,
+        "longitud": -96.310715
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 109,
+        "clase_2_b2": 109,
+        "clase_3_b3": 109,
+        "clase_2_t2": 109,
+        "clase_3_t3": 109,
+        "clase_4_t4": 109,
+        "clase_5_t5": 109,
+        "clase_6_t6": 109,
+        "clase_7_t7": 109,
+        "clase_8_t8": 109,
+        "clase_9_t9": 109,
+        "clase_10_motocicleta": 80
+      }
+    },
+    {
+      "nombre": "San Julián",
+      "ubicacion": {
+        "latitud": 19.239276,
+        "longitud": -96.257899
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 110,
+        "clase_2_b2": 110,
+        "clase_3_b3": 110,
+        "clase_2_t2": 110,
+        "clase_3_t3": 110,
+        "clase_4_t4": 110,
+        "clase_5_t5": 110,
+        "clase_6_t6": 110,
+        "clase_7_t7": 110,
+        "clase_8_t8": 110,
+        "clase_9_t9": 110,
+        "clase_10_motocicleta": 81
+      }
+    },
+    {
+      "nombre": "Zacatecas",
+      "ubicacion": {
+        "latitud": 22.710779,
+        "longitud": -102.448879
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 111,
+        "clase_2_b2": 111,
+        "clase_3_b3": 111,
+        "clase_2_t2": 111,
+        "clase_3_t3": 111,
+        "clase_4_t4": 111,
+        "clase_5_t5": 111,
+        "clase_6_t6": 111,
+        "clase_7_t7": 111,
+        "clase_8_t8": 111,
+        "clase_9_t9": 111,
+        "clase_10_motocicleta": 82
+      }
+    },
+    {
+      "nombre": "Fortín",
+      "ubicacion": {
+        "latitud": 18.907151,
+        "longitud": -96.999524
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 112,
+        "clase_2_b2": 112,
+        "clase_3_b3": 112,
+        "clase_2_t2": 112,
+        "clase_3_t3": 112,
+        "clase_4_t4": 112,
+        "clase_5_t5": 112,
+        "clase_6_t6": 112,
+        "clase_7_t7": 112,
+        "clase_8_t8": 112,
+        "clase_9_t9": 112,
+        "clase_10_motocicleta": 83
+      }
+    },
+    {
+      "nombre": "Fortín Aux.",
+      "ubicacion": {
+        "latitud": 18.906565,
+        "longitud": -97.001589
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 113,
+        "clase_2_b2": 113,
+        "clase_3_b3": 113,
+        "clase_2_t2": 113,
+        "clase_3_t3": 113,
+        "clase_4_t4": 113,
+        "clase_5_t5": 113,
+        "clase_6_t6": 113,
+        "clase_7_t7": 113,
+        "clase_8_t8": 113,
+        "clase_9_t9": 113,
+        "clase_10_motocicleta": 84
+      }
+    },
+    {
+      "nombre": "San Mateo A1",
+      "ubicacion": {
+        "latitud": 19.487334,
+        "longitud": -99.309881
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 114,
+        "clase_2_b2": 114,
+        "clase_3_b3": 114,
+        "clase_2_t2": 114,
+        "clase_3_t3": 114,
+        "clase_4_t4": 114,
+        "clase_5_t5": 114,
+        "clase_6_t6": 114,
+        "clase_7_t7": 114,
+        "clase_8_t8": 114,
+        "clase_9_t9": 114,
+        "clase_10_motocicleta": 85
+      }
+    },
+    {
+      "nombre": "San Mateo A2",
+      "ubicacion": {
+        "latitud": 19.486228,
+        "longitud": -99.311503
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 115,
+        "clase_2_b2": 115,
+        "clase_3_b3": 115,
+        "clase_2_t2": 115,
+        "clase_3_t3": 115,
+        "clase_4_t4": 115,
+        "clase_5_t5": 115,
+        "clase_6_t6": 115,
+        "clase_7_t7": 115,
+        "clase_8_t8": 115,
+        "clase_9_t9": 115,
+        "clase_10_motocicleta": 86
+      }
+    },
+    {
+      "nombre": "San Mateo A3",
+      "ubicacion": {
+        "latitud": 19.487093,
+        "longitud": -99.310115
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 116,
+        "clase_2_b2": 116,
+        "clase_3_b3": 116,
+        "clase_2_t2": 116,
+        "clase_3_t3": 116,
+        "clase_4_t4": 116,
+        "clase_5_t5": 116,
+        "clase_6_t6": 116,
+        "clase_7_t7": 116,
+        "clase_8_t8": 116,
+        "clase_9_t9": 116,
+        "clase_10_motocicleta": 87
+      }
+    },
+    {
+      "nombre": "San Mateo A4",
+      "ubicacion": {
+        "latitud": 19.48819,
+        "longitud": -99.311068
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 117,
+        "clase_2_b2": 117,
+        "clase_3_b3": 117,
+        "clase_2_t2": 117,
+        "clase_3_t3": 117,
+        "clase_4_t4": 117,
+        "clase_5_t5": 117,
+        "clase_6_t6": 117,
+        "clase_7_t7": 117,
+        "clase_8_t8": 117,
+        "clase_9_t9": 117,
+        "clase_10_motocicleta": 88
+      }
+    },
+    {
+      "nombre": "Lomas Verdes",
+      "ubicacion": {
+        "latitud": 19.519198,
+        "longitud": -99.286355
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 118,
+        "clase_2_b2": 118,
+        "clase_3_b3": 118,
+        "clase_2_t2": 118,
+        "clase_3_t3": 118,
+        "clase_4_t4": 118,
+        "clase_5_t5": 118,
+        "clase_6_t6": 118,
+        "clase_7_t7": 118,
+        "clase_8_t8": 118,
+        "clase_9_t9": 118,
+        "clase_10_motocicleta": 89
+      }
+    },
+    {
+      "nombre": "Madín A1",
+      "ubicacion": {
+        "latitud": 19.544632,
+        "longitud": -99.277049
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 119,
+        "clase_2_b2": 119,
+        "clase_3_b3": 119,
+        "clase_2_t2": 119,
+        "clase_3_t3": 119,
+        "clase_4_t4": 119,
+        "clase_5_t5": 119,
+        "clase_6_t6": 119,
+        "clase_7_t7": 119,
+        "clase_8_t8": 119,
+        "clase_9_t9": 119,
+        "clase_10_motocicleta": 90
+      }
+    },
+    {
+      "nombre": "Madín A2",
+      "ubicacion": {
+        "latitud": 19.545601,
+        "longitud": -99.277405
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 120,
+        "clase_2_b2": 120,
+        "clase_3_b3": 120,
+        "clase_2_t2": 120,
+        "clase_3_t3": 120,
+        "clase_4_t4": 120,
+        "clase_5_t5": 120,
+        "clase_6_t6": 120,
+        "clase_7_t7": 120,
+        "clase_8_t8": 120,
+        "clase_9_t9": 120,
+        "clase_10_motocicleta": 91
+      }
+    },
+    {
+      "nombre": "Madín A3",
+      "ubicacion": {
+        "latitud": 19.548062,
+        "longitud": -99.276966
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 121,
+        "clase_2_b2": 121,
+        "clase_3_b3": 121,
+        "clase_2_t2": 121,
+        "clase_3_t3": 121,
+        "clase_4_t4": 121,
+        "clase_5_t5": 121,
+        "clase_6_t6": 121,
+        "clase_7_t7": 121,
+        "clase_8_t8": 121,
+        "clase_9_t9": 121,
+        "clase_10_motocicleta": 92
+      }
+    },
+    {
+      "nombre": "Madín A4",
+      "ubicacion": {
+        "latitud": 19.548788,
+        "longitud": -99.277298
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 122,
+        "clase_2_b2": 122,
+        "clase_3_b3": 122,
+        "clase_2_t2": 122,
+        "clase_3_t3": 122,
+        "clase_4_t4": 122,
+        "clase_5_t5": 122,
+        "clase_6_t6": 122,
+        "clase_7_t7": 122,
+        "clase_8_t8": 122,
+        "clase_9_t9": 122,
+        "clase_10_motocicleta": 93
+      }
+    },
+    {
+      "nombre": "Atizapán",
+      "ubicacion": {
+        "latitud": 19.582535,
+        "longitud": -99.271137
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 123,
+        "clase_2_b2": 123,
+        "clase_3_b3": 123,
+        "clase_2_t2": 123,
+        "clase_3_t3": 123,
+        "clase_4_t4": 123,
+        "clase_5_t5": 123,
+        "clase_6_t6": 123,
+        "clase_7_t7": 123,
+        "clase_8_t8": 123,
+        "clase_9_t9": 123,
+        "clase_10_motocicleta": 94
+      }
+    },
+    {
+      "nombre": "Lago de Guadalupe A1",
+      "ubicacion": {
+        "latitud": 19.608832,
+        "longitud": -99.237113
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 124,
+        "clase_2_b2": 124,
+        "clase_3_b3": 124,
+        "clase_2_t2": 124,
+        "clase_3_t3": 124,
+        "clase_4_t4": 124,
+        "clase_5_t5": 124,
+        "clase_6_t6": 124,
+        "clase_7_t7": 124,
+        "clase_8_t8": 124,
+        "clase_9_t9": 124,
+        "clase_10_motocicleta": 95
+      }
+    },
+    {
+      "nombre": "Lago de Guadalupe A2",
+      "ubicacion": {
+        "latitud": 19.60996,
+        "longitud": -99.236474
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 125,
+        "clase_2_b2": 125,
+        "clase_3_b3": 125,
+        "clase_2_t2": 125,
+        "clase_3_t3": 125,
+        "clase_4_t4": 125,
+        "clase_5_t5": 125,
+        "clase_6_t6": 125,
+        "clase_7_t7": 125,
+        "clase_8_t8": 125,
+        "clase_9_t9": 125,
+        "clase_10_motocicleta": 96
+      }
+    },
+    {
+      "nombre": "Seybaplaya",
+      "ubicacion": {
+        "latitud": 19.636259,
+        "longitud": -90.671564
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 126,
+        "clase_2_b2": 126,
+        "clase_3_b3": 126,
+        "clase_2_t2": 126,
+        "clase_3_t3": 126,
+        "clase_4_t4": 126,
+        "clase_5_t5": 126,
+        "clase_6_t6": 126,
+        "clase_7_t7": 126,
+        "clase_8_t8": 126,
+        "clase_9_t9": 126,
+        "clase_10_motocicleta": 97
+      }
+    },
+    {
+      "nombre": "Compostela",
+      "ubicacion": {
+        "latitud": 21.229472,
+        "longitud": -104.887417
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 129,
         "clase_2_b2": 129,
         "clase_3_b3": 129,
         "clase_2_t2": 129,
         "clase_3_t3": 129,
+        "clase_4_t4": 129,
+        "clase_5_t5": 129,
+        "clase_6_t6": 129,
+        "clase_7_t7": 129,
+        "clase_8_t8": 129,
+        "clase_9_t9": 129,
+        "clase_10_motocicleta": 100
+      }
+    },
+    {
+      "nombre": "Cuitláhuac",
+      "ubicacion": {
+        "latitud": 18.839454,
+        "longitud": -96.746941
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 130,
+        "clase_2_b2": 130,
+        "clase_3_b3": 130,
+        "clase_2_t2": 130,
+        "clase_3_t3": 130,
+        "clase_4_t4": 130,
+        "clase_5_t5": 130,
+        "clase_6_t6": 130,
+        "clase_7_t7": 130,
+        "clase_8_t8": 130,
+        "clase_9_t9": 130,
+        "clase_10_motocicleta": 101
+      }
+    },
+    {
+      "nombre": "Cuitláhuac A1",
+      "ubicacion": {
+        "latitud": 18.839314,
+        "longitud": -96.746978
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 131,
+        "clase_2_b2": 131,
+        "clase_3_b3": 131,
+        "clase_2_t2": 131,
+        "clase_3_t3": 131,
+        "clase_4_t4": 131,
+        "clase_5_t5": 131,
+        "clase_6_t6": 131,
+        "clase_7_t7": 131,
+        "clase_8_t8": 131,
+        "clase_9_t9": 131,
+        "clase_10_motocicleta": 102
+      }
+    },
+    {
+      "nombre": "Cuitláhuac A1-2",
+      "ubicacion": {
+        "latitud": 18.839604,
+        "longitud": -96.746905
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 132,
+        "clase_2_b2": 132,
+        "clase_3_b3": 132,
+        "clase_2_t2": 132,
+        "clase_3_t3": 132,
+        "clase_4_t4": 132,
+        "clase_5_t5": 132,
+        "clase_6_t6": 132,
+        "clase_7_t7": 132,
+        "clase_8_t8": 132,
+        "clase_9_t9": 132,
+        "clase_10_motocicleta": 103
+      }
+    },
+    {
+      "nombre": "Cuitláhuac A2-1",
+      "ubicacion": {
+        "latitud": 18.837511,
+        "longitud": -96.737458
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 133,
+        "clase_2_b2": 133,
+        "clase_3_b3": 133,
+        "clase_2_t2": 133,
+        "clase_3_t3": 133,
+        "clase_4_t4": 133,
+        "clase_5_t5": 133,
+        "clase_6_t6": 133,
+        "clase_7_t7": 133,
+        "clase_8_t8": 133,
+        "clase_9_t9": 133,
+        "clase_10_motocicleta": 104
+      }
+    },
+    {
+      "nombre": "Cuitláhuac A2-2",
+      "ubicacion": {
+        "latitud": 18.83865,
+        "longitud": -96.739512
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 134,
+        "clase_2_b2": 134,
+        "clase_3_b3": 134,
+        "clase_2_t2": 134,
+        "clase_3_t3": 134,
+        "clase_4_t4": 134,
+        "clase_5_t5": 134,
+        "clase_6_t6": 134,
+        "clase_7_t7": 134,
+        "clase_8_t8": 134,
+        "clase_9_t9": 134,
+        "clase_10_motocicleta": 105
+      }
+    },
+    {
+      "nombre": "Paso del Toro",
+      "ubicacion": {
+        "latitud": 19.081747,
+        "longitud": -96.198438
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 135,
+        "clase_2_b2": 135,
+        "clase_3_b3": 135,
+        "clase_2_t2": 135,
+        "clase_3_t3": 135,
+        "clase_4_t4": 135,
+        "clase_5_t5": 135,
+        "clase_6_t6": 135,
+        "clase_7_t7": 135,
+        "clase_8_t8": 135,
+        "clase_9_t9": 135,
+        "clase_10_motocicleta": 106
+      }
+    },
+    {
+      "nombre": "Huitzo",
+      "ubicacion": {
+        "latitud": 17.275026,
+        "longitud": -96.915277
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 138,
+        "clase_2_b2": 138,
+        "clase_3_b3": 138,
+        "clase_2_t2": 138,
+        "clase_3_t3": 138,
+        "clase_4_t4": 138,
+        "clase_5_t5": 138,
+        "clase_6_t6": 138,
+        "clase_7_t7": 138,
+        "clase_8_t8": 138,
+        "clase_9_t9": 138,
+        "clase_10_motocicleta": 109
+      }
+    },
+    {
+      "nombre": "Huitzo A1",
+      "ubicacion": {
+        "latitud": 17.278761,
+        "longitud": -96.914652
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 140,
+        "clase_2_b2": 140,
+        "clase_3_b3": 140,
+        "clase_2_t2": 140,
+        "clase_3_t3": 140,
+        "clase_4_t4": 140,
+        "clase_5_t5": 140,
+        "clase_6_t6": 140,
+        "clase_7_t7": 140,
+        "clase_8_t8": 140,
+        "clase_9_t9": 140,
+        "clase_10_motocicleta": 111
+      }
+    },
+    {
+      "nombre": "Miahuatlán",
+      "ubicacion": {
+        "latitud": 18.264673,
+        "longitud": -97.315627
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 141,
+        "clase_2_b2": 141,
+        "clase_3_b3": 141,
+        "clase_2_t2": 141,
+        "clase_3_t3": 141,
+        "clase_4_t4": 141,
+        "clase_5_t5": 141,
+        "clase_6_t6": 141,
+        "clase_7_t7": 141,
+        "clase_8_t8": 141,
+        "clase_9_t9": 141,
+        "clase_10_motocicleta": 112
+      }
+    },
+    {
+      "nombre": "Coixtlahuaca A1",
+      "ubicacion": {
+        "latitud": 17.726023,
+        "longitud": -97.353773
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 142,
+        "clase_2_b2": 142,
+        "clase_3_b3": 142,
+        "clase_2_t2": 142,
+        "clase_3_t3": 142,
+        "clase_4_t4": 142,
+        "clase_5_t5": 142,
+        "clase_6_t6": 142,
+        "clase_7_t7": 142,
+        "clase_8_t8": 142,
+        "clase_9_t9": 142,
+        "clase_10_motocicleta": 113
+      }
+    },
+    {
+      "nombre": "Coixtlahuaca",
+      "ubicacion": {
+        "latitud": 17.725859,
+        "longitud": -97.352916
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 143,
+        "clase_2_b2": 143,
+        "clase_3_b3": 143,
+        "clase_2_t2": 143,
+        "clase_3_t3": 143,
+        "clase_4_t4": 143,
+        "clase_5_t5": 143,
+        "clase_6_t6": 143,
+        "clase_7_t7": 143,
+        "clase_8_t8": 143,
+        "clase_9_t9": 143,
+        "clase_10_motocicleta": 114
+      }
+    },
+    {
+      "nombre": "Tehuacán",
+      "ubicacion": {
+        "latitud": 18.487127,
+        "longitud": -97.456212
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 144,
+        "clase_2_b2": 144,
+        "clase_3_b3": 144,
+        "clase_2_t2": 144,
+        "clase_3_t3": 144,
+        "clase_4_t4": 144,
+        "clase_5_t5": 144,
+        "clase_6_t6": 144,
+        "clase_7_t7": 144,
+        "clase_8_t8": 144,
+        "clase_9_t9": 144,
+        "clase_10_motocicleta": 115
+      }
+    },
+    {
+      "nombre": "Aeropuerto A1",
+      "ubicacion": {
+        "latitud": 18.802293,
+        "longitud": -99.221241
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 145,
+        "clase_2_b2": 145,
+        "clase_3_b3": 145,
+        "clase_2_t2": 145,
+        "clase_3_t3": 145,
+        "clase_4_t4": 145,
+        "clase_5_t5": 145,
+        "clase_6_t6": 145,
+        "clase_7_t7": 145,
+        "clase_8_t8": 145,
+        "clase_9_t9": 145,
+        "clase_10_motocicleta": 116
+      }
+    },
+    {
+      "nombre": "Aeropuerto A2",
+      "ubicacion": {
+        "latitud": 18.802741,
+        "longitud": -99.219852
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 146,
+        "clase_2_b2": 146,
+        "clase_3_b3": 146,
+        "clase_2_t2": 146,
+        "clase_3_t3": 146,
+        "clase_4_t4": 146,
+        "clase_5_t5": 146,
+        "clase_6_t6": 146,
+        "clase_7_t7": 146,
+        "clase_8_t8": 146,
+        "clase_9_t9": 146,
+        "clase_10_motocicleta": 117
+      }
+    },
+    {
+      "nombre": "Alpuyeca",
+      "ubicacion": {
+        "latitud": 18.69853,
+        "longitud": -99.278053
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 147,
+        "clase_2_b2": 147,
+        "clase_3_b3": 147,
+        "clase_2_t2": 147,
+        "clase_3_t3": 147,
+        "clase_4_t4": 147,
+        "clase_5_t5": 147,
+        "clase_6_t6": 147,
+        "clase_7_t7": 147,
+        "clase_8_t8": 147,
+        "clase_9_t9": 147,
+        "clase_10_motocicleta": 118
+      }
+    },
+    {
+      "nombre": "Alpuyeca A1",
+      "ubicacion": {
+        "latitud": 18.723779,
+        "longitud": -99.260215
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 148,
+        "clase_2_b2": 148,
+        "clase_3_b3": 148,
+        "clase_2_t2": 148,
+        "clase_3_t3": 148,
+        "clase_4_t4": 148,
+        "clase_5_t5": 148,
+        "clase_6_t6": 148,
+        "clase_7_t7": 148,
+        "clase_8_t8": 148,
+        "clase_9_t9": 148,
+        "clase_10_motocicleta": 119
+      }
+    },
+    {
+      "nombre": "Alpuyeca A2",
+      "ubicacion": {
+        "latitud": 18.722419,
+        "longitud": -99.259948
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 149,
+        "clase_2_b2": 149,
+        "clase_3_b3": 149,
+        "clase_2_t2": 149,
+        "clase_3_t3": 149,
+        "clase_4_t4": 149,
+        "clase_5_t5": 149,
+        "clase_6_t6": 149,
+        "clase_7_t7": 149,
+        "clase_8_t8": 149,
+        "clase_9_t9": 149,
+        "clase_10_motocicleta": 120
+      }
+    },
+    {
+      "nombre": "D.I.E.Z.",
+      "ubicacion": {
+        "latitud": 18.8375,
+        "longitud": -99.21537
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 150,
+        "clase_2_b2": 150,
+        "clase_3_b3": 150,
+        "clase_2_t2": 150,
+        "clase_3_t3": 150,
+        "clase_4_t4": 150,
+        "clase_5_t5": 150,
+        "clase_6_t6": 150,
+        "clase_7_t7": 150,
+        "clase_8_t8": 150,
+        "clase_9_t9": 150,
+        "clase_10_motocicleta": 121
+      }
+    },
+    {
+      "nombre": "La Venta",
+      "ubicacion": {
+        "latitud": 16.928256,
+        "longitud": -99.801892
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 151,
+        "clase_2_b2": 151,
+        "clase_3_b3": 151,
+        "clase_2_t2": 151,
+        "clase_3_t3": 151,
+        "clase_4_t4": 151,
+        "clase_5_t5": 151,
+        "clase_6_t6": 151,
+        "clase_7_t7": 151,
+        "clase_8_t8": 151,
+        "clase_9_t9": 151,
+        "clase_10_motocicleta": 122
+      }
+    },
+    {
+      "nombre": "Palo Blanco",
+      "ubicacion": {
+        "latitud": 17.423967,
+        "longitud": -99.466861
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 152,
+        "clase_2_b2": 152,
+        "clase_3_b3": 152,
+        "clase_2_t2": 152,
+        "clase_3_t3": 152,
+        "clase_4_t4": 152,
+        "clase_5_t5": 152,
+        "clase_6_t6": 152,
+        "clase_7_t7": 152,
+        "clase_8_t8": 152,
+        "clase_9_t9": 152,
+        "clase_10_motocicleta": 123
+      }
+    },
+    {
+      "nombre": "Paso Morelos",
+      "ubicacion": {
+        "latitud": 18.231465,
+        "longitud": -99.215466
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 153,
+        "clase_2_b2": 153,
+        "clase_3_b3": 153,
+        "clase_2_t2": 153,
+        "clase_3_t3": 153,
+        "clase_4_t4": 153,
+        "clase_5_t5": 153,
+        "clase_6_t6": 153,
+        "clase_7_t7": 153,
+        "clase_8_t8": 153,
+        "clase_9_t9": 153,
+        "clase_10_motocicleta": 124
+      }
+    },
+    {
+      "nombre": "Xochitepec",
+      "ubicacion": {
+        "latitud": 18.774978,
+        "longitud": -99.225314
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 156,
+        "clase_2_b2": 156,
+        "clase_3_b3": 156,
+        "clase_2_t2": 156,
+        "clase_3_t3": 156,
+        "clase_4_t4": 156,
+        "clase_5_t5": 156,
+        "clase_6_t6": 156,
+        "clase_7_t7": 156,
+        "clase_8_t8": 156,
+        "clase_9_t9": 156,
+        "clase_10_motocicleta": 127
+      }
+    },
+    {
+      "nombre": "Garavitos",
+      "ubicacion": {
+        "latitud": 24.004477,
+        "longitud": -104.736419
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 158,
+        "clase_2_b2": 158,
+        "clase_3_b3": 158,
+        "clase_2_t2": 158,
+        "clase_3_t3": 158,
+        "clase_4_t4": 158,
+        "clase_5_t5": 158,
+        "clase_6_t6": 158,
+        "clase_7_t7": 158,
+        "clase_8_t8": 158,
+        "clase_9_t9": 158,
+        "clase_10_motocicleta": 129
+      }
+    },
+    {
+      "nombre": "Llano Grande",
+      "ubicacion": {
+        "latitud": 23.868815,
+        "longitud": -105.203958
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 159,
+        "clase_2_b2": 159,
+        "clase_3_b3": 159,
+        "clase_2_t2": 159,
+        "clase_3_t3": 159,
+        "clase_4_t4": 159,
+        "clase_5_t5": 159,
+        "clase_6_t6": 159,
+        "clase_7_t7": 159,
+        "clase_8_t8": 159,
+        "clase_9_t9": 159,
+        "clase_10_motocicleta": 130
+      }
+    },
+    {
+      "nombre": "Mesillas",
+      "ubicacion": {
+        "latitud": 23.259302,
+        "longitud": -106.049587
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 160,
+        "clase_2_b2": 160,
+        "clase_3_b3": 160,
+        "clase_2_t2": 160,
+        "clase_3_t3": 160,
+        "clase_4_t4": 160,
+        "clase_5_t5": 160,
+        "clase_6_t6": 160,
+        "clase_7_t7": 160,
+        "clase_8_t8": 160,
+        "clase_9_t9": 160,
+        "clase_10_motocicleta": 131
+      }
+    },
+    {
+      "nombre": "Durango",
+      "ubicacion": {
+        "latitud": 24.131735,
+        "longitud": -104.534058
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 161,
+        "clase_2_b2": 161,
+        "clase_3_b3": 161,
+        "clase_2_t2": 161,
+        "clase_3_t3": 161,
+        "clase_4_t4": 161,
+        "clase_5_t5": 161,
+        "clase_6_t6": 161,
+        "clase_7_t7": 161,
+        "clase_8_t8": 161,
+        "clase_9_t9": 161,
+        "clase_10_motocicleta": 132
+      }
+    },
+    {
+      "nombre": "Yerbanís",
+      "ubicacion": {
+        "latitud": 24.730769,
+        "longitud": -103.861923
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 162,
+        "clase_2_b2": 162,
+        "clase_3_b3": 162,
+        "clase_2_t2": 162,
+        "clase_3_t3": 162,
+        "clase_4_t4": 162,
+        "clase_5_t5": 162,
+        "clase_6_t6": 162,
+        "clase_7_t7": 162,
+        "clase_8_t8": 162,
+        "clase_9_t9": 162,
+        "clase_10_motocicleta": 133
+      }
+    },
+    {
+      "nombre": "Ecatepec",
+      "ubicacion": {
+        "latitud": 19.611707,
+        "longitud": -99.025732
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 163,
+        "clase_2_b2": 163,
+        "clase_3_b3": 163,
+        "clase_2_t2": 163,
+        "clase_3_t3": 163,
+        "clase_4_t4": 163,
+        "clase_5_t5": 163,
+        "clase_6_t6": 163,
+        "clase_7_t7": 163,
+        "clase_8_t8": 163,
+        "clase_9_t9": 163,
+        "clase_10_motocicleta": 134
+      }
+    },
+    {
+      "nombre": "Tepexpan",
+      "ubicacion": {
+        "latitud": NaN,
+        "longitud": NaN
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 164,
+        "clase_2_b2": 164,
+        "clase_3_b3": 164,
+        "clase_2_t2": 164,
+        "clase_3_t3": 164,
+        "clase_4_t4": 164,
+        "clase_5_t5": 164,
+        "clase_6_t6": 164,
+        "clase_7_t7": 164,
+        "clase_8_t8": 164,
+        "clase_9_t9": 164,
+        "clase_10_motocicleta": 135
+      }
+    },
+    {
+      "nombre": "La Rumorosa",
+      "ubicacion": {
+        "latitud": 32.562633,
+        "longitud": -116.047931
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 165,
+        "clase_2_b2": 165,
+        "clase_3_b3": 165,
+        "clase_2_t2": 165,
+        "clase_3_t3": 165,
+        "clase_4_t4": 165,
+        "clase_5_t5": 165,
+        "clase_6_t6": 165,
+        "clase_7_t7": 165,
+        "clase_8_t8": 165,
+        "clase_9_t9": 165,
+        "clase_10_motocicleta": 136
+      }
+    },
+    {
+      "nombre": "La Rumorosa 2",
+      "ubicacion": {
+        "latitud": 32.555877,
+        "longitud": -116.036431
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 166,
+        "clase_2_b2": 166,
+        "clase_3_b3": 166,
+        "clase_2_t2": 166,
+        "clase_3_t3": 166,
+        "clase_4_t4": 166,
+        "clase_5_t5": 166,
+        "clase_6_t6": 166,
+        "clase_7_t7": 166,
+        "clase_8_t8": 166,
+        "clase_9_t9": 166,
+        "clase_10_motocicleta": 137
+      }
+    },
+    {
+      "nombre": "Villa Ahumada",
+      "ubicacion": {
+        "latitud": 30.437079,
+        "longitud": -106.52185
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 167,
+        "clase_2_b2": 167,
+        "clase_3_b3": 167,
+        "clase_2_t2": 167,
+        "clase_3_t3": 167,
+        "clase_4_t4": 167,
+        "clase_5_t5": 167,
+        "clase_6_t6": 167,
+        "clase_7_t7": 167,
+        "clase_8_t8": 167,
+        "clase_9_t9": 167,
+        "clase_10_motocicleta": 138
+      }
+    },
+    {
+      "nombre": "Ensenada",
+      "ubicacion": {
+        "latitud": 31.903121,
+        "longitud": -116.732727
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 168,
+        "clase_2_b2": 168,
+        "clase_3_b3": 168,
+        "clase_2_t2": 168,
+        "clase_3_t3": 168,
+        "clase_4_t4": 168,
+        "clase_5_t5": 168,
+        "clase_6_t6": 168,
+        "clase_7_t7": 168,
+        "clase_8_t8": 168,
+        "clase_9_t9": 168,
+        "clase_10_motocicleta": 139
+      }
+    },
+    {
+      "nombre": "Playas de Tijuana",
+      "ubicacion": {
+        "latitud": 32.514036,
+        "longitud": -117.109538
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 169,
+        "clase_2_b2": 169,
+        "clase_3_b3": 169,
+        "clase_2_t2": 169,
+        "clase_3_t3": 169,
+        "clase_4_t4": 169,
+        "clase_5_t5": 169,
+        "clase_6_t6": 169,
+        "clase_7_t7": 169,
+        "clase_8_t8": 169,
+        "clase_9_t9": 169,
+        "clase_10_motocicleta": 140
+      }
+    },
+    {
+      "nombre": "Rosarito",
+      "ubicacion": {
+        "latitud": 32.32425,
+        "longitud": -117.049016
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 170,
+        "clase_2_b2": 170,
+        "clase_3_b3": 170,
+        "clase_2_t2": 170,
+        "clase_3_t3": 170,
+        "clase_4_t4": 170,
+        "clase_5_t5": 170,
+        "clase_6_t6": 170,
+        "clase_7_t7": 170,
+        "clase_8_t8": 170,
+        "clase_9_t9": 170,
+        "clase_10_motocicleta": 141
+      }
+    },
+    {
+      "nombre": "Sánchez Magallanes",
+      "ubicacion": {
+        "latitud": 18.030565,
+        "longitud": -93.812954
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 171,
+        "clase_2_b2": 171,
+        "clase_3_b3": 171,
+        "clase_2_t2": 171,
+        "clase_3_t3": 171,
+        "clase_4_t4": 171,
+        "clase_5_t5": 171,
+        "clase_6_t6": 171,
+        "clase_7_t7": 171,
+        "clase_8_t8": 171,
+        "clase_9_t9": 171,
+        "clase_10_motocicleta": 142
+      }
+    },
+    {
+      "nombre": "Asunción",
+      "ubicacion": {
+        "latitud": 20.147427,
+        "longitud": -98.285747
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 174,
+        "clase_2_b2": 174,
+        "clase_3_b3": 174,
+        "clase_2_t2": 174,
+        "clase_3_t3": 174,
+        "clase_4_t4": 174,
+        "clase_5_t5": 174,
+        "clase_6_t6": 174,
+        "clase_7_t7": 174,
+        "clase_8_t8": 174,
+        "clase_9_t9": 174,
+        "clase_10_motocicleta": 145
+      }
+    },
+    {
+      "nombre": "Asunción A1",
+      "ubicacion": {
+        "latitud": 20.146458,
+        "longitud": -98.286939
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 175,
+        "clase_2_b2": 175,
+        "clase_3_b3": 175,
+        "clase_2_t2": 175,
+        "clase_3_t3": 175,
+        "clase_4_t4": 175,
+        "clase_5_t5": 175,
+        "clase_6_t6": 175,
+        "clase_7_t7": 175,
+        "clase_8_t8": 175,
+        "clase_9_t9": 175,
+        "clase_10_motocicleta": 146
+      }
+    },
+    {
+      "nombre": "Asunción A2",
+      "ubicacion": {
+        "latitud": 20.150099,
+        "longitud": -98.286642
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 176,
+        "clase_2_b2": 176,
+        "clase_3_b3": 176,
+        "clase_2_t2": 176,
+        "clase_3_t3": 176,
+        "clase_4_t4": 176,
+        "clase_5_t5": 176,
+        "clase_6_t6": 176,
+        "clase_7_t7": 176,
+        "clase_8_t8": 176,
+        "clase_9_t9": 176,
+        "clase_10_motocicleta": 147
+      }
+    },
+    {
+      "nombre": "Esperanza",
+      "ubicacion": {
+        "latitud": 27.603722,
+        "longitud": -109.93909
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 177,
+        "clase_2_b2": 177,
+        "clase_3_b3": 177,
+        "clase_2_t2": 177,
+        "clase_3_t3": 177,
+        "clase_4_t4": 177,
+        "clase_5_t5": 177,
+        "clase_6_t6": 177,
+        "clase_7_t7": 177,
+        "clase_8_t8": 177,
+        "clase_9_t9": 177,
+        "clase_10_motocicleta": 148
+      }
+    },
+    {
+      "nombre": "Fundición",
+      "ubicacion": {
+        "latitud": 27.320373,
+        "longitud": -109.719802
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 178,
+        "clase_2_b2": 178,
+        "clase_3_b3": 178,
+        "clase_2_t2": 178,
+        "clase_3_t3": 178,
+        "clase_4_t4": 178,
+        "clase_5_t5": 178,
+        "clase_6_t6": 178,
+        "clase_7_t7": 178,
+        "clase_8_t8": 178,
+        "clase_9_t9": 178,
+        "clase_10_motocicleta": 149
+      }
+    },
+    {
+      "nombre": "Guaymas",
+      "ubicacion": {
+        "latitud": 28.036494,
+        "longitud": -110.924164
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 179,
+        "clase_2_b2": 179,
+        "clase_3_b3": 179,
+        "clase_2_t2": 179,
+        "clase_3_t3": 179,
+        "clase_4_t4": 179,
+        "clase_5_t5": 179,
+        "clase_6_t6": 179,
+        "clase_7_t7": 179,
+        "clase_8_t8": 179,
+        "clase_9_t9": 179,
+        "clase_10_motocicleta": 150
+      }
+    },
+    {
+      "nombre": "Hermosillo",
+      "ubicacion": {
+        "latitud": 29.220733,
+        "longitud": -110.930184
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 180,
+        "clase_2_b2": 180,
+        "clase_3_b3": 180,
+        "clase_2_t2": 180,
+        "clase_3_t3": 180,
+        "clase_4_t4": 180,
+        "clase_5_t5": 180,
+        "clase_6_t6": 180,
+        "clase_7_t7": 180,
+        "clase_8_t8": 180,
+        "clase_9_t9": 180,
+        "clase_10_motocicleta": 151
+      }
+    },
+    {
+      "nombre": "La Jaula",
+      "ubicacion": {
+        "latitud": 26.849818,
+        "longitud": -109.373311
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 181,
+        "clase_2_b2": 181,
+        "clase_3_b3": 181,
+        "clase_2_t2": 181,
+        "clase_3_t3": 181,
+        "clase_4_t4": 181,
+        "clase_5_t5": 181,
+        "clase_6_t6": 181,
+        "clase_7_t7": 181,
+        "clase_8_t8": 181,
+        "clase_9_t9": 181,
+        "clase_10_motocicleta": 152
+      }
+    },
+    {
+      "nombre": "Magdalena",
+      "ubicacion": {
+        "latitud": 30.629274,
+        "longitud": -110.948775
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 182,
+        "clase_2_b2": 182,
+        "clase_3_b3": 182,
+        "clase_2_t2": 182,
+        "clase_3_t3": 182,
+        "clase_4_t4": 182,
+        "clase_5_t5": 182,
+        "clase_6_t6": 182,
+        "clase_7_t7": 182,
+        "clase_8_t8": 182,
+        "clase_9_t9": 182,
+        "clase_10_motocicleta": 153
+      }
+    },
+    {
+      "nombre": "Bermejillo",
+      "ubicacion": {
+        "latitud": 25.923655,
+        "longitud": -103.622077
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 183,
+        "clase_2_b2": 183,
+        "clase_3_b3": 183,
+        "clase_2_t2": 183,
+        "clase_3_t3": 183,
+        "clase_4_t4": 183,
+        "clase_5_t5": 183,
+        "clase_6_t6": 183,
+        "clase_7_t7": 183,
+        "clase_8_t8": 183,
+        "clase_9_t9": 183,
+        "clase_10_motocicleta": 154
+      }
+    },
+    {
+      "nombre": "Ceballos",
+      "ubicacion": {
+        "latitud": 26.586694,
+        "longitud": -104.057726
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 184,
+        "clase_2_b2": 184,
+        "clase_3_b3": 184,
+        "clase_2_t2": 184,
+        "clase_3_t3": 184,
+        "clase_4_t4": 184,
+        "clase_5_t5": 184,
+        "clase_6_t6": 184,
+        "clase_7_t7": 184,
+        "clase_8_t8": 184,
+        "clase_9_t9": 184,
+        "clase_10_motocicleta": 155
+      }
+    },
+    {
+      "nombre": "Acatlán",
+      "ubicacion": {
+        "latitud": 20.415926,
+        "longitud": -103.55704
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 185,
+        "clase_2_b2": 185,
+        "clase_3_b3": 185,
+        "clase_2_t2": 185,
+        "clase_3_t3": 185,
+        "clase_4_t4": 185,
+        "clase_5_t5": 185,
+        "clase_6_t6": 185,
+        "clase_7_t7": 185,
+        "clase_8_t8": 185,
+        "clase_9_t9": 185,
+        "clase_10_motocicleta": 156
+      }
+    },
+    {
+      "nombre": "San Marcos",
+      "ubicacion": {
+        "latitud": 19.433636,
+        "longitud": -103.49487
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 186,
+        "clase_2_b2": 186,
+        "clase_3_b3": 186,
+        "clase_2_t2": 186,
+        "clase_3_t3": 186,
+        "clase_4_t4": 186,
+        "clase_5_t5": 186,
+        "clase_6_t6": 186,
+        "clase_7_t7": 186,
+        "clase_8_t8": 186,
+        "clase_9_t9": 186,
+        "clase_10_motocicleta": 157
+      }
+    },
+    {
+      "nombre": "Arenal",
+      "ubicacion": {
+        "latitud": 20.778748,
+        "longitud": -103.662386
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 187,
+        "clase_2_b2": 187,
+        "clase_3_b3": 187,
+        "clase_2_t2": 187,
+        "clase_3_t3": 187,
+        "clase_4_t4": 187,
+        "clase_5_t5": 187,
+        "clase_6_t6": 187,
+        "clase_7_t7": 187,
+        "clase_8_t8": 187,
+        "clase_9_t9": 187,
+        "clase_10_motocicleta": 158
+      }
+    },
+    {
+      "nombre": "Plan de Barrancas",
+      "ubicacion": {
+        "latitud": 21.005379,
+        "longitud": -104.144084
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 188,
+        "clase_2_b2": 188,
+        "clase_3_b3": 188,
+        "clase_2_t2": 188,
+        "clase_3_t3": 188,
+        "clase_4_t4": 188,
+        "clase_5_t5": 188,
+        "clase_6_t6": 188,
+        "clase_7_t7": 188,
+        "clase_8_t8": 188,
+        "clase_9_t9": 188,
+        "clase_10_motocicleta": 159
+      }
+    },
+    {
+      "nombre": "Santa María del Oro",
+      "ubicacion": {
+        "latitud": 21.328268,
+        "longitud": -104.664406
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 189,
+        "clase_2_b2": 189,
+        "clase_3_b3": 189,
+        "clase_2_t2": 189,
+        "clase_3_t3": 189,
+        "clase_4_t4": 189,
+        "clase_5_t5": 189,
+        "clase_6_t6": 189,
+        "clase_7_t7": 189,
+        "clase_8_t8": 189,
+        "clase_9_t9": 189,
+        "clase_10_motocicleta": 160
+      }
+    },
+    {
+      "nombre": "Santa María A1",
+      "ubicacion": {
+        "latitud": 21.327973,
+        "longitud": -104.663151
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 190,
+        "clase_2_b2": 190,
+        "clase_3_b3": 190,
+        "clase_2_t2": 190,
+        "clase_3_t3": 190,
+        "clase_4_t4": 190,
+        "clase_5_t5": 190,
+        "clase_6_t6": 190,
+        "clase_7_t7": 190,
+        "clase_8_t8": 190,
+        "clase_9_t9": 190,
+        "clase_10_motocicleta": 161
+      }
+    },
+    {
+      "nombre": "Santa María A2",
+      "ubicacion": {
+        "latitud": 21.327052,
+        "longitud": -104.664677
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 191,
+        "clase_2_b2": 191,
+        "clase_3_b3": 191,
+        "clase_2_t2": 191,
+        "clase_3_t3": 191,
+        "clase_4_t4": 191,
+        "clase_5_t5": 191,
+        "clase_6_t6": 191,
+        "clase_7_t7": 191,
+        "clase_8_t8": 191,
+        "clase_9_t9": 191,
+        "clase_10_motocicleta": 162
+      }
+    },
+    {
+      "nombre": "Tequepexpan A1",
+      "ubicacion": {
+        "latitud": 21.213906,
+        "longitud": -104.592673
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 192,
+        "clase_2_b2": 192,
+        "clase_3_b3": 192,
+        "clase_2_t2": 192,
+        "clase_3_t3": 192,
+        "clase_4_t4": 192,
+        "clase_5_t5": 192,
+        "clase_6_t6": 192,
+        "clase_7_t7": 192,
+        "clase_8_t8": 192,
+        "clase_9_t9": 192,
+        "clase_10_motocicleta": 163
+      }
+    },
+    {
+      "nombre": "Tequepexpan A2",
+      "ubicacion": {
+        "latitud": 21.213664,
+        "longitud": -104.594174
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 193,
+        "clase_2_b2": 193,
+        "clase_3_b3": 193,
+        "clase_2_t2": 193,
+        "clase_3_t3": 193,
+        "clase_4_t4": 193,
+        "clase_5_t5": 193,
+        "clase_6_t6": 193,
+        "clase_7_t7": 193,
+        "clase_8_t8": 193,
+        "clase_9_t9": 193,
+        "clase_10_motocicleta": 164
+      }
+    },
+    {
+      "nombre": "Tequila",
+      "ubicacion": {
+        "latitud": 20.854129,
+        "longitud": -103.861211
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 194,
+        "clase_2_b2": 194,
+        "clase_3_b3": 194,
+        "clase_2_t2": 194,
+        "clase_3_t3": 194,
+        "clase_4_t4": 194,
+        "clase_5_t5": 194,
+        "clase_6_t6": 194,
+        "clase_7_t7": 194,
+        "clase_8_t8": 194,
+        "clase_9_t9": 194,
+        "clase_10_motocicleta": 165
+      }
+    },
+    {
+      "nombre": "La Joya",
+      "ubicacion": {
+        "latitud": 20.604788,
+        "longitud": -103.138943
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 195,
+        "clase_2_b2": 195,
+        "clase_3_b3": 195,
+        "clase_2_t2": 195,
+        "clase_3_t3": 195,
+        "clase_4_t4": 195,
+        "clase_5_t5": 195,
+        "clase_6_t6": 195,
+        "clase_7_t7": 195,
+        "clase_8_t8": 195,
+        "clase_9_t9": 195,
+        "clase_10_motocicleta": 166
+      }
+    },
+    {
+      "nombre": "Cazones1",
+      "ubicacion": {
+        "latitud": 20.469874,
+        "longitud": -97.254669
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 196,
+        "clase_2_b2": 196,
+        "clase_3_b3": 196,
+        "clase_2_t2": 196,
+        "clase_3_t3": 196,
+        "clase_4_t4": 196,
+        "clase_5_t5": 196,
+        "clase_6_t6": 196,
+        "clase_7_t7": 196,
+        "clase_8_t8": 196,
+        "clase_9_t9": 196,
+        "clase_10_motocicleta": 167
+      }
+    },
+    {
+      "nombre": "Cazones2",
+      "ubicacion": {
+        "latitud": NaN,
+        "longitud": NaN
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 197,
+        "clase_2_b2": 197,
+        "clase_3_b3": 197,
+        "clase_2_t2": 197,
+        "clase_3_t3": 197,
+        "clase_4_t4": 197,
+        "clase_5_t5": 197,
+        "clase_6_t6": 197,
+        "clase_7_t7": 197,
+        "clase_8_t8": 197,
+        "clase_9_t9": 197,
+        "clase_10_motocicleta": 168
+      }
+    },
+    {
+      "nombre": "Totomoxtle 1",
+      "ubicacion": {
+        "latitud": 20.461964,
+        "longitud": -97.245995
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 198,
+        "clase_2_b2": 198,
+        "clase_3_b3": 198,
+        "clase_2_t2": 198,
+        "clase_3_t3": 198,
+        "clase_4_t4": 198,
+        "clase_5_t5": 198,
+        "clase_6_t6": 198,
+        "clase_7_t7": 198,
+        "clase_8_t8": 198,
+        "clase_9_t9": 198,
+        "clase_10_motocicleta": 169
+      }
+    },
+    {
+      "nombre": "Totomoxtle 2",
+      "ubicacion": {
+        "latitud": 20.460995,
+        "longitud": -97.247746
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 199,
+        "clase_2_b2": 199,
+        "clase_3_b3": 199,
+        "clase_2_t2": 199,
+        "clase_3_t3": 199,
+        "clase_4_t4": 199,
+        "clase_5_t5": 199,
+        "clase_6_t6": 199,
+        "clase_7_t7": 199,
+        "clase_8_t8": 199,
+        "clase_9_t9": 199,
+        "clase_10_motocicleta": 170
+      }
+    },
+    {
+      "nombre": "Jiménez",
+      "ubicacion": {
+        "latitud": 27.244991,
+        "longitud": -104.933224
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 200,
+        "clase_2_b2": 200,
+        "clase_3_b3": 200,
+        "clase_2_t2": 200,
+        "clase_3_t3": 200,
+        "clase_4_t4": 200,
+        "clase_5_t5": 200,
+        "clase_6_t6": 200,
+        "clase_7_t7": 200,
+        "clase_8_t8": 200,
+        "clase_9_t9": 200,
+        "clase_10_motocicleta": 171
+      }
+    },
+    {
+      "nombre": "Oacalco",
+      "ubicacion": {
+        "latitud": 18.931121,
+        "longitud": -99.02562
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 201,
+        "clase_2_b2": 201,
+        "clase_3_b3": 201,
+        "clase_2_t2": 201,
+        "clase_3_t3": 201,
+        "clase_4_t4": 201,
+        "clase_5_t5": 201,
+        "clase_6_t6": 201,
+        "clase_7_t7": 201,
+        "clase_8_t8": 201,
+        "clase_9_t9": 201,
+        "clase_10_motocicleta": 172
+      }
+    },
+    {
+      "nombre": "Tepoztlán",
+      "ubicacion": {
+        "latitud": 18.98681,
+        "longitud": -99.112444
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 202,
+        "clase_2_b2": 202,
+        "clase_3_b3": 202,
+        "clase_2_t2": 202,
+        "clase_3_t3": 202,
+        "clase_4_t4": 202,
+        "clase_5_t5": 202,
+        "clase_6_t6": 202,
+        "clase_7_t7": 202,
+        "clase_8_t8": 202,
+        "clase_9_t9": 202,
+        "clase_10_motocicleta": 173
+      }
+    },
+    {
+      "nombre": "Acayucan",
+      "ubicacion": {
+        "latitud": 17.910035,
+        "longitud": -94.937359
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 203,
+        "clase_2_b2": 203,
+        "clase_3_b3": 203,
+        "clase_2_t2": 203,
+        "clase_3_t3": 203,
+        "clase_4_t4": 203,
+        "clase_5_t5": 203,
+        "clase_6_t6": 203,
+        "clase_7_t7": 203,
+        "clase_8_t8": 203,
+        "clase_9_t9": 203,
+        "clase_10_motocicleta": 174
+      }
+    },
+    {
+      "nombre": "Cosamaloapan",
+      "ubicacion": {
+        "latitud": 18.334975,
+        "longitud": -95.822252
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 206,
+        "clase_2_b2": 206,
+        "clase_3_b3": 206,
+        "clase_2_t2": 206,
+        "clase_3_t3": 206,
+        "clase_4_t4": 206,
+        "clase_5_t5": 206,
+        "clase_6_t6": 206,
+        "clase_7_t7": 206,
+        "clase_8_t8": 206,
+        "clase_9_t9": 206,
+        "clase_10_motocicleta": 177
+      }
+    },
+    {
+      "nombre": "Las Choapas",
+      "ubicacion": {
+        "latitud": 17.944819,
+        "longitud": -94.172372
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 209,
+        "clase_2_b2": 209,
+        "clase_3_b3": 209,
+        "clase_2_t2": 209,
+        "clase_3_t3": 209,
+        "clase_4_t4": 209,
+        "clase_5_t5": 209,
+        "clase_6_t6": 209,
+        "clase_7_t7": 209,
+        "clase_8_t8": 209,
+        "clase_9_t9": 209,
+        "clase_10_motocicleta": 180
+      }
+    },
+    {
+      "nombre": "Las Choapas A1",
+      "ubicacion": {
+        "latitud": 17.942707,
+        "longitud": -94.17224
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 210,
+        "clase_2_b2": 210,
+        "clase_3_b3": 210,
+        "clase_2_t2": 210,
+        "clase_3_t3": 210,
+        "clase_4_t4": 210,
+        "clase_5_t5": 210,
+        "clase_6_t6": 210,
+        "clase_7_t7": 210,
+        "clase_8_t8": 210,
+        "clase_9_t9": 210,
+        "clase_10_motocicleta": 181
+      }
+    },
+    {
+      "nombre": "Malpasito",
+      "ubicacion": {
+        "latitud": 17.349101,
+        "longitud": -93.586441
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 212,
+        "clase_2_b2": 212,
+        "clase_3_b3": 212,
+        "clase_2_t2": 212,
+        "clase_3_t3": 212,
+        "clase_4_t4": 212,
+        "clase_5_t5": 212,
+        "clase_6_t6": 212,
+        "clase_7_t7": 212,
+        "clase_8_t8": 212,
+        "clase_9_t9": 212,
+        "clase_10_motocicleta": 183
+      }
+    },
+    {
+      "nombre": "Malpasito A1",
+      "ubicacion": {
+        "latitud": 17.348467,
+        "longitud": -93.586933
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 213,
+        "clase_2_b2": 213,
+        "clase_3_b3": 213,
+        "clase_2_t2": 213,
+        "clase_3_t3": 213,
+        "clase_4_t4": 213,
+        "clase_5_t5": 213,
+        "clase_6_t6": 213,
+        "clase_7_t7": 213,
+        "clase_8_t8": 213,
+        "clase_9_t9": 213,
+        "clase_10_motocicleta": 184
+      }
+    },
+    {
+      "nombre": "Malpasito A2",
+      "ubicacion": {
+        "latitud": 17.349152,
+        "longitud": -93.585518
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 214,
+        "clase_2_b2": 214,
+        "clase_3_b3": 214,
+        "clase_2_t2": 214,
+        "clase_3_t3": 214,
+        "clase_4_t4": 214,
+        "clase_5_t5": 214,
+        "clase_6_t6": 214,
+        "clase_7_t7": 214,
+        "clase_8_t8": 214,
+        "clase_9_t9": 214,
+        "clase_10_motocicleta": 185
+      }
+    },
+    {
+      "nombre": "Ocuilapa",
+      "ubicacion": {
+        "latitud": 16.863172,
+        "longitud": -93.40687
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 215,
+        "clase_2_b2": 215,
+        "clase_3_b3": 215,
+        "clase_2_t2": 215,
+        "clase_3_t3": 215,
+        "clase_4_t4": 215,
+        "clase_5_t5": 215,
+        "clase_6_t6": 215,
+        "clase_7_t7": 215,
+        "clase_8_t8": 215,
+        "clase_9_t9": 215,
+        "clase_10_motocicleta": 186
+      }
+    },
+    {
+      "nombre": "Cuerámaro A1",
+      "ubicacion": {
+        "latitud": 21.06969,
+        "longitud": -101.679198
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 216,
+        "clase_2_b2": 216,
+        "clase_3_b3": 216,
+        "clase_2_t2": 216,
+        "clase_3_t3": 216,
+        "clase_4_t4": 216,
+        "clase_5_t5": 216,
+        "clase_6_t6": 216,
+        "clase_7_t7": 216,
+        "clase_8_t8": 216,
+        "clase_9_t9": 216,
+        "clase_10_motocicleta": 187
+      }
+    },
+    {
+      "nombre": "Cuerámaro A2",
+      "ubicacion": {
+        "latitud": 21.069085,
+        "longitud": -101.67977
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 217,
+        "clase_2_b2": 217,
+        "clase_3_b3": 217,
+        "clase_2_t2": 217,
+        "clase_3_t3": 217,
+        "clase_4_t4": 217,
+        "clase_5_t5": 217,
+        "clase_6_t6": 217,
+        "clase_7_t7": 217,
+        "clase_8_t8": 217,
+        "clase_9_t9": 217,
+        "clase_10_motocicleta": 188
+      }
+    },
+    {
+      "nombre": "Encarnación",
+      "ubicacion": {
+        "latitud": 21.489618,
+        "longitud": -102.243204
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 218,
+        "clase_2_b2": 218,
+        "clase_3_b3": 218,
+        "clase_2_t2": 218,
+        "clase_3_t3": 218,
+        "clase_4_t4": 218,
+        "clase_5_t5": 218,
+        "clase_6_t6": 218,
+        "clase_7_t7": 218,
+        "clase_8_t8": 218,
+        "clase_9_t9": 218,
+        "clase_10_motocicleta": 189
+      }
+    },
+    {
+      "nombre": "León",
+      "ubicacion": {
+        "latitud": 21.102736,
+        "longitud": -101.784601
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 220,
+        "clase_2_b2": 220,
+        "clase_3_b3": 220,
+        "clase_2_t2": 220,
+        "clase_3_t3": 220,
+        "clase_4_t4": 220,
+        "clase_5_t5": 220,
+        "clase_6_t6": 220,
+        "clase_7_t7": 220,
+        "clase_8_t8": 220,
+        "clase_9_t9": 220,
+        "clase_10_motocicleta": 191
+      }
+    },
+    {
+      "nombre": "San Francisco A1",
+      "ubicacion": {
+        "latitud": 21.082341,
+        "longitud": -101.745577
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 221,
+        "clase_2_b2": 221,
+        "clase_3_b3": 221,
+        "clase_2_t2": 221,
+        "clase_3_t3": 221,
+        "clase_4_t4": 221,
+        "clase_5_t5": 221,
+        "clase_6_t6": 221,
+        "clase_7_t7": 221,
+        "clase_8_t8": 221,
+        "clase_9_t9": 221,
+        "clase_10_motocicleta": 192
+      }
+    },
+    {
+      "nombre": "San Francisco A2",
+      "ubicacion": {
+        "latitud": 21.081411,
+        "longitud": -101.745975
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 222,
+        "clase_2_b2": 222,
+        "clase_3_b3": 222,
+        "clase_2_t2": 222,
+        "clase_3_t3": 222,
+        "clase_4_t4": 222,
+        "clase_5_t5": 222,
+        "clase_6_t6": 222,
+        "clase_7_t7": 222,
+        "clase_8_t8": 222,
+        "clase_9_t9": 222,
+        "clase_10_motocicleta": 193
+      }
+    },
+    {
+      "nombre": "San Pedro",
+      "ubicacion": {
+        "latitud": 24.748965,
+        "longitud": -107.568618
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 223,
+        "clase_2_b2": 223,
+        "clase_3_b3": 223,
+        "clase_2_t2": 223,
+        "clase_3_t3": 223,
+        "clase_4_t4": 223,
+        "clase_5_t5": 223,
+        "clase_6_t6": 223,
+        "clase_7_t7": 223,
+        "clase_8_t8": 223,
+        "clase_9_t9": 223,
+        "clase_10_motocicleta": 194
+      }
+    },
+    {
+      "nombre": "Morfín Chávez",
+      "ubicacion": {
+        "latitud": 23.177959,
+        "longitud": -102.828733
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 224,
+        "clase_2_b2": 224,
+        "clase_3_b3": 224,
+        "clase_2_t2": 224,
+        "clase_3_t3": 224,
+        "clase_4_t4": 224,
+        "clase_5_t5": 224,
+        "clase_6_t6": 224,
+        "clase_7_t7": 224,
+        "clase_8_t8": 224,
+        "clase_9_t9": 224,
+        "clase_10_motocicleta": 195
+      }
+    },
+    {
+      "nombre": "Arandas",
+      "ubicacion": {
+        "latitud": 20.737502,
+        "longitud": -101.379985
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 227,
+        "clase_2_b2": 227,
+        "clase_3_b3": 227,
+        "clase_2_t2": 227,
+        "clase_3_t3": 227,
+        "clase_4_t4": 227,
+        "clase_5_t5": 227,
+        "clase_6_t6": 227,
+        "clase_7_t7": 227,
+        "clase_8_t8": 227,
+        "clase_9_t9": 227,
+        "clase_10_motocicleta": 198
+      }
+    },
+    {
+      "nombre": "Arandas A1",
+      "ubicacion": {
+        "latitud": 20.735284,
+        "longitud": -101.383209
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 228,
+        "clase_2_b2": 228,
+        "clase_3_b3": 228,
+        "clase_2_t2": 228,
+        "clase_3_t3": 228,
+        "clase_4_t4": 228,
+        "clase_5_t5": 228,
+        "clase_6_t6": 228,
+        "clase_7_t7": 228,
+        "clase_8_t8": 228,
+        "clase_9_t9": 228,
+        "clase_10_motocicleta": 199
+      }
+    },
+    {
+      "nombre": "Arandas A2",
+      "ubicacion": {
+        "latitud": 20.733461,
+        "longitud": -101.381244
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 229,
+        "clase_2_b2": 229,
+        "clase_3_b3": 229,
+        "clase_2_t2": 229,
+        "clase_3_t3": 229,
+        "clase_4_t4": 229,
+        "clase_5_t5": 229,
+        "clase_6_t6": 229,
+        "clase_7_t7": 229,
+        "clase_8_t8": 229,
+        "clase_9_t9": 229,
+        "clase_10_motocicleta": 200
+      }
+    },
+    {
+      "nombre": "San Cristobal",
+      "ubicacion": {
+        "latitud": 20.601075,
+        "longitud": -101.438521
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 230,
+        "clase_2_b2": 230,
+        "clase_3_b3": 230,
+        "clase_2_t2": 230,
+        "clase_3_t3": 230,
+        "clase_4_t4": 230,
+        "clase_5_t5": 230,
+        "clase_6_t6": 230,
+        "clase_7_t7": 230,
+        "clase_8_t8": 230,
+        "clase_9_t9": 230,
+        "clase_10_motocicleta": 201
+      }
+    },
+    {
+      "nombre": "La Calera",
+      "ubicacion": {
+        "latitud": 20.397139,
+        "longitud": -101.998746
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 231,
+        "clase_2_b2": 231,
+        "clase_3_b3": 231,
+        "clase_2_t2": 231,
+        "clase_3_t3": 231,
+        "clase_4_t4": 231,
+        "clase_5_t5": 231,
+        "clase_6_t6": 231,
+        "clase_7_t7": 231,
+        "clase_8_t8": 231,
+        "clase_9_t9": 231,
+        "clase_10_motocicleta": 202
+      }
+    },
+    {
+      "nombre": "La Calera Aux.",
+      "ubicacion": {
+        "latitud": 20.395404,
+        "longitud": -101.998207
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 232,
+        "clase_2_b2": 232,
+        "clase_3_b3": 232,
+        "clase_2_t2": 232,
+        "clase_3_t3": 232,
+        "clase_4_t4": 232,
+        "clase_5_t5": 232,
+        "clase_6_t6": 232,
+        "clase_7_t7": 232,
+        "clase_8_t8": 232,
+        "clase_9_t9": 232,
+        "clase_10_motocicleta": 203
+      }
+    },
+    {
+      "nombre": "Matehuala",
+      "ubicacion": {
+        "latitud": 23.664163,
+        "longitud": -100.607299
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 234,
+        "clase_2_b2": 234,
+        "clase_3_b3": 234,
+        "clase_2_t2": 234,
+        "clase_3_t3": 234,
+        "clase_4_t4": 234,
+        "clase_5_t5": 234,
+        "clase_6_t6": 234,
+        "clase_7_t7": 234,
+        "clase_8_t8": 234,
+        "clase_9_t9": 234,
+        "clase_10_motocicleta": 205
+      }
+    },
+    {
+      "nombre": "Matehuala A1",
+      "ubicacion": {
+        "latitud": 23.664161,
+        "longitud": -100.606222
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 235,
+        "clase_2_b2": 235,
+        "clase_3_b3": 235,
+        "clase_2_t2": 235,
+        "clase_3_t3": 235,
+        "clase_4_t4": 235,
+        "clase_5_t5": 235,
+        "clase_6_t6": 235,
+        "clase_7_t7": 235,
+        "clase_8_t8": 235,
+        "clase_9_t9": 235,
+        "clase_10_motocicleta": 206
+      }
+    },
+    {
+      "nombre": "Matehuala A2",
+      "ubicacion": {
+        "latitud": 23.663767,
+        "longitud": -100.608339
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 236,
+        "clase_2_b2": 236,
+        "clase_3_b3": 236,
+        "clase_2_t2": 236,
+        "clase_3_t3": 236,
+        "clase_4_t4": 236,
+        "clase_5_t5": 236,
+        "clase_6_t6": 236,
+        "clase_7_t7": 236,
+        "clase_8_t8": 236,
+        "clase_9_t9": 236,
+        "clase_10_motocicleta": 207
+      }
+    },
+    {
+      "nombre": "Mexcali A1",
+      "ubicacion": {
+        "latitud": 32.533552,
+        "longitud": -115.40878
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 237,
+        "clase_2_b2": 237,
+        "clase_3_b3": 237,
+        "clase_2_t2": 237,
+        "clase_3_t3": 237,
+        "clase_4_t4": 237,
+        "clase_5_t5": 237,
+        "clase_6_t6": 237,
+        "clase_7_t7": 237,
+        "clase_8_t8": 237,
+        "clase_9_t9": 237,
+        "clase_10_motocicleta": 208
+      }
+    },
+    {
+      "nombre": "Mexicali",
+      "ubicacion": {
+        "latitud": 32.533499,
+        "longitud": -115.420765
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 238,
+        "clase_2_b2": 238,
+        "clase_3_b3": 238,
+        "clase_2_t2": 238,
+        "clase_3_t3": 238,
+        "clase_4_t4": 238,
+        "clase_5_t5": 238,
+        "clase_6_t6": 238,
+        "clase_7_t7": 238,
+        "clase_8_t8": 238,
+        "clase_9_t9": 238,
+        "clase_10_motocicleta": 209
+      }
+    },
+    {
+      "nombre": "Mexicali A2",
+      "ubicacion": {
+        "latitud": NaN,
+        "longitud": NaN
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 239,
+        "clase_2_b2": 239,
+        "clase_3_b3": 239,
+        "clase_2_t2": 239,
+        "clase_3_t3": 239,
+        "clase_4_t4": 239,
+        "clase_5_t5": 239,
+        "clase_6_t6": 239,
+        "clase_7_t7": 239,
+        "clase_8_t8": 239,
+        "clase_9_t9": 239,
+        "clase_10_motocicleta": 210
+      }
+    },
+    {
+      "nombre": "Nogales",
+      "ubicacion": {
+        "latitud": 31.258312,
+        "longitud": -110.974723
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 240,
+        "clase_2_b2": 240,
+        "clase_3_b3": 240,
+        "clase_2_t2": 240,
+        "clase_3_t3": 240,
+        "clase_4_t4": 240,
+        "clase_5_t5": 240,
+        "clase_6_t6": 240,
+        "clase_7_t7": 240,
+        "clase_8_t8": 240,
+        "clase_9_t9": 240,
+        "clase_10_motocicleta": 211
+      }
+    },
+    {
+      "nombre": "Tecpan",
+      "ubicacion": {
+        "latitud": 17.197011,
+        "longitud": -100.626768
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 241,
+        "clase_2_b2": 241,
+        "clase_3_b3": 241,
+        "clase_2_t2": 241,
+        "clase_3_t3": 241,
+        "clase_4_t4": 241,
+        "clase_5_t5": 241,
+        "clase_6_t6": 241,
+        "clase_7_t7": 241,
+        "clase_8_t8": 241,
+        "clase_9_t9": 241,
+        "clase_10_motocicleta": 212
+      }
+    },
+    {
+      "nombre": "Calera",
+      "ubicacion": {
+        "latitud": 22.941811,
+        "longitud": -102.689928
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 242,
+        "clase_2_b2": 242,
+        "clase_3_b3": 242,
+        "clase_2_t2": 242,
+        "clase_3_t3": 242,
+        "clase_4_t4": 242,
+        "clase_5_t5": 242,
+        "clase_6_t6": 242,
+        "clase_7_t7": 242,
+        "clase_8_t8": 242,
+        "clase_9_t9": 242,
+        "clase_10_motocicleta": 213
+      }
+    },
+    {
+      "nombre": "Chichimequillas",
+      "ubicacion": {
+        "latitud": 20.705555,
+        "longitud": -100.343716
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 243,
+        "clase_2_b2": 243,
+        "clase_3_b3": 243,
+        "clase_2_t2": 243,
+        "clase_3_t3": 243,
+        "clase_4_t4": 243,
+        "clase_5_t5": 243,
+        "clase_6_t6": 243,
+        "clase_7_t7": 243,
+        "clase_8_t8": 243,
+        "clase_9_t9": 243,
+        "clase_10_motocicleta": 214
+      }
+    },
+    {
+      "nombre": "Atlacomulco II",
+      "ubicacion": {
+        "latitud": 19.911815,
+        "longitud": -99.85251
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 244,
+        "clase_2_b2": 244,
+        "clase_3_b3": 244,
+        "clase_2_t2": 244,
+        "clase_3_t3": 244,
+        "clase_4_t4": 244,
+        "clase_5_t5": 244,
+        "clase_6_t6": 244,
+        "clase_7_t7": 244,
+        "clase_8_t8": 244,
+        "clase_9_t9": 244,
+        "clase_10_motocicleta": 215
+      }
+    },
+    {
+      "nombre": "Acambay",
+      "ubicacion": {
+        "latitud": 19.923377,
+        "longitud": -99.844213
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 245,
+        "clase_2_b2": 245,
+        "clase_3_b3": 245,
+        "clase_2_t2": 245,
+        "clase_3_t3": 245,
+        "clase_4_t4": 245,
+        "clase_5_t5": 245,
+        "clase_6_t6": 245,
+        "clase_7_t7": 245,
+        "clase_8_t8": 245,
+        "clase_9_t9": 245,
+        "clase_10_motocicleta": 216
+      }
+    },
+    {
+      "nombre": "Jilotepec",
+      "ubicacion": {
+        "latitud": 19.976547,
+        "longitud": -99.53149
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 246,
+        "clase_2_b2": 246,
+        "clase_3_b3": 246,
+        "clase_2_t2": 246,
+        "clase_3_t3": 246,
+        "clase_4_t4": 246,
+        "clase_5_t5": 246,
+        "clase_6_t6": 246,
+        "clase_7_t7": 246,
+        "clase_8_t8": 246,
+        "clase_9_t9": 246,
+        "clase_10_motocicleta": 217
+      }
+    },
+    {
+      "nombre": "Querétaro 1",
+      "ubicacion": {
+        "latitud": 19.998688,
+        "longitud": -99.487671
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 247,
+        "clase_2_b2": 247,
+        "clase_3_b3": 247,
+        "clase_2_t2": 247,
+        "clase_3_t3": 247,
+        "clase_4_t4": 247,
+        "clase_5_t5": 247,
+        "clase_6_t6": 247,
+        "clase_7_t7": 247,
+        "clase_8_t8": 247,
+        "clase_9_t9": 247,
+        "clase_10_motocicleta": 218
+      }
+    },
+    {
+      "nombre": "Querétaro 2",
+      "ubicacion": {
+        "latitud": 19.996155,
+        "longitud": -99.489945
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 248,
+        "clase_2_b2": 248,
+        "clase_3_b3": 248,
+        "clase_2_t2": 248,
+        "clase_3_t3": 248,
+        "clase_4_t4": 248,
+        "clase_5_t5": 248,
+        "clase_6_t6": 248,
+        "clase_7_t7": 248,
+        "clase_8_t8": 248,
+        "clase_9_t9": 248,
+        "clase_10_motocicleta": 219
+      }
+    },
+    {
+      "nombre": "Querétaro 3",
+      "ubicacion": {
+        "latitud": 19.997821,
+        "longitud": -99.492
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 249,
+        "clase_2_b2": 249,
+        "clase_3_b3": 249,
+        "clase_2_t2": 249,
+        "clase_3_t3": 249,
+        "clase_4_t4": 249,
+        "clase_5_t5": 249,
+        "clase_6_t6": 249,
+        "clase_7_t7": 249,
+        "clase_8_t8": 249,
+        "clase_9_t9": 249,
+        "clase_10_motocicleta": 220
+      }
+    },
+    {
+      "nombre": "Querétaro 4",
+      "ubicacion": {
+        "latitud": 20.000504,
+        "longitud": -99.489956
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 250,
+        "clase_2_b2": 250,
+        "clase_3_b3": 250,
+        "clase_2_t2": 250,
+        "clase_3_t3": 250,
+        "clase_4_t4": 250,
+        "clase_5_t5": 250,
+        "clase_6_t6": 250,
+        "clase_7_t7": 250,
+        "clase_8_t8": 250,
+        "clase_9_t9": 250,
+        "clase_10_motocicleta": 221
+      }
+    },
+    {
+      "nombre": "Tula II-1",
+      "ubicacion": {
+        "latitud": 20.071871,
+        "longitud": -99.367698
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 251,
+        "clase_2_b2": 251,
+        "clase_3_b3": 251,
+        "clase_2_t2": 251,
+        "clase_3_t3": 251,
+        "clase_4_t4": 251,
+        "clase_5_t5": 251,
+        "clase_6_t6": 251,
+        "clase_7_t7": 251,
+        "clase_8_t8": 251,
+        "clase_9_t9": 251,
+        "clase_10_motocicleta": 222
+      }
+    },
+    {
+      "nombre": "Tula II-2",
+      "ubicacion": {
+        "latitud": 20.070355,
+        "longitud": -99.368243
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 252,
+        "clase_2_b2": 252,
+        "clase_3_b3": 252,
+        "clase_2_t2": 252,
+        "clase_3_t3": 252,
+        "clase_4_t4": 252,
+        "clase_5_t5": 252,
+        "clase_6_t6": 252,
+        "clase_7_t7": 252,
+        "clase_8_t8": 252,
+        "clase_9_t9": 252,
+        "clase_10_motocicleta": 223
+      }
+    },
+    {
+      "nombre": "Tula II-3",
+      "ubicacion": {
+        "latitud": 20.072661,
+        "longitud": -99.369804
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 253,
+        "clase_2_b2": 253,
+        "clase_3_b3": 253,
+        "clase_2_t2": 253,
+        "clase_3_t3": 253,
+        "clase_4_t4": 253,
+        "clase_5_t5": 253,
+        "clase_6_t6": 253,
+        "clase_7_t7": 253,
+        "clase_8_t8": 253,
+        "clase_9_t9": 253,
+        "clase_10_motocicleta": 224
+      }
+    },
+    {
+      "nombre": "Tula II-4",
+      "ubicacion": {
+        "latitud": 20.071311,
+        "longitud": -99.367319
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 254,
+        "clase_2_b2": 254,
+        "clase_3_b3": 254,
+        "clase_2_t2": 254,
+        "clase_3_t3": 254,
+        "clase_4_t4": 254,
+        "clase_5_t5": 254,
+        "clase_6_t6": 254,
+        "clase_7_t7": 254,
+        "clase_8_t8": 254,
+        "clase_9_t9": 254,
+        "clase_10_motocicleta": 225
+      }
+    },
+    {
+      "nombre": "Tula I-1",
+      "ubicacion": {
+        "latitud": 20.099725,
+        "longitud": -99.280562
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 255,
+        "clase_2_b2": 255,
+        "clase_3_b3": 255,
+        "clase_2_t2": 255,
+        "clase_3_t3": 255,
+        "clase_4_t4": 255,
+        "clase_5_t5": 255,
+        "clase_6_t6": 255,
+        "clase_7_t7": 255,
+        "clase_8_t8": 255,
+        "clase_9_t9": 255,
+        "clase_10_motocicleta": 226
+      }
+    },
+    {
+      "nombre": "Tula I-2",
+      "ubicacion": {
+        "latitud": 20.098169,
+        "longitud": -99.283149
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 256,
+        "clase_2_b2": 256,
+        "clase_3_b3": 256,
+        "clase_2_t2": 256,
+        "clase_3_t3": 256,
+        "clase_4_t4": 256,
+        "clase_5_t5": 256,
+        "clase_6_t6": 256,
+        "clase_7_t7": 256,
+        "clase_8_t8": 256,
+        "clase_9_t9": 256,
+        "clase_10_motocicleta": 227
+      }
+    },
+    {
+      "nombre": "Tula I-3",
+      "ubicacion": {
+        "latitud": 20.09821,
+        "longitud": -99.286059
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 257,
+        "clase_2_b2": 257,
+        "clase_3_b3": 257,
+        "clase_2_t2": 257,
+        "clase_3_t3": 257,
+        "clase_4_t4": 257,
+        "clase_5_t5": 257,
+        "clase_6_t6": 257,
+        "clase_7_t7": 257,
+        "clase_8_t8": 257,
+        "clase_9_t9": 257,
+        "clase_10_motocicleta": 228
+      }
+    },
+    {
+      "nombre": "Tula I-4",
+      "ubicacion": {
+        "latitud": 20.100076,
+        "longitud": -99.28351
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 258,
+        "clase_2_b2": 258,
+        "clase_3_b3": 258,
+        "clase_2_t2": 258,
+        "clase_3_t3": 258,
+        "clase_4_t4": 258,
+        "clase_5_t5": 258,
+        "clase_6_t6": 258,
+        "clase_7_t7": 258,
+        "clase_8_t8": 258,
+        "clase_9_t9": 258,
+        "clase_10_motocicleta": 229
+      }
+    },
+    {
+      "nombre": "Atitalaquia 1",
+      "ubicacion": {
+        "latitud": 20.067268,
+        "longitud": -99.218551
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 259,
+        "clase_2_b2": 259,
+        "clase_3_b3": 259,
+        "clase_2_t2": 259,
+        "clase_3_t3": 259,
+        "clase_4_t4": 259,
+        "clase_5_t5": 259,
+        "clase_6_t6": 259,
+        "clase_7_t7": 259,
+        "clase_8_t8": 259,
+        "clase_9_t9": 259,
+        "clase_10_motocicleta": 230
+      }
+    },
+    {
+      "nombre": "Atitalaquia 2",
+      "ubicacion": {
+        "latitud": 20.064868,
+        "longitud": -99.219068
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 260,
+        "clase_2_b2": 260,
+        "clase_3_b3": 260,
+        "clase_2_t2": 260,
+        "clase_3_t3": 260,
+        "clase_4_t4": 260,
+        "clase_5_t5": 260,
+        "clase_6_t6": 260,
+        "clase_7_t7": 260,
+        "clase_8_t8": 260,
+        "clase_9_t9": 260,
+        "clase_10_motocicleta": 231
+      }
+    },
+    {
+      "nombre": "Ajoloapan 1",
+      "ubicacion": {
+        "latitud": 19.956086,
+        "longitud": -99.053339
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 261,
+        "clase_2_b2": 261,
+        "clase_3_b3": 261,
+        "clase_2_t2": 261,
+        "clase_3_t3": 261,
         "clase_4_t4": 261,
         "clase_5_t5": 261,
+        "clase_6_t6": 261,
+        "clase_7_t7": 261,
+        "clase_8_t8": 261,
+        "clase_9_t9": 261,
+        "clase_10_motocicleta": 232
+      }
+    },
+    {
+      "nombre": "Ajoloapan 2",
+      "ubicacion": {
+        "latitud": 19.955443,
+        "longitud": -99.052776
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 262,
+        "clase_2_b2": 262,
+        "clase_3_b3": 262,
+        "clase_2_t2": 262,
+        "clase_3_t3": 262,
+        "clase_4_t4": 262,
+        "clase_5_t5": 262,
+        "clase_6_t6": 262,
+        "clase_7_t7": 262,
+        "clase_8_t8": 262,
+        "clase_9_t9": 262,
+        "clase_10_motocicleta": 233
+      }
+    },
+    {
+      "nombre": "Ajoloapan 3",
+      "ubicacion": {
+        "latitud": 19.955845,
+        "longitud": -99.055422
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 263,
+        "clase_2_b2": 263,
+        "clase_3_b3": 263,
+        "clase_2_t2": 263,
+        "clase_3_t3": 263,
+        "clase_4_t4": 263,
+        "clase_5_t5": 263,
+        "clase_6_t6": 263,
+        "clase_7_t7": 263,
+        "clase_8_t8": 263,
+        "clase_9_t9": 263,
+        "clase_10_motocicleta": 234
+      }
+    },
+    {
+      "nombre": "Ajoloapan 4",
+      "ubicacion": {
+        "latitud": 19.95638,
+        "longitud": -99.05548
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 264,
+        "clase_2_b2": 264,
+        "clase_3_b3": 264,
+        "clase_2_t2": 264,
+        "clase_3_t3": 264,
+        "clase_4_t4": 264,
+        "clase_5_t5": 264,
+        "clase_6_t6": 264,
+        "clase_7_t7": 264,
+        "clase_8_t8": 264,
+        "clase_9_t9": 264,
+        "clase_10_motocicleta": 235
+      }
+    },
+    {
+      "nombre": "Pachuca",
+      "ubicacion": {
+        "latitud": 19.927508,
+        "longitud": -98.891452
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 265,
+        "clase_2_b2": 265,
+        "clase_3_b3": 265,
+        "clase_2_t2": 265,
+        "clase_3_t3": 265,
+        "clase_4_t4": 265,
+        "clase_5_t5": 265,
+        "clase_6_t6": 265,
+        "clase_7_t7": 265,
+        "clase_8_t8": 265,
+        "clase_9_t9": 265,
+        "clase_10_motocicleta": 236
+      }
+    },
+    {
+      "nombre": "Tulancingo 1",
+      "ubicacion": {
+        "latitud": 19.834861,
+        "longitud": -98.700138
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 266,
+        "clase_2_b2": 266,
+        "clase_3_b3": 266,
+        "clase_2_t2": 266,
+        "clase_3_t3": 266,
+        "clase_4_t4": 266,
+        "clase_5_t5": 266,
+        "clase_6_t6": 266,
+        "clase_7_t7": 266,
+        "clase_8_t8": 266,
+        "clase_9_t9": 266,
+        "clase_10_motocicleta": 237
+      }
+    },
+    {
+      "nombre": "Tulancingo 2",
+      "ubicacion": {
+        "latitud": 19.83368,
+        "longitud": -98.698801
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 267,
+        "clase_2_b2": 267,
+        "clase_3_b3": 267,
+        "clase_2_t2": 267,
+        "clase_3_t3": 267,
+        "clase_4_t4": 267,
+        "clase_5_t5": 267,
+        "clase_6_t6": 267,
+        "clase_7_t7": 267,
+        "clase_8_t8": 267,
+        "clase_9_t9": 267,
+        "clase_10_motocicleta": 238
+      }
+    },
+    {
+      "nombre": "Tulancingo 3",
+      "ubicacion": {
+        "latitud": 19.832456,
+        "longitud": -98.700121
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 268,
+        "clase_2_b2": 268,
+        "clase_3_b3": 268,
+        "clase_2_t2": 268,
+        "clase_3_t3": 268,
+        "clase_4_t4": 268,
+        "clase_5_t5": 268,
+        "clase_6_t6": 268,
+        "clase_7_t7": 268,
+        "clase_8_t8": 268,
+        "clase_9_t9": 268,
+        "clase_10_motocicleta": 239
+      }
+    },
+    {
+      "nombre": "Tulancingo 4",
+      "ubicacion": {
+        "latitud": 19.83364,
+        "longitud": -98.701536
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 269,
+        "clase_2_b2": 269,
+        "clase_3_b3": 269,
+        "clase_2_t2": 269,
+        "clase_3_t3": 269,
+        "clase_4_t4": 269,
+        "clase_5_t5": 269,
+        "clase_6_t6": 269,
+        "clase_7_t7": 269,
+        "clase_8_t8": 269,
+        "clase_9_t9": 269,
+        "clase_10_motocicleta": 240
+      }
+    },
+    {
+      "nombre": "Cd. Sahagún 1",
+      "ubicacion": {
+        "latitud": 19.756661,
+        "longitud": -98.628326
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 270,
+        "clase_2_b2": 270,
+        "clase_3_b3": 270,
+        "clase_2_t2": 270,
+        "clase_3_t3": 270,
+        "clase_4_t4": 270,
+        "clase_5_t5": 270,
+        "clase_6_t6": 270,
+        "clase_7_t7": 270,
+        "clase_8_t8": 270,
+        "clase_9_t9": 270,
+        "clase_10_motocicleta": 241
+      }
+    },
+    {
+      "nombre": "Cd. Sahagún 2",
+      "ubicacion": {
+        "latitud": 19.75596,
+        "longitud": -98.628121
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 271,
+        "clase_2_b2": 271,
+        "clase_3_b3": 271,
+        "clase_2_t2": 271,
+        "clase_3_t3": 271,
+        "clase_4_t4": 271,
+        "clase_5_t5": 271,
+        "clase_6_t6": 271,
+        "clase_7_t7": 271,
+        "clase_8_t8": 271,
+        "clase_9_t9": 271,
+        "clase_10_motocicleta": 242
+      }
+    },
+    {
+      "nombre": "Cd. Sahagún 3",
+      "ubicacion": {
+        "latitud": 19.755427,
+        "longitud": -98.629498
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 272,
+        "clase_2_b2": 272,
+        "clase_3_b3": 272,
+        "clase_2_t2": 272,
+        "clase_3_t3": 272,
+        "clase_4_t4": 272,
+        "clase_5_t5": 272,
+        "clase_6_t6": 272,
+        "clase_7_t7": 272,
+        "clase_8_t8": 272,
+        "clase_9_t9": 272,
+        "clase_10_motocicleta": 243
+      }
+    },
+    {
+      "nombre": "Cd. Sahagún 4",
+      "ubicacion": {
+        "latitud": 19.756069,
+        "longitud": -98.630532
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 273,
+        "clase_2_b2": 273,
+        "clase_3_b3": 273,
+        "clase_2_t2": 273,
+        "clase_3_t3": 273,
+        "clase_4_t4": 273,
+        "clase_5_t5": 273,
+        "clase_6_t6": 273,
+        "clase_7_t7": 273,
+        "clase_8_t8": 273,
+        "clase_9_t9": 273,
+        "clase_10_motocicleta": 244
+      }
+    },
+    {
+      "nombre": "Calpulalpan 1",
+      "ubicacion": {
+        "latitud": 19.62148,
+        "longitud": -98.548095
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 274,
+        "clase_2_b2": 274,
+        "clase_3_b3": 274,
+        "clase_2_t2": 274,
+        "clase_3_t3": 274,
+        "clase_4_t4": 274,
+        "clase_5_t5": 274,
+        "clase_6_t6": 274,
+        "clase_7_t7": 274,
+        "clase_8_t8": 274,
+        "clase_9_t9": 274,
+        "clase_10_motocicleta": 245
+      }
+    },
+    {
+      "nombre": "Calpulalpan 2",
+      "ubicacion": {
+        "latitud": 19.62015,
+        "longitud": -98.547003
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 275,
+        "clase_2_b2": 275,
+        "clase_3_b3": 275,
+        "clase_2_t2": 275,
+        "clase_3_t3": 275,
+        "clase_4_t4": 275,
+        "clase_5_t5": 275,
+        "clase_6_t6": 275,
+        "clase_7_t7": 275,
+        "clase_8_t8": 275,
+        "clase_9_t9": 275,
+        "clase_10_motocicleta": 246
+      }
+    },
+    {
+      "nombre": "Calpulalpan 3",
+      "ubicacion": {
+        "latitud": 19.619189,
+        "longitud": -98.54942
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 276,
+        "clase_2_b2": 276,
+        "clase_3_b3": 276,
+        "clase_2_t2": 276,
+        "clase_3_t3": 276,
+        "clase_4_t4": 276,
+        "clase_5_t5": 276,
+        "clase_6_t6": 276,
+        "clase_7_t7": 276,
+        "clase_8_t8": 276,
+        "clase_9_t9": 276,
+        "clase_10_motocicleta": 247
+      }
+    },
+    {
+      "nombre": "Calpulalpan 4",
+      "ubicacion": {
+        "latitud": 19.619447,
+        "longitud": -98.54967
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 277,
+        "clase_2_b2": 277,
+        "clase_3_b3": 277,
+        "clase_2_t2": 277,
+        "clase_3_t3": 277,
+        "clase_4_t4": 277,
+        "clase_5_t5": 277,
+        "clase_6_t6": 277,
+        "clase_7_t7": 277,
+        "clase_8_t8": 277,
+        "clase_9_t9": 277,
+        "clase_10_motocicleta": 248
+      }
+    },
+    {
+      "nombre": "Sanctórum 1",
+      "ubicacion": {
+        "latitud": 19.515572,
+        "longitud": -98.469019
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 278,
+        "clase_2_b2": 278,
+        "clase_3_b3": 278,
+        "clase_2_t2": 278,
+        "clase_3_t3": 278,
+        "clase_4_t4": 278,
+        "clase_5_t5": 278,
+        "clase_6_t6": 278,
+        "clase_7_t7": 278,
+        "clase_8_t8": 278,
+        "clase_9_t9": 278,
+        "clase_10_motocicleta": 249
+      }
+    },
+    {
+      "nombre": "Sanctórum 2",
+      "ubicacion": {
+        "latitud": 19.512699,
+        "longitud": -98.466906
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 279,
+        "clase_2_b2": 279,
+        "clase_3_b3": 279,
+        "clase_2_t2": 279,
+        "clase_3_t3": 279,
+        "clase_4_t4": 279,
+        "clase_5_t5": 279,
+        "clase_6_t6": 279,
+        "clase_7_t7": 279,
+        "clase_8_t8": 279,
+        "clase_9_t9": 279,
+        "clase_10_motocicleta": 250
+      }
+    },
+    {
+      "nombre": "Sanctórum 3",
+      "ubicacion": {
+        "latitud": 19.512702,
+        "longitud": -98.468831
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 280,
+        "clase_2_b2": 280,
+        "clase_3_b3": 280,
+        "clase_2_t2": 280,
+        "clase_3_t3": 280,
+        "clase_4_t4": 280,
+        "clase_5_t5": 280,
+        "clase_6_t6": 280,
+        "clase_7_t7": 280,
+        "clase_8_t8": 280,
+        "clase_9_t9": 280,
+        "clase_10_motocicleta": 251
+      }
+    },
+    {
+      "nombre": "Sanctórum 4",
+      "ubicacion": {
+        "latitud": 19.513876,
+        "longitud": -98.46991
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 281,
+        "clase_2_b2": 281,
+        "clase_3_b3": 281,
+        "clase_2_t2": 281,
+        "clase_3_t3": 281,
+        "clase_4_t4": 281,
+        "clase_5_t5": 281,
+        "clase_6_t6": 281,
+        "clase_7_t7": 281,
+        "clase_8_t8": 281,
+        "clase_9_t9": 281,
+        "clase_10_motocicleta": 252
+      }
+    },
+    {
+      "nombre": "Sanctórum 5",
+      "ubicacion": {
+        "latitud": 19.518652,
+        "longitud": -98.471763
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 282,
+        "clase_2_b2": 282,
+        "clase_3_b3": 282,
+        "clase_2_t2": 282,
+        "clase_3_t3": 282,
+        "clase_4_t4": 282,
+        "clase_5_t5": 282,
+        "clase_6_t6": 282,
+        "clase_7_t7": 282,
+        "clase_8_t8": 282,
+        "clase_9_t9": 282,
+        "clase_10_motocicleta": 253
+      }
+    },
+    {
+      "nombre": "Texmelucan",
+      "ubicacion": {
+        "latitud": 19.301795,
+        "longitud": -98.409616
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 283,
+        "clase_2_b2": 283,
+        "clase_3_b3": 283,
+        "clase_2_t2": 283,
+        "clase_3_t3": 283,
+        "clase_4_t4": 283,
+        "clase_5_t5": 283,
+        "clase_6_t6": 283,
+        "clase_7_t7": 283,
+        "clase_8_t8": 283,
+        "clase_9_t9": 283,
+        "clase_10_motocicleta": 254
+      }
+    },
+    {
+      "nombre": "La Carbonera",
+      "ubicacion": {
+        "latitud": 25.510976,
+        "longitud": -100.868373
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 284,
+        "clase_2_b2": 284,
+        "clase_3_b3": 284,
+        "clase_2_t2": 284,
+        "clase_3_t3": 284,
+        "clase_4_t4": 284,
+        "clase_5_t5": 284,
+        "clase_6_t6": 284,
+        "clase_7_t7": 284,
+        "clase_8_t8": 284,
+        "clase_9_t9": 284,
+        "clase_10_motocicleta": 255
+      }
+    },
+    {
+      "nombre": "San Nicolás de los Jassos",
+      "ubicacion": {
+        "latitud": 22.129759,
+        "longitud": -100.825106
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 285,
+        "clase_2_b2": 285,
+        "clase_3_b3": 285,
+        "clase_2_t2": 285,
+        "clase_3_t3": 285,
+        "clase_4_t4": 285,
+        "clase_5_t5": 285,
+        "clase_6_t6": 285,
+        "clase_7_t7": 285,
+        "clase_8_t8": 285,
+        "clase_9_t9": 285,
+        "clase_10_motocicleta": 256
+      }
+    },
+    {
+      "nombre": "Loma Real",
+      "ubicacion": {
+        "latitud": 22.276443,
+        "longitud": -97.893343
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 288,
+        "clase_2_b2": 288,
+        "clase_3_b3": 288,
+        "clase_2_t2": 288,
+        "clase_3_t3": 288,
+        "clase_4_t4": 288,
+        "clase_5_t5": 288,
+        "clase_6_t6": 288,
+        "clase_7_t7": 288,
+        "clase_8_t8": 288,
+        "clase_9_t9": 288,
+        "clase_10_motocicleta": 259
+      }
+    },
+    {
+      "nombre": "Tampico",
+      "ubicacion": {
+        "latitud": 22.275332,
+        "longitud": -97.893427
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 290,
+        "clase_2_b2": 290,
+        "clase_3_b3": 290,
+        "clase_2_t2": 290,
+        "clase_3_t3": 290,
+        "clase_4_t4": 290,
+        "clase_5_t5": 290,
+        "clase_6_t6": 290,
+        "clase_7_t7": 290,
+        "clase_8_t8": 290,
+        "clase_9_t9": 290,
+        "clase_10_motocicleta": 261
+      }
+    },
+    {
+      "nombre": "Ecuandureo",
+      "ubicacion": {
+        "latitud": 20.17505,
+        "longitud": -102.191319
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 291,
+        "clase_2_b2": 291,
+        "clase_3_b3": 291,
+        "clase_2_t2": 291,
+        "clase_3_t3": 291,
+        "clase_4_t4": 291,
+        "clase_5_t5": 291,
+        "clase_6_t6": 291,
+        "clase_7_t7": 291,
+        "clase_8_t8": 291,
+        "clase_9_t9": 291,
+        "clase_10_motocicleta": 262
+      }
+    },
+    {
+      "nombre": "Huaniqueo A1",
+      "ubicacion": {
+        "latitud": 19.884267,
+        "longitud": -101.510489
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 294,
+        "clase_2_b2": 294,
+        "clase_3_b3": 294,
+        "clase_2_t2": 294,
+        "clase_3_t3": 294,
+        "clase_4_t4": 294,
+        "clase_5_t5": 294,
+        "clase_6_t6": 294,
+        "clase_7_t7": 294,
+        "clase_8_t8": 294,
+        "clase_9_t9": 294,
+        "clase_10_motocicleta": 265
+      }
+    },
+    {
+      "nombre": "Huaniqueo A2",
+      "ubicacion": {
+        "latitud": 19.882534,
+        "longitud": -101.511604
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 295,
+        "clase_2_b2": 295,
+        "clase_3_b3": 295,
+        "clase_2_t2": 295,
+        "clase_3_t3": 295,
+        "clase_4_t4": 295,
+        "clase_5_t5": 295,
+        "clase_6_t6": 295,
+        "clase_7_t7": 295,
+        "clase_8_t8": 295,
+        "clase_9_t9": 295,
+        "clase_10_motocicleta": 266
+      }
+    },
+    {
+      "nombre": "Jeráhuaro A1",
+      "ubicacion": {
+        "latitud": 19.894416,
+        "longitud": -100.646701
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 296,
+        "clase_2_b2": 296,
+        "clase_3_b3": 296,
+        "clase_2_t2": 296,
+        "clase_3_t3": 296,
+        "clase_4_t4": 296,
+        "clase_5_t5": 296,
+        "clase_6_t6": 296,
+        "clase_7_t7": 296,
+        "clase_8_t8": 296,
+        "clase_9_t9": 296,
+        "clase_10_motocicleta": 267
+      }
+    },
+    {
+      "nombre": "Jeráhuaro A2",
+      "ubicacion": {
+        "latitud": 19.893593,
+        "longitud": -100.651203
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 297,
+        "clase_2_b2": 297,
+        "clase_3_b3": 297,
+        "clase_2_t2": 297,
+        "clase_3_t3": 297,
+        "clase_4_t4": 297,
+        "clase_5_t5": 297,
+        "clase_6_t6": 297,
+        "clase_7_t7": 297,
+        "clase_8_t8": 297,
+        "clase_9_t9": 297,
+        "clase_10_motocicleta": 268
+      }
+    },
+    {
+      "nombre": "Ocotlán",
+      "ubicacion": {
+        "latitud": 20.40586,
+        "longitud": -102.73889
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 298,
+        "clase_2_b2": 298,
+        "clase_3_b3": 298,
+        "clase_2_t2": 298,
+        "clase_3_t3": 298,
+        "clase_4_t4": 298,
+        "clase_5_t5": 298,
+        "clase_6_t6": 298,
+        "clase_7_t7": 298,
+        "clase_8_t8": 298,
+        "clase_9_t9": 298,
+        "clase_10_motocicleta": 269
+      }
+    },
+    {
+      "nombre": "Ocotlán A1",
+      "ubicacion": {
+        "latitud": 20.406969,
+        "longitud": -102.738906
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 299,
+        "clase_2_b2": 299,
+        "clase_3_b3": 299,
+        "clase_2_t2": 299,
+        "clase_3_t3": 299,
+        "clase_4_t4": 299,
+        "clase_5_t5": 299,
+        "clase_6_t6": 299,
+        "clase_7_t7": 299,
+        "clase_8_t8": 299,
+        "clase_9_t9": 299,
+        "clase_10_motocicleta": 270
+      }
+    },
+    {
+      "nombre": "Ocotlán A2",
+      "ubicacion": {
+        "latitud": 20.404903,
+        "longitud": -102.739378
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 300,
+        "clase_2_b2": 300,
+        "clase_3_b3": 300,
+        "clase_2_t2": 300,
+        "clase_3_t3": 300,
+        "clase_4_t4": 300,
+        "clase_5_t5": 300,
+        "clase_6_t6": 300,
+        "clase_7_t7": 300,
+        "clase_8_t8": 300,
+        "clase_9_t9": 300,
+        "clase_10_motocicleta": 271
+      }
+    },
+    {
+      "nombre": "Panindícuaro",
+      "ubicacion": {
+        "latitud": 19.972189,
+        "longitud": -101.756945
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 301,
+        "clase_2_b2": 301,
+        "clase_3_b3": 301,
+        "clase_2_t2": 301,
+        "clase_3_t3": 301,
+        "clase_4_t4": 301,
+        "clase_5_t5": 301,
+        "clase_6_t6": 301,
+        "clase_7_t7": 301,
+        "clase_8_t8": 301,
+        "clase_9_t9": 301,
+        "clase_10_motocicleta": 272
+      }
+    },
+    {
+      "nombre": "Vista Hermosa A1",
+      "ubicacion": {
+        "latitud": 20.269788,
+        "longitud": -102.43991
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 305,
+        "clase_2_b2": 305,
+        "clase_3_b3": 305,
+        "clase_2_t2": 305,
+        "clase_3_t3": 305,
+        "clase_4_t4": 305,
+        "clase_5_t5": 305,
+        "clase_6_t6": 305,
+        "clase_7_t7": 305,
+        "clase_8_t8": 305,
+        "clase_9_t9": 305,
+        "clase_10_motocicleta": 276
+      }
+    },
+    {
+      "nombre": "Vista Hermosa A2",
+      "ubicacion": {
+        "latitud": 20.269344,
+        "longitud": -102.441826
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 306,
+        "clase_2_b2": 306,
+        "clase_3_b3": 306,
+        "clase_2_t2": 306,
+        "clase_3_t3": 306,
+        "clase_4_t4": 306,
+        "clase_5_t5": 306,
+        "clase_6_t6": 306,
+        "clase_7_t7": 306,
+        "clase_8_t8": 306,
+        "clase_9_t9": 306,
+        "clase_10_motocicleta": 277
+      }
+    },
+    {
+      "nombre": "Zinapécuaro",
+      "ubicacion": {
+        "latitud": 19.901776,
+        "longitud": -100.788521
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 307,
+        "clase_2_b2": 307,
+        "clase_3_b3": 307,
+        "clase_2_t2": 307,
+        "clase_3_t3": 307,
+        "clase_4_t4": 307,
+        "clase_5_t5": 307,
+        "clase_6_t6": 307,
+        "clase_7_t7": 307,
+        "clase_8_t8": 307,
+        "clase_9_t9": 307,
+        "clase_10_motocicleta": 278
+      }
+    },
+    {
+      "nombre": "Zinapécuaro A1",
+      "ubicacion": {
+        "latitud": 19.902373,
+        "longitud": -100.787561
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 309,
+        "clase_2_b2": 309,
+        "clase_3_b3": 309,
+        "clase_2_t2": 309,
+        "clase_3_t3": 309,
+        "clase_4_t4": 309,
+        "clase_5_t5": 309,
+        "clase_6_t6": 309,
+        "clase_7_t7": 309,
+        "clase_8_t8": 309,
+        "clase_9_t9": 309,
+        "clase_10_motocicleta": 280
+      }
+    },
+    {
+      "nombre": "Zinapécuaro A2",
+      "ubicacion": {
+        "latitud": 19.900892,
+        "longitud": -100.789019
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 311,
+        "clase_2_b2": 311,
+        "clase_3_b3": 311,
+        "clase_2_t2": 311,
+        "clase_3_t3": 311,
+        "clase_4_t4": 311,
+        "clase_5_t5": 311,
+        "clase_6_t6": 311,
+        "clase_7_t7": 311,
+        "clase_8_t8": 311,
+        "clase_9_t9": 311,
+        "clase_10_motocicleta": 282
+      }
+    },
+    {
+      "nombre": "Costa Rica",
+      "ubicacion": {
+        "latitud": 24.570288,
+        "longitud": -107.430223
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 312,
+        "clase_2_b2": 312,
+        "clase_3_b3": 312,
+        "clase_2_t2": 312,
+        "clase_3_t3": 312,
+        "clase_4_t4": 312,
+        "clase_5_t5": 312,
+        "clase_6_t6": 312,
+        "clase_7_t7": 312,
+        "clase_8_t8": 312,
+        "clase_9_t9": 312,
+        "clase_10_motocicleta": 283
+      }
+    },
+    {
+      "nombre": "Mármol",
+      "ubicacion": {
+        "latitud": 23.471208,
+        "longitud": -106.569542
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 313,
+        "clase_2_b2": 313,
+        "clase_3_b3": 313,
+        "clase_2_t2": 313,
+        "clase_3_t3": 313,
+        "clase_4_t4": 313,
+        "clase_5_t5": 313,
+        "clase_6_t6": 313,
+        "clase_7_t7": 313,
+        "clase_8_t8": 313,
+        "clase_9_t9": 313,
+        "clase_10_motocicleta": 284
+      }
+    },
+    {
+      "nombre": "Quilá A1",
+      "ubicacion": {
+        "latitud": 24.397637,
+        "longitud": -107.269976
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 314,
+        "clase_2_b2": 314,
+        "clase_3_b3": 314,
+        "clase_2_t2": 314,
+        "clase_3_t3": 314,
+        "clase_4_t4": 314,
+        "clase_5_t5": 314,
+        "clase_6_t6": 314,
+        "clase_7_t7": 314,
+        "clase_8_t8": 314,
+        "clase_9_t9": 314,
+        "clase_10_motocicleta": 285
+      }
+    },
+    {
+      "nombre": "Quilá A2",
+      "ubicacion": {
+        "latitud": 24.396624,
+        "longitud": -107.271899
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 315,
+        "clase_2_b2": 315,
+        "clase_3_b3": 315,
+        "clase_2_t2": 315,
+        "clase_3_t3": 315,
+        "clase_4_t4": 315,
+        "clase_5_t5": 315,
+        "clase_6_t6": 315,
+        "clase_7_t7": 315,
+        "clase_8_t8": 315,
+        "clase_9_t9": 315,
+        "clase_10_motocicleta": 286
+      }
+    },
+    {
+      "nombre": "Pisté",
+      "ubicacion": {
+        "latitud": 20.728862,
+        "longitud": -88.583181
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 316,
+        "clase_2_b2": 316,
+        "clase_3_b3": 316,
+        "clase_2_t2": 316,
+        "clase_3_t3": 316,
+        "clase_4_t4": 316,
+        "clase_5_t5": 316,
+        "clase_6_t6": 316,
+        "clase_7_t7": 316,
+        "clase_8_t8": 316,
+        "clase_9_t9": 316,
+        "clase_10_motocicleta": 287
+      }
+    },
+    {
+      "nombre": "Xcan",
+      "ubicacion": {
+        "latitud": 20.876892,
+        "longitud": -87.63614
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 319,
+        "clase_2_b2": 319,
+        "clase_3_b3": 319,
+        "clase_2_t2": 319,
+        "clase_3_t3": 319,
+        "clase_4_t4": 319,
+        "clase_5_t5": 319,
+        "clase_6_t6": 319,
+        "clase_7_t7": 319,
+        "clase_8_t8": 319,
+        "clase_9_t9": 319,
+        "clase_10_motocicleta": 290
+      }
+    },
+    {
+      "nombre": "Tlalpan",
+      "ubicacion": {
+        "latitud": 19.241915,
+        "longitud": -99.148321
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 320,
+        "clase_2_b2": 320,
+        "clase_3_b3": 320,
+        "clase_2_t2": 320,
+        "clase_3_t3": 320,
+        "clase_4_t4": 320,
+        "clase_5_t5": 320,
+        "clase_6_t6": 320,
+        "clase_7_t7": 320,
+        "clase_8_t8": 320,
+        "clase_9_t9": 320,
+        "clase_10_motocicleta": 291
+      }
+    },
+    {
+      "nombre": "Tres Marías A1",
+      "ubicacion": {
+        "latitud": 19.050851,
+        "longitud": -99.241365
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 321,
+        "clase_2_b2": 321,
+        "clase_3_b3": 321,
+        "clase_2_t2": 321,
+        "clase_3_t3": 321,
+        "clase_4_t4": 321,
+        "clase_5_t5": 321,
+        "clase_6_t6": 321,
+        "clase_7_t7": 321,
+        "clase_8_t8": 321,
+        "clase_9_t9": 321,
+        "clase_10_motocicleta": 292
+      }
+    },
+    {
+      "nombre": "Tres Marías A2",
+      "ubicacion": {
+        "latitud": 19.056209,
+        "longitud": -99.241097
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 322,
+        "clase_2_b2": 322,
+        "clase_3_b3": 322,
+        "clase_2_t2": 322,
+        "clase_3_t3": 322,
+        "clase_4_t4": 322,
+        "clase_5_t5": 322,
+        "clase_6_t6": 322,
+        "clase_7_t7": 322,
+        "clase_8_t8": 322,
+        "clase_9_t9": 322,
+        "clase_10_motocicleta": 293
+      }
+    },
+    {
+      "nombre": "Contadero 1",
+      "ubicacion": {
+        "latitud": 19.333688,
+        "longitud": -99.313794
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 323,
+        "clase_2_b2": 323,
+        "clase_3_b3": 323,
+        "clase_2_t2": 323,
+        "clase_3_t3": 323,
+        "clase_4_t4": 323,
+        "clase_5_t5": 323,
+        "clase_6_t6": 323,
+        "clase_7_t7": 323,
+        "clase_8_t8": 323,
+        "clase_9_t9": 323,
+        "clase_10_motocicleta": 294
+      }
+    },
+    {
+      "nombre": "Contadero 2",
+      "ubicacion": {
+        "latitud": 19.331793,
+        "longitud": -99.31516
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 324,
+        "clase_2_b2": 324,
+        "clase_3_b3": 324,
+        "clase_2_t2": 324,
+        "clase_3_t3": 324,
+        "clase_4_t4": 324,
+        "clase_5_t5": 324,
+        "clase_6_t6": 324,
+        "clase_7_t7": 324,
+        "clase_8_t8": 324,
+        "clase_9_t9": 324,
+        "clase_10_motocicleta": 295
+      }
+    },
+    {
+      "nombre": "Santa Fe",
+      "ubicacion": {
+        "latitud": 19.363385,
+        "longitud": -99.26732
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 328,
+        "clase_2_b2": 328,
+        "clase_3_b3": 328,
+        "clase_2_t2": 328,
+        "clase_3_t3": 328,
+        "clase_4_t4": 328,
+        "clase_5_t5": 328,
+        "clase_6_t6": 328,
+        "clase_7_t7": 328,
+        "clase_8_t8": 328,
+        "clase_9_t9": 328,
+        "clase_10_motocicleta": 299
+      }
+    },
+    {
+      "nombre": "Ojo de Agua",
+      "ubicacion": {
+        "latitud": 19.618814,
+        "longitud": -99.029522
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 329,
+        "clase_2_b2": 329,
+        "clase_3_b3": 329,
+        "clase_2_t2": 329,
+        "clase_3_t3": 329,
+        "clase_4_t4": 329,
+        "clase_5_t5": 329,
+        "clase_6_t6": 329,
+        "clase_7_t7": 329,
+        "clase_8_t8": 329,
+        "clase_9_t9": 329,
+        "clase_10_motocicleta": 300
+      }
+    },
+    {
+      "nombre": "San Cristóbal",
+      "ubicacion": {
+        "latitud": 19.602763,
+        "longitud": -99.038148
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 330,
+        "clase_2_b2": 330,
+        "clase_3_b3": 330,
+        "clase_2_t2": 330,
+        "clase_3_t3": 330,
+        "clase_4_t4": 330,
+        "clase_5_t5": 330,
+        "clase_6_t6": 330,
+        "clase_7_t7": 330,
+        "clase_8_t8": 330,
+        "clase_9_t9": 330,
+        "clase_10_motocicleta": 301
+      }
+    },
+    {
+      "nombre": "Chalco",
+      "ubicacion": {
+        "latitud": 19.292034,
+        "longitud": -98.88175
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 331,
+        "clase_2_b2": 331,
+        "clase_3_b3": 331,
+        "clase_2_t2": 331,
+        "clase_3_t3": 331,
+        "clase_4_t4": 331,
+        "clase_5_t5": 331,
+        "clase_6_t6": 331,
+        "clase_7_t7": 331,
+        "clase_8_t8": 331,
+        "clase_9_t9": 331,
+        "clase_10_motocicleta": 302
+      }
+    },
+    {
+      "nombre": "San Martín",
+      "ubicacion": {
+        "latitud": 19.241121,
+        "longitud": -98.385855
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 333,
+        "clase_2_b2": 333,
+        "clase_3_b3": 333,
+        "clase_2_t2": 333,
+        "clase_3_t3": 333,
+        "clase_4_t4": 333,
+        "clase_5_t5": 333,
+        "clase_6_t6": 333,
+        "clase_7_t7": 333,
+        "clase_8_t8": 333,
+        "clase_9_t9": 333,
+        "clase_10_motocicleta": 304
+      }
+    },
+    {
+      "nombre": "Jorobas A1",
+      "ubicacion": {
+        "latitud": 19.826191,
+        "longitud": -99.250048
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 334,
+        "clase_2_b2": 334,
+        "clase_3_b3": 334,
+        "clase_2_t2": 334,
+        "clase_3_t3": 334,
+        "clase_4_t4": 334,
+        "clase_5_t5": 334,
+        "clase_6_t6": 334,
+        "clase_7_t7": 334,
+        "clase_8_t8": 334,
+        "clase_9_t9": 334,
+        "clase_10_motocicleta": 305
+      }
+    },
+    {
+      "nombre": "Jorobas A2",
+      "ubicacion": {
+        "latitud": 19.825708,
+        "longitud": -99.250155
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 335,
+        "clase_2_b2": 335,
+        "clase_3_b3": 335,
+        "clase_2_t2": 335,
+        "clase_3_t3": 335,
+        "clase_4_t4": 335,
+        "clase_5_t5": 335,
+        "clase_6_t6": 335,
+        "clase_7_t7": 335,
+        "clase_8_t8": 335,
+        "clase_9_t9": 335,
+        "clase_10_motocicleta": 306
+      }
+    },
+    {
+      "nombre": "Palmillas",
+      "ubicacion": {
+        "latitud": 20.296108,
+        "longitud": -99.929058
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 336,
+        "clase_2_b2": 336,
+        "clase_3_b3": 336,
+        "clase_2_t2": 336,
+        "clase_3_t3": 336,
+        "clase_4_t4": 336,
+        "clase_5_t5": 336,
+        "clase_6_t6": 336,
+        "clase_7_t7": 336,
+        "clase_8_t8": 336,
+        "clase_9_t9": 336,
+        "clase_10_motocicleta": 307
+      }
+    },
+    {
+      "nombre": "Polotitlán A1",
+      "ubicacion": {
+        "latitud": 20.22643,
+        "longitud": -99.810686
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 337,
+        "clase_2_b2": 337,
+        "clase_3_b3": 337,
+        "clase_2_t2": 337,
+        "clase_3_t3": 337,
+        "clase_4_t4": 337,
+        "clase_5_t5": 337,
+        "clase_6_t6": 337,
+        "clase_7_t7": 337,
+        "clase_8_t8": 337,
+        "clase_9_t9": 337,
+        "clase_10_motocicleta": 308
+      }
+    },
+    {
+      "nombre": "Polotitlán A2",
+      "ubicacion": {
+        "latitud": 20.225308,
+        "longitud": -99.810547
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 338,
+        "clase_2_b2": 338,
+        "clase_3_b3": 338,
+        "clase_2_t2": 338,
+        "clase_3_t3": 338,
+        "clase_4_t4": 338,
+        "clase_5_t5": 338,
+        "clase_6_t6": 338,
+        "clase_7_t7": 338,
+        "clase_8_t8": 338,
+        "clase_9_t9": 338,
+        "clase_10_motocicleta": 309
+      }
+    },
+    {
+      "nombre": "Tepotzotlán",
+      "ubicacion": {
+        "latitud": 19.715364,
+        "longitud": -99.207569
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 339,
+        "clase_2_b2": 339,
+        "clase_3_b3": 339,
+        "clase_2_t2": 339,
+        "clase_3_t3": 339,
+        "clase_4_t4": 339,
+        "clase_5_t5": 339,
+        "clase_6_t6": 339,
+        "clase_7_t7": 339,
+        "clase_8_t8": 339,
+        "clase_9_t9": 339,
+        "clase_10_motocicleta": 310
+      }
+    },
+    {
+      "nombre": "Agualeguas A1",
+      "ubicacion": {
+        "latitud": 26.340266,
+        "longitud": -100.070469
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 340,
+        "clase_2_b2": 340,
+        "clase_3_b3": 340,
+        "clase_2_t2": 340,
+        "clase_3_t3": 340,
+        "clase_4_t4": 340,
+        "clase_5_t5": 340,
+        "clase_6_t6": 340,
+        "clase_7_t7": 340,
+        "clase_8_t8": 340,
+        "clase_9_t9": 340,
+        "clase_10_motocicleta": 311
+      }
+    },
+    {
+      "nombre": "Agualeguas A2",
+      "ubicacion": {
+        "latitud": 26.341505,
+        "longitud": -100.071739
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 341,
+        "clase_2_b2": 341,
+        "clase_3_b3": 341,
+        "clase_2_t2": 341,
+        "clase_3_t3": 341,
+        "clase_4_t4": 341,
+        "clase_5_t5": 341,
+        "clase_6_t6": 341,
+        "clase_7_t7": 341,
+        "clase_8_t8": 341,
+        "clase_9_t9": 341,
+        "clase_10_motocicleta": 312
+      }
+    },
+    {
+      "nombre": "Parás",
+      "ubicacion": {
+        "latitud": 26.508381,
+        "longitud": -100.008192
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 342,
+        "clase_2_b2": 342,
+        "clase_3_b3": 342,
+        "clase_2_t2": 342,
+        "clase_3_t3": 342,
+        "clase_4_t4": 342,
+        "clase_5_t5": 342,
+        "clase_6_t6": 342,
+        "clase_7_t7": 342,
+        "clase_8_t8": 342,
+        "clase_9_t9": 342,
+        "clase_10_motocicleta": 313
+      }
+    },
+    {
+      "nombre": "Sabinas",
+      "ubicacion": {
+        "latitud": 26.512104,
+        "longitud": -100.007159
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 343,
+        "clase_2_b2": 343,
+        "clase_3_b3": 343,
+        "clase_2_t2": 343,
+        "clase_3_t3": 343,
+        "clase_4_t4": 343,
+        "clase_5_t5": 343,
+        "clase_6_t6": 343,
+        "clase_7_t7": 343,
+        "clase_8_t8": 343,
+        "clase_9_t9": 343,
+        "clase_10_motocicleta": 314
+      }
+    },
+    {
+      "nombre": "Sabinas Aux.",
+      "ubicacion": {
+        "latitud": 26.508381,
+        "longitud": -100.008192
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 344,
+        "clase_2_b2": 344,
+        "clase_3_b3": 344,
+        "clase_2_t2": 344,
+        "clase_3_t3": 344,
+        "clase_4_t4": 344,
+        "clase_5_t5": 344,
+        "clase_6_t6": 344,
+        "clase_7_t7": 344,
+        "clase_8_t8": 344,
+        "clase_9_t9": 344,
+        "clase_10_motocicleta": 315
+      }
+    },
+    {
+      "nombre": "Vallecillos",
+      "ubicacion": {
+        "latitud": 26.642361,
+        "longitud": -99.942202
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 345,
+        "clase_2_b2": 345,
+        "clase_3_b3": 345,
+        "clase_2_t2": 345,
+        "clase_3_t3": 345,
+        "clase_4_t4": 345,
+        "clase_5_t5": 345,
+        "clase_6_t6": 345,
+        "clase_7_t7": 345,
+        "clase_8_t8": 345,
+        "clase_9_t9": 345,
+        "clase_10_motocicleta": 316
+      }
+    },
+    {
+      "nombre": "Playa 1 A1",
+      "ubicacion": {
+        "latitud": 25.456853,
+        "longitud": -101.063694
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 346,
+        "clase_2_b2": 346,
+        "clase_3_b3": 346,
+        "clase_2_t2": 346,
+        "clase_3_t3": 346,
+        "clase_4_t4": 346,
+        "clase_5_t5": 346,
+        "clase_6_t6": 346,
+        "clase_7_t7": 346,
+        "clase_8_t8": 346,
+        "clase_9_t9": 346,
+        "clase_10_motocicleta": 317
+      }
+    },
+    {
+      "nombre": "Playa 1 A2",
+      "ubicacion": {
+        "latitud": 25.457025,
+        "longitud": -101.063828
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 347,
+        "clase_2_b2": 347,
+        "clase_3_b3": 347,
+        "clase_2_t2": 347,
+        "clase_3_t3": 347,
+        "clase_4_t4": 347,
+        "clase_5_t5": 347,
+        "clase_6_t6": 347,
+        "clase_7_t7": 347,
+        "clase_8_t8": 347,
+        "clase_9_t9": 347,
+        "clase_10_motocicleta": 318
+      }
+    },
+    {
+      "nombre": "Playa 1 P",
+      "ubicacion": {
+        "latitud": 25.44846,
+        "longitud": -101.067009
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 348,
+        "clase_2_b2": 348,
+        "clase_3_b3": 348,
+        "clase_2_t2": 348,
+        "clase_3_t3": 348,
+        "clase_4_t4": 348,
+        "clase_5_t5": 348,
+        "clase_6_t6": 348,
+        "clase_7_t7": 348,
+        "clase_8_t8": 348,
+        "clase_9_t9": 348,
+        "clase_10_motocicleta": 319
+      }
+    },
+    {
+      "nombre": "Playa 2 A1",
+      "ubicacion": {
+        "latitud": 25.615722,
+        "longitud": -100.908414
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 349,
+        "clase_2_b2": 349,
+        "clase_3_b3": 349,
+        "clase_2_t2": 349,
+        "clase_3_t3": 349,
+        "clase_4_t4": 349,
+        "clase_5_t5": 349,
+        "clase_6_t6": 349,
+        "clase_7_t7": 349,
+        "clase_8_t8": 349,
+        "clase_9_t9": 349,
+        "clase_10_motocicleta": 320
+      }
+    },
+    {
+      "nombre": "Playa 2 A2",
+      "ubicacion": {
+        "latitud": 25.616308,
+        "longitud": -100.908432
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 350,
+        "clase_2_b2": 350,
+        "clase_3_b3": 350,
+        "clase_2_t2": 350,
+        "clase_3_t3": 350,
+        "clase_4_t4": 350,
+        "clase_5_t5": 350,
+        "clase_6_t6": 350,
+        "clase_7_t7": 350,
+        "clase_8_t8": 350,
+        "clase_9_t9": 350,
+        "clase_10_motocicleta": 321
+      }
+    },
+    {
+      "nombre": "Playa 2 P",
+      "ubicacion": {
+        "latitud": 25.612236,
+        "longitud": -100.913526
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 351,
+        "clase_2_b2": 351,
+        "clase_3_b3": 351,
+        "clase_2_t2": 351,
+        "clase_3_t3": 351,
+        "clase_4_t4": 351,
+        "clase_5_t5": 351,
+        "clase_6_t6": 351,
+        "clase_7_t7": 351,
+        "clase_8_t8": 351,
+        "clase_9_t9": 351,
+        "clase_10_motocicleta": 322
+      }
+    },
+    {
+      "nombre": "Playa 3 A1",
+      "ubicacion": {
+        "latitud": 25.696264,
+        "longitud": -100.57736
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 352,
+        "clase_2_b2": 352,
+        "clase_3_b3": 352,
+        "clase_2_t2": 352,
+        "clase_3_t3": 352,
+        "clase_4_t4": 352,
+        "clase_5_t5": 352,
+        "clase_6_t6": 352,
+        "clase_7_t7": 352,
+        "clase_8_t8": 352,
+        "clase_9_t9": 352,
+        "clase_10_motocicleta": 323
+      }
+    },
+    {
+      "nombre": "Playa 3 A2",
+      "ubicacion": {
+        "latitud": 25.696264,
+        "longitud": -100.57736
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 353,
+        "clase_2_b2": 353,
+        "clase_3_b3": 353,
+        "clase_2_t2": 353,
+        "clase_3_t3": 353,
+        "clase_4_t4": 353,
+        "clase_5_t5": 353,
+        "clase_6_t6": 353,
+        "clase_7_t7": 353,
+        "clase_8_t8": 353,
+        "clase_9_t9": 353,
+        "clase_10_motocicleta": 324
+      }
+    },
+    {
+      "nombre": "Playa 3 P",
+      "ubicacion": {
+        "latitud": 25.696264,
+        "longitud": -100.57736
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 354,
+        "clase_2_b2": 354,
+        "clase_3_b3": 354,
+        "clase_2_t2": 354,
+        "clase_3_t3": 354,
+        "clase_4_t4": 354,
+        "clase_5_t5": 354,
+        "clase_6_t6": 354,
+        "clase_7_t7": 354,
+        "clase_8_t8": 354,
+        "clase_9_t9": 354,
+        "clase_10_motocicleta": 325
+      }
+    },
+    {
+      "nombre": "La Cinta",
+      "ubicacion": {
+        "latitud": 20.073484,
+        "longitud": -101.136663
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 355,
+        "clase_2_b2": 355,
+        "clase_3_b3": 355,
+        "clase_2_t2": 355,
+        "clase_3_t3": 355,
+        "clase_4_t4": 355,
+        "clase_5_t5": 355,
+        "clase_6_t6": 355,
+        "clase_7_t7": 355,
+        "clase_8_t8": 355,
+        "clase_9_t9": 355,
+        "clase_10_motocicleta": 326
+      }
+    },
+    {
+      "nombre": "Cuitzeo A1",
+      "ubicacion": {
+        "latitud": 19.968867,
+        "longitud": -101.159727
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 356,
+        "clase_2_b2": 356,
+        "clase_3_b3": 356,
+        "clase_2_t2": 356,
+        "clase_3_t3": 356,
+        "clase_4_t4": 356,
+        "clase_5_t5": 356,
+        "clase_6_t6": 356,
+        "clase_7_t7": 356,
+        "clase_8_t8": 356,
+        "clase_9_t9": 356,
+        "clase_10_motocicleta": 327
+      }
+    },
+    {
+      "nombre": "Cuitzeo A2",
+      "ubicacion": {
+        "latitud": 19.968282,
+        "longitud": -101.162062
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 357,
+        "clase_2_b2": 357,
+        "clase_3_b3": 357,
+        "clase_2_t2": 357,
+        "clase_3_t3": 357,
+        "clase_4_t4": 357,
+        "clase_5_t5": 357,
+        "clase_6_t6": 357,
+        "clase_7_t7": 357,
+        "clase_8_t8": 357,
+        "clase_9_t9": 357,
+        "clase_10_motocicleta": 328
+      }
+    },
+    {
+      "nombre": "Uriangato",
+      "ubicacion": {
+        "latitud": 20.182921,
+        "longitud": -101.157187
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 358,
+        "clase_2_b2": 358,
+        "clase_3_b3": 358,
+        "clase_2_t2": 358,
+        "clase_3_t3": 358,
+        "clase_4_t4": 358,
+        "clase_5_t5": 358,
+        "clase_6_t6": 358,
+        "clase_7_t7": 358,
+        "clase_8_t8": 358,
+        "clase_9_t9": 358,
+        "clase_10_motocicleta": 329
+      }
+    },
+    {
+      "nombre": "Valle de Santiago",
+      "ubicacion": {
+        "latitud": 20.372552,
+        "longitud": -101.147354
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 360,
+        "clase_2_b2": 360,
+        "clase_3_b3": 360,
+        "clase_2_t2": 360,
+        "clase_3_t3": 360,
+        "clase_4_t4": 360,
+        "clase_5_t5": 360,
+        "clase_6_t6": 360,
+        "clase_7_t7": 360,
+        "clase_8_t8": 360,
+        "clase_9_t9": 360,
+        "clase_10_motocicleta": 331
+      }
+    },
+    {
+      "nombre": "Valtierrilla",
+      "ubicacion": {
+        "latitud": 20.542645,
+        "longitud": -101.137717
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 361,
+        "clase_2_b2": 361,
+        "clase_3_b3": 361,
+        "clase_2_t2": 361,
+        "clase_3_t3": 361,
+        "clase_4_t4": 361,
+        "clase_5_t5": 361,
+        "clase_6_t6": 361,
+        "clase_7_t7": 361,
+        "clase_8_t8": 361,
+        "clase_9_t9": 361,
+        "clase_10_motocicleta": 332
+      }
+    },
+    {
+      "nombre": "Valtierrilla A1",
+      "ubicacion": {
+        "latitud": 20.553053,
+        "longitud": -101.136236
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 362,
+        "clase_2_b2": 362,
+        "clase_3_b3": 362,
+        "clase_2_t2": 362,
+        "clase_3_t3": 362,
+        "clase_4_t4": 362,
+        "clase_5_t5": 362,
+        "clase_6_t6": 362,
+        "clase_7_t7": 362,
+        "clase_8_t8": 362,
+        "clase_9_t9": 362,
+        "clase_10_motocicleta": 333
+      }
+    },
+    {
+      "nombre": "Valtierrilla A2",
+      "ubicacion": {
+        "latitud": 20.553134,
+        "longitud": -101.136428
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 363,
+        "clase_2_b2": 363,
+        "clase_3_b3": 363,
+        "clase_2_t2": 363,
+        "clase_3_t3": 363,
+        "clase_4_t4": 363,
+        "clase_5_t5": 363,
+        "clase_6_t6": 363,
+        "clase_7_t7": 363,
+        "clase_8_t8": 363,
+        "clase_9_t9": 363,
+        "clase_10_motocicleta": 334
+      }
+    },
+    {
+      "nombre": "Feliciano",
+      "ubicacion": {
+        "latitud": 18.006497,
+        "longitud": -101.961761
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 364,
+        "clase_2_b2": 364,
+        "clase_3_b3": 364,
+        "clase_2_t2": 364,
+        "clase_3_t3": 364,
+        "clase_4_t4": 364,
+        "clase_5_t5": 364,
+        "clase_6_t6": 364,
+        "clase_7_t7": 364,
+        "clase_8_t8": 364,
+        "clase_9_t9": 364,
+        "clase_10_motocicleta": 335
+      }
+    },
+    {
+      "nombre": "Feliciano A1",
+      "ubicacion": {
+        "latitud": 18.004663,
+        "longitud": -101.9639
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 366,
+        "clase_2_b2": 366,
+        "clase_3_b3": 366,
+        "clase_2_t2": 366,
+        "clase_3_t3": 366,
+        "clase_4_t4": 366,
+        "clase_5_t5": 366,
+        "clase_6_t6": 366,
+        "clase_7_t7": 366,
+        "clase_8_t8": 366,
+        "clase_9_t9": 366,
+        "clase_10_motocicleta": 337
+      }
+    },
+    {
+      "nombre": "Feliciano A2",
+      "ubicacion": {
+        "latitud": 18.004082,
+        "longitud": -101.961901
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 367,
+        "clase_2_b2": 367,
+        "clase_3_b3": 367,
+        "clase_2_t2": 367,
+        "clase_3_t3": 367,
+        "clase_4_t4": 367,
+        "clase_5_t5": 367,
+        "clase_6_t6": 367,
+        "clase_7_t7": 367,
+        "clase_8_t8": 367,
+        "clase_9_t9": 367,
+        "clase_10_motocicleta": 338
+      }
+    },
+    {
+      "nombre": "Las Cañas",
+      "ubicacion": {
+        "latitud": 18.554181,
+        "longitud": -101.970317
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 368,
+        "clase_2_b2": 368,
+        "clase_3_b3": 368,
+        "clase_2_t2": 368,
+        "clase_3_t3": 368,
+        "clase_4_t4": 368,
+        "clase_5_t5": 368,
+        "clase_6_t6": 368,
+        "clase_7_t7": 368,
+        "clase_8_t8": 368,
+        "clase_9_t9": 368,
+        "clase_10_motocicleta": 339
+      }
+    },
+    {
+      "nombre": "Las Cañas A1",
+      "ubicacion": {
+        "latitud": 18.553657,
+        "longitud": -101.972961
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 369,
+        "clase_2_b2": 369,
+        "clase_3_b3": 369,
+        "clase_2_t2": 369,
+        "clase_3_t3": 369,
+        "clase_4_t4": 369,
+        "clase_5_t5": 369,
+        "clase_6_t6": 369,
+        "clase_7_t7": 369,
+        "clase_8_t8": 369,
+        "clase_9_t9": 369,
+        "clase_10_motocicleta": 340
+      }
+    },
+    {
+      "nombre": "Zirahuén",
+      "ubicacion": {
+        "latitud": 19.505606,
+        "longitud": -101.659297
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 370,
+        "clase_2_b2": 370,
+        "clase_3_b3": 370,
+        "clase_2_t2": 370,
+        "clase_3_t3": 370,
+        "clase_4_t4": 370,
+        "clase_5_t5": 370,
+        "clase_6_t6": 370,
+        "clase_7_t7": 370,
+        "clase_8_t8": 370,
+        "clase_9_t9": 370,
+        "clase_10_motocicleta": 341
+      }
+    },
+    {
+      "nombre": "Zirahuén A1",
+      "ubicacion": {
+        "latitud": 19.482235,
+        "longitud": -101.730717
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 371,
+        "clase_2_b2": 371,
+        "clase_3_b3": 371,
+        "clase_2_t2": 371,
+        "clase_3_t3": 371,
+        "clase_4_t4": 371,
+        "clase_5_t5": 371,
+        "clase_6_t6": 371,
+        "clase_7_t7": 371,
+        "clase_8_t8": 371,
+        "clase_9_t9": 371,
+        "clase_10_motocicleta": 342
+      }
+    },
+    {
+      "nombre": "Zurumucapío",
+      "ubicacion": {
+        "latitud": 19.441166,
+        "longitud": -101.882235
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 372,
+        "clase_2_b2": 372,
+        "clase_3_b3": 372,
+        "clase_2_t2": 372,
+        "clase_3_t3": 372,
+        "clase_4_t4": 372,
+        "clase_5_t5": 372,
+        "clase_6_t6": 372,
+        "clase_7_t7": 372,
+        "clase_8_t8": 372,
+        "clase_9_t9": 372,
+        "clase_10_motocicleta": 343
+      }
+    },
+    {
+      "nombre": "Peñón",
+      "ubicacion": {
+        "latitud": 19.468849,
+        "longitud": -99.004418
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 373,
+        "clase_2_b2": 373,
+        "clase_3_b3": 373,
+        "clase_2_t2": 373,
+        "clase_3_t3": 373,
+        "clase_4_t4": 373,
+        "clase_5_t5": 373,
+        "clase_6_t6": 373,
+        "clase_7_t7": 373,
+        "clase_8_t8": 373,
+        "clase_9_t9": 373,
+        "clase_10_motocicleta": 344
+      }
+    },
+    {
+      "nombre": "Texcoco",
+      "ubicacion": {
+        "latitud": 19.502896,
+        "longitud": -98.912747
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 374,
+        "clase_2_b2": 374,
+        "clase_3_b3": 374,
+        "clase_2_t2": 374,
+        "clase_3_t3": 374,
+        "clase_4_t4": 374,
+        "clase_5_t5": 374,
+        "clase_6_t6": 374,
+        "clase_7_t7": 374,
+        "clase_8_t8": 374,
+        "clase_9_t9": 374,
+        "clase_10_motocicleta": 345
+      }
+    },
+    {
+      "nombre": "Las Vigas",
+      "ubicacion": {
+        "latitud": 19.627722,
+        "longitud": -97.153089
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 375,
+        "clase_2_b2": 375,
+        "clase_3_b3": 375,
+        "clase_2_t2": 375,
+        "clase_3_t3": 375,
+        "clase_4_t4": 375,
+        "clase_5_t5": 375,
+        "clase_6_t6": 375,
+        "clase_7_t7": 375,
+        "clase_8_t8": 375,
+        "clase_9_t9": 375,
+        "clase_10_motocicleta": 346
+      }
+    },
+    {
+      "nombre": "Miradores",
+      "ubicacion": {
+        "latitud": 19.472105,
+        "longitud": -96.772824
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 376,
+        "clase_2_b2": 376,
+        "clase_3_b3": 376,
+        "clase_2_t2": 376,
+        "clase_3_t3": 376,
+        "clase_4_t4": 376,
+        "clase_5_t5": 376,
+        "clase_6_t6": 376,
+        "clase_7_t7": 376,
+        "clase_8_t8": 376,
+        "clase_9_t9": 376,
+        "clase_10_motocicleta": 347
+      }
+    },
+    {
+      "nombre": "Amozoc",
+      "ubicacion": {
+        "latitud": 19.049787,
+        "longitud": -98.032313
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 377,
+        "clase_2_b2": 377,
+        "clase_3_b3": 377,
+        "clase_2_t2": 377,
+        "clase_3_t3": 377,
+        "clase_4_t4": 377,
+        "clase_5_t5": 377,
+        "clase_6_t6": 377,
+        "clase_7_t7": 377,
+        "clase_8_t8": 377,
+        "clase_9_t9": 377,
+        "clase_10_motocicleta": 348
+      }
+    },
+    {
+      "nombre": "Alvarado",
+      "ubicacion": {
+        "latitud": 18.769878,
+        "longitud": -95.744556
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 379,
+        "clase_2_b2": 379,
+        "clase_3_b3": 379,
+        "clase_2_t2": 379,
+        "clase_3_t3": 379,
+        "clase_4_t4": 379,
+        "clase_5_t5": 379,
+        "clase_6_t6": 379,
+        "clase_7_t7": 379,
+        "clase_8_t8": 379,
+        "clase_9_t9": 379,
+        "clase_10_motocicleta": 350
+      }
+    },
+    {
+      "nombre": "Cadereyta",
+      "ubicacion": {
+        "latitud": 25.601059,
+        "longitud": -100.005737
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 380,
+        "clase_2_b2": 380,
+        "clase_3_b3": 380,
+        "clase_2_t2": 380,
+        "clase_3_t3": 380,
+        "clase_4_t4": 380,
+        "clase_5_t5": 380,
+        "clase_6_t6": 380,
+        "clase_7_t7": 380,
+        "clase_8_t8": 380,
+        "clase_9_t9": 380,
+        "clase_10_motocicleta": 351
+      }
+    },
+    {
+      "nombre": "Camargo",
+      "ubicacion": {
+        "latitud": 26.362441,
+        "longitud": -98.806402
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 381,
+        "clase_2_b2": 381,
+        "clase_3_b3": 381,
+        "clase_2_t2": 381,
+        "clase_3_t3": 381,
+        "clase_4_t4": 381,
+        "clase_5_t5": 381,
+        "clase_6_t6": 381,
+        "clase_7_t7": 381,
+        "clase_8_t8": 381,
+        "clase_9_t9": 381,
+        "clase_10_motocicleta": 352
+      }
+    },
+    {
+      "nombre": "Caracol",
+      "ubicacion": {
+        "latitud": 18.133114,
+        "longitud": -96.136671
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 382,
+        "clase_2_b2": 382,
+        "clase_3_b3": 382,
+        "clase_2_t2": 382,
+        "clase_3_t3": 382,
+        "clase_4_t4": 382,
+        "clase_5_t5": 382,
+        "clase_6_t6": 382,
+        "clase_7_t7": 382,
+        "clase_8_t8": 382,
+        "clase_9_t9": 382,
+        "clase_10_motocicleta": 353
+      }
+    },
+    {
+      "nombre": "Cd. Acuña",
+      "ubicacion": {
+        "latitud": 29.325454,
+        "longitud": -100.928793
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 383,
+        "clase_2_b2": 383,
+        "clase_3_b3": 383,
+        "clase_2_t2": 383,
+        "clase_3_t3": 383,
+        "clase_4_t4": 383,
+        "clase_5_t5": 383,
+        "clase_6_t6": 383,
+        "clase_7_t7": 383,
+        "clase_8_t8": 383,
+        "clase_9_t9": 383,
+        "clase_10_motocicleta": 354
+      }
+    },
+    {
+      "nombre": "Coatzacoalcos",
+      "ubicacion": {
+        "latitud": 18.115156,
+        "longitud": -94.410884
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 384,
+        "clase_2_b2": 384,
+        "clase_3_b3": 384,
+        "clase_2_t2": 384,
+        "clase_3_t3": 384,
+        "clase_4_t4": 384,
+        "clase_5_t5": 384,
+        "clase_6_t6": 384,
+        "clase_7_t7": 384,
+        "clase_8_t8": 384,
+        "clase_9_t9": 384,
+        "clase_10_motocicleta": 355
+      }
+    },
+    {
+      "nombre": "San Luis Río Colorado",
+      "ubicacion": {
+        "latitud": 32.491685,
+        "longitud": -114.808756
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 385,
+        "clase_2_b2": 385,
+        "clase_3_b3": 385,
+        "clase_2_t2": 385,
+        "clase_3_t3": 385,
+        "clase_4_t4": 385,
+        "clase_5_t5": 385,
+        "clase_6_t6": 385,
+        "clase_7_t7": 385,
+        "clase_8_t8": 385,
+        "clase_9_t9": 385,
+        "clase_10_motocicleta": 356
+      }
+    },
+    {
+      "nombre": "Sin cargo para los usuarios",
+      "ubicacion": {
+        "latitud": NaN,
+        "longitud": NaN
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 387,
+        "clase_2_b2": 387,
+        "clase_3_b3": 387,
+        "clase_2_t2": 387,
+        "clase_3_t3": 387,
+        "clase_4_t4": 387,
+        "clase_5_t5": 387,
+        "clase_6_t6": 387,
+        "clase_7_t7": 387,
+        "clase_8_t8": 387,
+        "clase_9_t9": 387,
+        "clase_10_motocicleta": 358
+      }
+    },
+    {
+      "nombre": "Culiacán",
+      "ubicacion": {
+        "latitud": 24.948879,
+        "longitud": -107.545718
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 388,
+        "clase_2_b2": 388,
+        "clase_3_b3": 388,
+        "clase_2_t2": 388,
+        "clase_3_t3": 388,
+        "clase_4_t4": 388,
+        "clase_5_t5": 388,
+        "clase_6_t6": 388,
+        "clase_7_t7": 388,
+        "clase_8_t8": 388,
+        "clase_9_t9": 388,
+        "clase_10_motocicleta": 359
+      }
+    },
+    {
+      "nombre": "Iguala",
+      "ubicacion": {
+        "latitud": 18.33621,
+        "longitud": -99.508327
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 389,
+        "clase_2_b2": 389,
+        "clase_3_b3": 389,
+        "clase_2_t2": 389,
+        "clase_3_t3": 389,
+        "clase_4_t4": 389,
+        "clase_5_t5": 389,
+        "clase_6_t6": 389,
+        "clase_7_t7": 389,
+        "clase_8_t8": 389,
+        "clase_9_t9": 389,
+        "clase_10_motocicleta": 360
+      }
+    },
+    {
+      "nombre": "Dovalí",
+      "ubicacion": {
+        "latitud": 18.013379,
+        "longitud": -94.396777
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 390,
+        "clase_2_b2": 390,
+        "clase_3_b3": 390,
+        "clase_2_t2": 390,
+        "clase_3_t3": 390,
+        "clase_4_t4": 390,
+        "clase_5_t5": 390,
+        "clase_6_t6": 390,
+        "clase_7_t7": 390,
+        "clase_8_t8": 390,
+        "clase_9_t9": 390,
+        "clase_10_motocicleta": 361
+      }
+    },
+    {
+      "nombre": "Dovalí Bis",
+      "ubicacion": {
+        "latitud": 18.014055,
+        "longitud": -94.443264
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 391,
+        "clase_2_b2": 391,
+        "clase_3_b3": 391,
+        "clase_2_t2": 391,
+        "clase_3_t3": 391,
+        "clase_4_t4": 391,
+        "clase_5_t5": 391,
+        "clase_6_t6": 391,
+        "clase_7_t7": 391,
+        "clase_8_t8": 391,
+        "clase_9_t9": 391,
+        "clase_10_motocicleta": 362
+      }
+    },
+    {
+      "nombre": "El Zacatal",
+      "ubicacion": {
+        "latitud": 18.61286,
+        "longitud": -91.860817
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 392,
+        "clase_2_b2": 392,
+        "clase_3_b3": 392,
+        "clase_2_t2": 392,
+        "clase_3_t3": 392,
+        "clase_4_t4": 392,
+        "clase_5_t5": 392,
+        "clase_6_t6": 392,
+        "clase_7_t7": 392,
+        "clase_8_t8": 392,
+        "clase_9_t9": 392,
+        "clase_10_motocicleta": 363
+      }
+    },
+    {
+      "nombre": "Juárez Lincoln",
+      "ubicacion": {
+        "latitud": 27.498254,
+        "longitud": -99.502409
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 394,
+        "clase_2_b2": 394,
+        "clase_3_b3": 394,
+        "clase_2_t2": 394,
+        "clase_3_t3": 394,
+        "clase_4_t4": 394,
+        "clase_5_t5": 394,
+        "clase_6_t6": 394,
+        "clase_7_t7": 394,
+        "clase_8_t8": 394,
+        "clase_9_t9": 394,
+        "clase_10_motocicleta": 365
+      }
+    },
+    {
+      "nombre": "La Piedad",
+      "ubicacion": {
+        "latitud": 20.352787,
+        "longitud": -102.025175
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 395,
+        "clase_2_b2": 395,
+        "clase_3_b3": 395,
+        "clase_2_t2": 395,
+        "clase_3_t3": 395,
+        "clase_4_t4": 395,
+        "clase_5_t5": 395,
         "clase_6_t6": 395,
         "clase_7_t7": 395,
         "clase_8_t8": 395,
         "clase_9_t9": 395,
-        "clase_10_motocicleta": 32
+        "clase_10_motocicleta": 366
       }
     },
     {
-      "nombre": "Arco Norte - Sección Entradas y Salidas",
-      "tipo": "por_punto",
-      "tarifas": [
-        {
-          "entrada": {
-            "nombre": "Pachuca - Entrada Principal",
-            "ubicacion": {
-              "latitud": 19.92735,
-              "longitud": -98.8914
-            }
-          },
-          "salida": {
-            "nombre": "Acambay - Salida Principal",
-            "ubicacion": {
-              "latitud": 19.9235,
-              "longitud": -99.8442
-            }
-          },
-          "costos": {
-            "clase_1": 265,
-            "clase_2_b2": 525,
-            "clase_3_b3": 525,
-            "clase_2_t2": 525,
-            "clase_3_t3": 525,
-            "clase_4_t4": 525,
-            "clase_5_t5": 790,
-            "clase_6_t6": 790,
-            "clase_7_t7": 1215,
-            "clase_8_t8": 1215,
-            "clase_9_t9": 1215,
-            "clase_10_motocicleta": 132
-          }
-        },
-        {
-          "entrada": {
-            "nombre": "Pachuca - Entrada Principal",
-            "ubicacion": {
-              "latitud": 19.92735,
-              "longitud": -98.8914
-            }
-          },
-          "salida": {
-            "nombre": "Jilotepec - Salida Secundaria",
-            "ubicacion": {
-              "latitud": 19.97657,
-              "longitud": -99.53162
-            }
-          },
-          "costos": {
-            "clase_1": 190,
-            "clase_2_b2": 395,
-            "clase_3_b3": 395,
-            "clase_2_t2": 395,
-            "clase_3_t3": 395,
-            "clase_4_t4": 395,
-            "clase_5_t5": 615,
-            "clase_6_t6": 615,
-            "clase_7_t7": 920,
-            "clase_8_t8": 920,
-            "clase_9_t9": 920,
-            "clase_10_motocicleta": 95
-          }
-        }
-      ]
+      "nombre": "Isla Aguada",
+      "ubicacion": {
+        "latitud": 18.785548,
+        "longitud": -91.494874
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 396,
+        "clase_2_b2": 396,
+        "clase_3_b3": 396,
+        "clase_2_t2": 396,
+        "clase_3_t3": 396,
+        "clase_4_t4": 396,
+        "clase_5_t5": 396,
+        "clase_6_t6": 396,
+        "clase_7_t7": 396,
+        "clase_8_t8": 396,
+        "clase_9_t9": 396,
+        "clase_10_motocicleta": 367
+      }
+    },
+    {
+      "nombre": "Laredo I",
+      "ubicacion": {
+        "latitud": 27.49856,
+        "longitud": -99.507378
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 397,
+        "clase_2_b2": 397,
+        "clase_3_b3": 397,
+        "clase_2_t2": 397,
+        "clase_3_t3": 397,
+        "clase_4_t4": 397,
+        "clase_5_t5": 397,
+        "clase_6_t6": 397,
+        "clase_7_t7": 397,
+        "clase_8_t8": 397,
+        "clase_9_t9": 397,
+        "clase_10_motocicleta": 368
+      }
+    },
+    {
+      "nombre": "Las Flores",
+      "ubicacion": {
+        "latitud": 26.060544,
+        "longitud": -97.950416
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 398,
+        "clase_2_b2": 398,
+        "clase_3_b3": 398,
+        "clase_2_t2": 398,
+        "clase_3_t3": 398,
+        "clase_4_t4": 398,
+        "clase_5_t5": 398,
+        "clase_6_t6": 398,
+        "clase_7_t7": 398,
+        "clase_8_t8": 398,
+        "clase_9_t9": 398,
+        "clase_10_motocicleta": 369
+      }
+    },
+    {
+      "nombre": "Libre Comercio",
+      "ubicacion": {
+        "latitud": 26.021585,
+        "longitud": -97.738817
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 399,
+        "clase_2_b2": 399,
+        "clase_3_b3": 399,
+        "clase_2_t2": 399,
+        "clase_3_t3": 399,
+        "clase_4_t4": 399,
+        "clase_5_t5": 399,
+        "clase_6_t6": 399,
+        "clase_7_t7": 399,
+        "clase_8_t8": 399,
+        "clase_9_t9": 399,
+        "clase_10_motocicleta": 370
+      }
+    },
+    {
+      "nombre": "Los Tomates",
+      "ubicacion": {
+        "latitud": 25.874233,
+        "longitud": -97.474692
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 400,
+        "clase_2_b2": 400,
+        "clase_3_b3": 400,
+        "clase_2_t2": 400,
+        "clase_3_t3": 400,
+        "clase_4_t4": 400,
+        "clase_5_t5": 400,
+        "clase_6_t6": 400,
+        "clase_7_t7": 400,
+        "clase_8_t8": 400,
+        "clase_9_t9": 400,
+        "clase_10_motocicleta": 371
+      }
+    },
+    {
+      "nombre": "Matamoros",
+      "ubicacion": {
+        "latitud": 25.891382,
+        "longitud": -97.503914
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 401,
+        "clase_2_b2": 401,
+        "clase_3_b3": 401,
+        "clase_2_t2": 401,
+        "clase_3_t3": 401,
+        "clase_4_t4": 401,
+        "clase_5_t5": 401,
+        "clase_6_t6": 401,
+        "clase_7_t7": 401,
+        "clase_8_t8": 401,
+        "clase_9_t9": 401,
+        "clase_10_motocicleta": 372
+      }
+    },
+    {
+      "nombre": "Miguel Alemán",
+      "ubicacion": {
+        "latitud": 26.402916,
+        "longitud": -99.020661
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 402,
+        "clase_2_b2": 402,
+        "clase_3_b3": 402,
+        "clase_2_t2": 402,
+        "clase_3_t3": 402,
+        "clase_4_t4": 402,
+        "clase_5_t5": 402,
+        "clase_6_t6": 402,
+        "clase_7_t7": 402,
+        "clase_8_t8": 402,
+        "clase_9_t9": 402,
+        "clase_10_motocicleta": 373
+      }
+    },
+    {
+      "nombre": "Nautla",
+      "ubicacion": {
+        "latitud": 20.210215,
+        "longitud": -96.778734
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 403,
+        "clase_2_b2": 403,
+        "clase_3_b3": 403,
+        "clase_2_t2": 403,
+        "clase_3_t3": 403,
+        "clase_4_t4": 403,
+        "clase_5_t5": 403,
+        "clase_6_t6": 403,
+        "clase_7_t7": 403,
+        "clase_8_t8": 403,
+        "clase_9_t9": 403,
+        "clase_10_motocicleta": 374
+      }
+    },
+    {
+      "nombre": "Nuevo Laredo III",
+      "ubicacion": {
+        "latitud": 27.595071,
+        "longitud": -99.541437
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 404,
+        "clase_2_b2": 404,
+        "clase_3_b3": 404,
+        "clase_2_t2": 404,
+        "clase_3_t3": 404,
+        "clase_4_t4": 404,
+        "clase_5_t5": 404,
+        "clase_6_t6": 404,
+        "clase_7_t7": 404,
+        "clase_8_t8": 404,
+        "clase_9_t9": 404,
+        "clase_10_motocicleta": 375
+      }
+    },
+    {
+      "nombre": "Ojinaga",
+      "ubicacion": {
+        "latitud": 29.561043,
+        "longitud": -104.397206
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 405,
+        "clase_2_b2": 405,
+        "clase_3_b3": 405,
+        "clase_2_t2": 405,
+        "clase_3_t3": 405,
+        "clase_4_t4": 405,
+        "clase_5_t5": 405,
+        "clase_6_t6": 405,
+        "clase_7_t7": 405,
+        "clase_8_t8": 405,
+        "clase_9_t9": 405,
+        "clase_10_motocicleta": 376
+      }
+    },
+    {
+      "nombre": "Papaloapan",
+      "ubicacion": {
+        "latitud": 18.159588,
+        "longitud": -96.096688
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 406,
+        "clase_2_b2": 406,
+        "clase_3_b3": 406,
+        "clase_2_t2": 406,
+        "clase_3_t3": 406,
+        "clase_4_t4": 406,
+        "clase_5_t5": 406,
+        "clase_6_t6": 406,
+        "clase_7_t7": 406,
+        "clase_8_t8": 406,
+        "clase_9_t9": 406,
+        "clase_10_motocicleta": 377
+      }
+    },
+    {
+      "nombre": "Paso del Norte",
+      "ubicacion": {
+        "latitud": 31.745887,
+        "longitud": -106.486418
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 407,
+        "clase_2_b2": 407,
+        "clase_3_b3": 407,
+        "clase_2_t2": 407,
+        "clase_3_t3": 407,
+        "clase_4_t4": 407,
+        "clase_5_t5": 407,
+        "clase_6_t6": 407,
+        "clase_7_t7": 407,
+        "clase_8_t8": 407,
+        "clase_9_t9": 407,
+        "clase_10_motocicleta": 378
+      }
+    },
+    {
+      "nombre": "Pánuco",
+      "ubicacion": {
+        "latitud": 22.148794,
+        "longitud": -98.144897
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 408,
+        "clase_2_b2": 408,
+        "clase_3_b3": 408,
+        "clase_2_t2": 408,
+        "clase_3_t3": 408,
+        "clase_4_t4": 408,
+        "clase_5_t5": 408,
+        "clase_6_t6": 408,
+        "clase_7_t7": 408,
+        "clase_8_t8": 408,
+        "clase_9_t9": 408,
+        "clase_10_motocicleta": 379
+      }
+    },
+    {
+      "nombre": "Piedras Negras",
+      "ubicacion": {
+        "latitud": 28.705234,
+        "longitud": -100.512987
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 409,
+        "clase_2_b2": 409,
+        "clase_3_b3": 409,
+        "clase_2_t2": 409,
+        "clase_3_t3": 409,
+        "clase_4_t4": 409,
+        "clase_5_t5": 409,
+        "clase_6_t6": 409,
+        "clase_7_t7": 409,
+        "clase_8_t8": 409,
+        "clase_9_t9": 409,
+        "clase_10_motocicleta": 380
+      }
+    },
+    {
+      "nombre": "Piedras Negras II",
+      "ubicacion": {
+        "latitud": 28.697047,
+        "longitud": -100.512395
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 410,
+        "clase_2_b2": 410,
+        "clase_3_b3": 410,
+        "clase_2_t2": 410,
+        "clase_3_t3": 410,
+        "clase_4_t4": 410,
+        "clase_5_t5": 410,
+        "clase_6_t6": 410,
+        "clase_7_t7": 410,
+        "clase_8_t8": 410,
+        "clase_9_t9": 410,
+        "clase_10_motocicleta": 381
+      }
+    },
+    {
+      "nombre": "Reynosa",
+      "ubicacion": {
+        "latitud": 26.093215,
+        "longitud": -98.270947
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 411,
+        "clase_2_b2": 411,
+        "clase_3_b3": 411,
+        "clase_2_t2": 411,
+        "clase_3_t3": 411,
+        "clase_4_t4": 411,
+        "clase_5_t5": 411,
+        "clase_6_t6": 411,
+        "clase_7_t7": 411,
+        "clase_8_t8": 411,
+        "clase_9_t9": 411,
+        "clase_10_motocicleta": 382
+      }
+    },
+    {
+      "nombre": "Reynosa - Pharr",
+      "ubicacion": {
+        "latitud": 26.041812,
+        "longitud": -98.20886
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 412,
+        "clase_2_b2": 412,
+        "clase_3_b3": 412,
+        "clase_2_t2": 412,
+        "clase_3_t3": 412,
+        "clase_4_t4": 412,
+        "clase_5_t5": 412,
+        "clase_6_t6": 412,
+        "clase_7_t7": 412,
+        "clase_8_t8": 412,
+        "clase_9_t9": 412,
+        "clase_10_motocicleta": 383
+      }
+    },
+    {
+      "nombre": "Rodolfo Robles",
+      "ubicacion": {
+        "latitud": 14.677057,
+        "longitud": -92.149701
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 413,
+        "clase_2_b2": 413,
+        "clase_3_b3": 413,
+        "clase_2_t2": 413,
+        "clase_3_t3": 413,
+        "clase_4_t4": 413,
+        "clase_5_t5": 413,
+        "clase_6_t6": 413,
+        "clase_7_t7": 413,
+        "clase_8_t8": 413,
+        "clase_9_t9": 413,
+        "clase_10_motocicleta": 384
+      }
+    },
+    {
+      "nombre": "San Juan",
+      "ubicacion": {
+        "latitud": 26.311873,
+        "longitud": -98.841957
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 414,
+        "clase_2_b2": 414,
+        "clase_3_b3": 414,
+        "clase_2_t2": 414,
+        "clase_3_t3": 414,
+        "clase_4_t4": 414,
+        "clase_5_t5": 414,
+        "clase_6_t6": 414,
+        "clase_7_t7": 414,
+        "clase_8_t8": 414,
+        "clase_9_t9": 414,
+        "clase_10_motocicleta": 385
+      }
+    },
+    {
+      "nombre": "San Miguel",
+      "ubicacion": {
+        "latitud": 25.976312,
+        "longitud": -109.033558
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 415,
+        "clase_2_b2": 415,
+        "clase_3_b3": 415,
+        "clase_2_t2": 415,
+        "clase_3_t3": 415,
+        "clase_4_t4": 415,
+        "clase_5_t5": 415,
+        "clase_6_t6": 415,
+        "clase_7_t7": 415,
+        "clase_8_t8": 415,
+        "clase_9_t9": 415,
+        "clase_10_motocicleta": 386
+      }
+    },
+    {
+      "nombre": "Sinaloa",
+      "ubicacion": {
+        "latitud": 25.512842,
+        "longitud": -108.347578
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 416,
+        "clase_2_b2": 416,
+        "clase_3_b3": 416,
+        "clase_2_t2": 416,
+        "clase_3_t3": 416,
+        "clase_4_t4": 416,
+        "clase_5_t5": 416,
+        "clase_6_t6": 416,
+        "clase_7_t7": 416,
+        "clase_8_t8": 416,
+        "clase_9_t9": 416,
+        "clase_10_motocicleta": 387
+      }
+    },
+    {
+      "nombre": "Solidaridad",
+      "ubicacion": {
+        "latitud": 27.697345,
+        "longitud": -99.747804
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 417,
+        "clase_2_b2": 417,
+        "clase_3_b3": 417,
+        "clase_2_t2": 417,
+        "clase_3_t3": 417,
+        "clase_4_t4": 417,
+        "clase_5_t5": 417,
+        "clase_6_t6": 417,
+        "clase_7_t7": 417,
+        "clase_8_t8": 417,
+        "clase_9_t9": 417,
+        "clase_10_motocicleta": 388
+      }
+    },
+    {
+      "nombre": "Suchiate II",
+      "ubicacion": {
+        "latitud": 14.702181,
+        "longitud": -92.151404
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 418,
+        "clase_2_b2": 418,
+        "clase_3_b3": 418,
+        "clase_2_t2": 418,
+        "clase_3_t3": 418,
+        "clase_4_t4": 418,
+        "clase_5_t5": 418,
+        "clase_6_t6": 418,
+        "clase_7_t7": 418,
+        "clase_8_t8": 418,
+        "clase_9_t9": 418,
+        "clase_10_motocicleta": 389
+      }
+    },
+    {
+      "nombre": "Tecolutla",
+      "ubicacion": {
+        "latitud": 20.437802,
+        "longitud": -97.086444
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 420,
+        "clase_2_b2": 420,
+        "clase_3_b3": 420,
+        "clase_2_t2": 420,
+        "clase_3_t3": 420,
+        "clase_4_t4": 420,
+        "clase_5_t5": 420,
+        "clase_6_t6": 420,
+        "clase_7_t7": 420,
+        "clase_8_t8": 420,
+        "clase_9_t9": 420,
+        "clase_10_motocicleta": 391
+      }
+    },
+    {
+      "nombre": "Tlacotalpan",
+      "ubicacion": {
+        "latitud": 18.704609,
+        "longitud": -95.641325
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 421,
+        "clase_2_b2": 421,
+        "clase_3_b3": 421,
+        "clase_2_t2": 421,
+        "clase_3_t3": 421,
+        "clase_4_t4": 421,
+        "clase_5_t5": 421,
+        "clase_6_t6": 421,
+        "clase_7_t7": 421,
+        "clase_8_t8": 421,
+        "clase_9_t9": 421,
+        "clase_10_motocicleta": 392
+      }
+    },
+    {
+      "nombre": "Usumacinta",
+      "ubicacion": {
+        "latitud": 17.859877,
+        "longitud": -91.783643
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 422,
+        "clase_2_b2": 422,
+        "clase_3_b3": 422,
+        "clase_2_t2": 422,
+        "clase_3_t3": 422,
+        "clase_4_t4": 422,
+        "clase_5_t5": 422,
+        "clase_6_t6": 422,
+        "clase_7_t7": 422,
+        "clase_8_t8": 422,
+        "clase_9_t9": 422,
+        "clase_10_motocicleta": 393
+      }
+    },
+    {
+      "nombre": "Zaragoza",
+      "ubicacion": {
+        "latitud": 31.670895,
+        "longitud": -106.34067
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 423,
+        "clase_2_b2": 423,
+        "clase_3_b3": 423,
+        "clase_2_t2": 423,
+        "clase_3_t3": 423,
+        "clase_4_t4": 423,
+        "clase_5_t5": 423,
+        "clase_6_t6": 423,
+        "clase_7_t7": 423,
+        "clase_8_t8": 423,
+        "clase_9_t9": 423,
+        "clase_10_motocicleta": 394
+      }
+    },
+    {
+      "nombre": "Los Chorros",
+      "ubicacion": {
+        "latitud": 25.186754,
+        "longitud": -100.731938
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 424,
+        "clase_2_b2": 424,
+        "clase_3_b3": 424,
+        "clase_2_t2": 424,
+        "clase_3_t3": 424,
+        "clase_4_t4": 424,
+        "clase_5_t5": 424,
+        "clase_6_t6": 424,
+        "clase_7_t7": 424,
+        "clase_8_t8": 424,
+        "clase_9_t9": 424,
+        "clase_10_motocicleta": 395
+      }
+    },
+    {
+      "nombre": "Huachichil",
+      "ubicacion": {
+        "latitud": 25.24548,
+        "longitud": -100.801484
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 425,
+        "clase_2_b2": 425,
+        "clase_3_b3": 425,
+        "clase_2_t2": 425,
+        "clase_3_t3": 425,
+        "clase_4_t4": 425,
+        "clase_5_t5": 425,
+        "clase_6_t6": 425,
+        "clase_7_t7": 425,
+        "clase_8_t8": 425,
+        "clase_9_t9": 425,
+        "clase_10_motocicleta": 396
+      }
+    },
+    {
+      "nombre": "Cerro Gordo",
+      "ubicacion": {
+        "latitud": 20.591875,
+        "longitud": -101.137274
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 426,
+        "clase_2_b2": 426,
+        "clase_3_b3": 426,
+        "clase_2_t2": 426,
+        "clase_3_t3": 426,
+        "clase_4_t4": 426,
+        "clase_5_t5": 426,
+        "clase_6_t6": 426,
+        "clase_7_t7": 426,
+        "clase_8_t8": 426,
+        "clase_9_t9": 426,
+        "clase_10_motocicleta": 397
+      }
+    },
+    {
+      "nombre": "Querétaro",
+      "ubicacion": {
+        "latitud": 20.57217,
+        "longitud": -100.472837
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 428,
+        "clase_2_b2": 428,
+        "clase_3_b3": 428,
+        "clase_2_t2": 428,
+        "clase_3_t3": 428,
+        "clase_4_t4": 428,
+        "clase_5_t5": 428,
+        "clase_6_t6": 428,
+        "clase_7_t7": 428,
+        "clase_8_t8": 428,
+        "clase_9_t9": 428,
+        "clase_10_motocicleta": 399
+      }
+    },
+    {
+      "nombre": "Salamanca",
+      "ubicacion": {
+        "latitud": 20.598452,
+        "longitud": -101.180914
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 429,
+        "clase_2_b2": 429,
+        "clase_3_b3": 429,
+        "clase_2_t2": 429,
+        "clase_3_t3": 429,
+        "clase_4_t4": 429,
+        "clase_5_t5": 429,
+        "clase_6_t6": 429,
+        "clase_7_t7": 429,
+        "clase_8_t8": 429,
+        "clase_9_t9": 429,
+        "clase_10_motocicleta": 400
+      }
+    },
+    {
+      "nombre": "Salamanca A1",
+      "ubicacion": {
+        "latitud": 20.599141,
+        "longitud": -101.180695
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 430,
+        "clase_2_b2": 430,
+        "clase_3_b3": 430,
+        "clase_2_t2": 430,
+        "clase_3_t3": 430,
+        "clase_4_t4": 430,
+        "clase_5_t5": 430,
+        "clase_6_t6": 430,
+        "clase_7_t7": 430,
+        "clase_8_t8": 430,
+        "clase_9_t9": 430,
+        "clase_10_motocicleta": 401
+      }
+    },
+    {
+      "nombre": "Salamanca A2",
+      "ubicacion": {
+        "latitud": 20.597586,
+        "longitud": -101.181031
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 431,
+        "clase_2_b2": 431,
+        "clase_3_b3": 431,
+        "clase_2_t2": 431,
+        "clase_3_t3": 431,
+        "clase_4_t4": 431,
+        "clase_5_t5": 431,
+        "clase_6_t6": 431,
+        "clase_7_t7": 431,
+        "clase_8_t8": 431,
+        "clase_9_t9": 431,
+        "clase_10_motocicleta": 402
+      }
+    },
+    {
+      "nombre": "Salamanca A3",
+      "ubicacion": {
+        "latitud": 20.590023,
+        "longitud": -101.136035
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 432,
+        "clase_2_b2": 432,
+        "clase_3_b3": 432,
+        "clase_2_t2": 432,
+        "clase_3_t3": 432,
+        "clase_4_t4": 432,
+        "clase_5_t5": 432,
+        "clase_6_t6": 432,
+        "clase_7_t7": 432,
+        "clase_8_t8": 432,
+        "clase_9_t9": 432,
+        "clase_10_motocicleta": 403
+      }
+    },
+    {
+      "nombre": "Villagrán A1",
+      "ubicacion": {
+        "latitud": 20.582207,
+        "longitud": -100.992157
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 433,
+        "clase_2_b2": 433,
+        "clase_3_b3": 433,
+        "clase_2_t2": 433,
+        "clase_3_t3": 433,
+        "clase_4_t4": 433,
+        "clase_5_t5": 433,
+        "clase_6_t6": 433,
+        "clase_7_t7": 433,
+        "clase_8_t8": 433,
+        "clase_9_t9": 433,
+        "clase_10_motocicleta": 404
+      }
+    },
+    {
+      "nombre": "Villagrán A2",
+      "ubicacion": {
+        "latitud": 20.579417,
+        "longitud": -100.99235
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 434,
+        "clase_2_b2": 434,
+        "clase_3_b3": 434,
+        "clase_2_t2": 434,
+        "clase_3_t3": 434,
+        "clase_4_t4": 434,
+        "clase_5_t5": 434,
+        "clase_6_t6": 434,
+        "clase_7_t7": 434,
+        "clase_8_t8": 434,
+        "clase_9_t9": 434,
+        "clase_10_motocicleta": 405
+      }
+    },
+    {
+      "nombre": "Taxco",
+      "ubicacion": {
+        "latitud": 18.588623,
+        "longitud": -99.559957
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 435,
+        "clase_2_b2": 435,
+        "clase_3_b3": 435,
+        "clase_2_t2": 435,
+        "clase_3_t3": 435,
+        "clase_4_t4": 435,
+        "clase_5_t5": 435,
+        "clase_6_t6": 435,
+        "clase_7_t7": 435,
+        "clase_8_t8": 435,
+        "clase_9_t9": 435,
+        "clase_10_motocicleta": 406
+      }
+    },
+    {
+      "nombre": "Nuevo Progreso A2",
+      "ubicacion": {
+        "latitud": 26.037152,
+        "longitud": -97.954566
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 436,
+        "clase_2_b2": 436,
+        "clase_3_b3": 436,
+        "clase_2_t2": 436,
+        "clase_3_t3": 436,
+        "clase_4_t4": 436,
+        "clase_5_t5": 436,
+        "clase_6_t6": 436,
+        "clase_7_t7": 436,
+        "clase_8_t8": 436,
+        "clase_9_t9": 436,
+        "clase_10_motocicleta": 407
+      }
+    },
+    {
+      "nombre": "Nuevo Progreso P",
+      "ubicacion": {
+        "latitud": 26.036267,
+        "longitud": -97.954452
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 437,
+        "clase_2_b2": 437,
+        "clase_3_b3": 437,
+        "clase_2_t2": 437,
+        "clase_3_t3": 437,
+        "clase_4_t4": 437,
+        "clase_5_t5": 437,
+        "clase_6_t6": 437,
+        "clase_7_t7": 437,
+        "clase_8_t8": 437,
+        "clase_9_t9": 437,
+        "clase_10_motocicleta": 408
+      }
+    },
+    {
+      "nombre": "Nuevo Progreso A1",
+      "ubicacion": {
+        "latitud": 26.035227,
+        "longitud": -97.954438
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 438,
+        "clase_2_b2": 438,
+        "clase_3_b3": 438,
+        "clase_2_t2": 438,
+        "clase_3_t3": 438,
+        "clase_4_t4": 438,
+        "clase_5_t5": 438,
+        "clase_6_t6": 438,
+        "clase_7_t7": 438,
+        "clase_8_t8": 438,
+        "clase_9_t9": 438,
+        "clase_10_motocicleta": 409
+      }
+    },
+    {
+      "nombre": "Rayón",
+      "ubicacion": {
+        "latitud": 21.864264,
+        "longitud": -99.618995
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 439,
+        "clase_2_b2": 439,
+        "clase_3_b3": 439,
+        "clase_2_t2": 439,
+        "clase_3_t3": 439,
+        "clase_4_t4": 439,
+        "clase_5_t5": 439,
+        "clase_6_t6": 439,
+        "clase_7_t7": 439,
+        "clase_8_t8": 439,
+        "clase_9_t9": 439,
+        "clase_10_motocicleta": 410
+      }
+    },
+    {
+      "nombre": "El Hongo",
+      "ubicacion": {
+        "latitud": 32.521819,
+        "longitud": -116.319985
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 440,
+        "clase_2_b2": 440,
+        "clase_3_b3": 440,
+        "clase_2_t2": 440,
+        "clase_3_t3": 440,
+        "clase_4_t4": 440,
+        "clase_5_t5": 440,
+        "clase_6_t6": 440,
+        "clase_7_t7": 440,
+        "clase_8_t8": 440,
+        "clase_9_t9": 440,
+        "clase_10_motocicleta": 411
+      }
+    },
+    {
+      "nombre": "El Hongo A1",
+      "ubicacion": {
+        "latitud": 32.521141,
+        "longitud": -116.320114
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 441,
+        "clase_2_b2": 441,
+        "clase_3_b3": 441,
+        "clase_2_t2": 441,
+        "clase_3_t3": 441,
+        "clase_4_t4": 441,
+        "clase_5_t5": 441,
+        "clase_6_t6": 441,
+        "clase_7_t7": 441,
+        "clase_8_t8": 441,
+        "clase_9_t9": 441,
+        "clase_10_motocicleta": 412
+      }
+    },
+    {
+      "nombre": "El Hongo A2",
+      "ubicacion": {
+        "latitud": 32.522437,
+        "longitud": -116.31983
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 442,
+        "clase_2_b2": 442,
+        "clase_3_b3": 442,
+        "clase_2_t2": 442,
+        "clase_3_t3": 442,
+        "clase_4_t4": 442,
+        "clase_5_t5": 442,
+        "clase_6_t6": 442,
+        "clase_7_t7": 442,
+        "clase_8_t8": 442,
+        "clase_9_t9": 442,
+        "clase_10_motocicleta": 413
+      }
+    },
+    {
+      "nombre": "Ixtepec A1",
+      "ubicacion": {
+        "latitud": 16.561071,
+        "longitud": -95.134966
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 443,
+        "clase_2_b2": 443,
+        "clase_3_b3": 443,
+        "clase_2_t2": 443,
+        "clase_3_t3": 443,
+        "clase_4_t4": 443,
+        "clase_5_t5": 443,
+        "clase_6_t6": 443,
+        "clase_7_t7": 443,
+        "clase_8_t8": 443,
+        "clase_9_t9": 443,
+        "clase_10_motocicleta": 414
+      }
+    },
+    {
+      "nombre": "Ixtepec A2",
+      "ubicacion": {
+        "latitud": 16.561481,
+        "longitud": -95.134292
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 444,
+        "clase_2_b2": 444,
+        "clase_3_b3": 444,
+        "clase_2_t2": 444,
+        "clase_3_t3": 444,
+        "clase_4_t4": 444,
+        "clase_5_t5": 444,
+        "clase_6_t6": 444,
+        "clase_7_t7": 444,
+        "clase_8_t8": 444,
+        "clase_9_t9": 444,
+        "clase_10_motocicleta": 415
+      }
+    },
+    {
+      "nombre": "Ixtepec A3",
+      "ubicacion": {
+        "latitud": 16.561823,
+        "longitud": -95.136055
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 445,
+        "clase_2_b2": 445,
+        "clase_3_b3": 445,
+        "clase_2_t2": 445,
+        "clase_3_t3": 445,
+        "clase_4_t4": 445,
+        "clase_5_t5": 445,
+        "clase_6_t6": 445,
+        "clase_7_t7": 445,
+        "clase_8_t8": 445,
+        "clase_9_t9": 445,
+        "clase_10_motocicleta": 416
+      }
+    },
+    {
+      "nombre": "Ixtepec",
+      "ubicacion": {
+        "latitud": 16.561154,
+        "longitud": -95.135615
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 446,
+        "clase_2_b2": 446,
+        "clase_3_b3": 446,
+        "clase_2_t2": 446,
+        "clase_3_t3": 446,
+        "clase_4_t4": 446,
+        "clase_5_t5": 446,
+        "clase_6_t6": 446,
+        "clase_7_t7": 446,
+        "clase_8_t8": 446,
+        "clase_9_t9": 446,
+        "clase_10_motocicleta": 417
+      }
+    },
+    {
+      "nombre": "Tehuantepec",
+      "ubicacion": {
+        "latitud": 16.162139,
+        "longitud": -95.289239
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 447,
+        "clase_2_b2": 447,
+        "clase_3_b3": 447,
+        "clase_2_t2": 447,
+        "clase_3_t3": 447,
+        "clase_4_t4": 447,
+        "clase_5_t5": 447,
+        "clase_6_t6": 447,
+        "clase_7_t7": 447,
+        "clase_8_t8": 447,
+        "clase_9_t9": 447,
+        "clase_10_motocicleta": 418
+      }
+    },
+    {
+      "nombre": "San José del Cabo",
+      "ubicacion": {
+        "latitud": 23.04992,
+        "longitud": -109.719559
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 448,
+        "clase_2_b2": 448,
+        "clase_3_b3": 448,
+        "clase_2_t2": 448,
+        "clase_3_t3": 448,
+        "clase_4_t4": 448,
+        "clase_5_t5": 448,
+        "clase_6_t6": 448,
+        "clase_7_t7": 448,
+        "clase_8_t8": 448,
+        "clase_9_t9": 448,
+        "clase_10_motocicleta": 419
+      }
+    },
+    {
+      "nombre": "Aucal",
+      "ubicacion": {
+        "latitud": 19.301587,
+        "longitud": -98.404051
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 449,
+        "clase_2_b2": 449,
+        "clase_3_b3": 449,
+        "clase_2_t2": 449,
+        "clase_3_t3": 449,
+        "clase_4_t4": 449,
+        "clase_5_t5": 449,
+        "clase_6_t6": 449,
+        "clase_7_t7": 449,
+        "clase_8_t8": 449,
+        "clase_9_t9": 449,
+        "clase_10_motocicleta": 420
+      }
+    },
+    {
+      "nombre": "Santa Ana",
+      "ubicacion": {
+        "latitud": 30.568679,
+        "longitud": -111.284143
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 450,
+        "clase_2_b2": 450,
+        "clase_3_b3": 450,
+        "clase_2_t2": 450,
+        "clase_3_t3": 450,
+        "clase_4_t4": 450,
+        "clase_5_t5": 450,
+        "clase_6_t6": 450,
+        "clase_7_t7": 450,
+        "clase_8_t8": 450,
+        "clase_9_t9": 450,
+        "clase_10_motocicleta": 421
+      }
+    },
+    {
+      "nombre": "Tecate",
+      "ubicacion": {
+        "latitud": 32.52585,
+        "longitud": -116.690261
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 452,
+        "clase_2_b2": 452,
+        "clase_3_b3": 452,
+        "clase_2_t2": 452,
+        "clase_3_t3": 452,
+        "clase_4_t4": 452,
+        "clase_5_t5": 452,
+        "clase_6_t6": 452,
+        "clase_7_t7": 452,
+        "clase_8_t8": 452,
+        "clase_9_t9": 452,
+        "clase_10_motocicleta": 423
+      }
+    },
+    {
+      "nombre": "Tijuana",
+      "ubicacion": {
+        "latitud": 32.54579,
+        "longitud": -116.852039
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 453,
+        "clase_2_b2": 453,
+        "clase_3_b3": 453,
+        "clase_2_t2": 453,
+        "clase_3_t3": 453,
+        "clase_4_t4": 453,
+        "clase_5_t5": 453,
+        "clase_6_t6": 453,
+        "clase_7_t7": 453,
+        "clase_8_t8": 453,
+        "clase_9_t9": 453,
+        "clase_10_motocicleta": 424
+      }
+    },
+    {
+      "nombre": "Nuevo Necaxa",
+      "ubicacion": {
+        "latitud": 20.183843,
+        "longitud": -98.027601
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 454,
+        "clase_2_b2": 454,
+        "clase_3_b3": 454,
+        "clase_2_t2": 454,
+        "clase_3_t3": 454,
+        "clase_4_t4": 454,
+        "clase_5_t5": 454,
+        "clase_6_t6": 454,
+        "clase_7_t7": 454,
+        "clase_8_t8": 454,
+        "clase_9_t9": 454,
+        "clase_10_motocicleta": 425
+      }
+    },
+    {
+      "nombre": "Acaponeta",
+      "ubicacion": {
+        "latitud": 22.453835,
+        "longitud": -105.424726
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 455,
+        "clase_2_b2": 455,
+        "clase_3_b3": 455,
+        "clase_2_t2": 455,
+        "clase_3_t3": 455,
+        "clase_4_t4": 455,
+        "clase_5_t5": 455,
+        "clase_6_t6": 455,
+        "clase_7_t7": 455,
+        "clase_8_t8": 455,
+        "clase_9_t9": 455,
+        "clase_10_motocicleta": 426
+      }
+    },
+    {
+      "nombre": "Acaponeta A1",
+      "ubicacion": {
+        "latitud": 22.454088,
+        "longitud": -105.418817
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 456,
+        "clase_2_b2": 456,
+        "clase_3_b3": 456,
+        "clase_2_t2": 456,
+        "clase_3_t3": 456,
+        "clase_4_t4": 456,
+        "clase_5_t5": 456,
+        "clase_6_t6": 456,
+        "clase_7_t7": 456,
+        "clase_8_t8": 456,
+        "clase_9_t9": 456,
+        "clase_10_motocicleta": 427
+      }
+    },
+    {
+      "nombre": "Acaponeta A2",
+      "ubicacion": {
+        "latitud": 22.454088,
+        "longitud": -105.418817
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 457,
+        "clase_2_b2": 457,
+        "clase_3_b3": 457,
+        "clase_2_t2": 457,
+        "clase_3_t3": 457,
+        "clase_4_t4": 457,
+        "clase_5_t5": 457,
+        "clase_6_t6": 457,
+        "clase_7_t7": 457,
+        "clase_8_t8": 457,
+        "clase_9_t9": 457,
+        "clase_10_motocicleta": 428
+      }
+    },
+    {
+      "nombre": "Rosario",
+      "ubicacion": {
+        "latitud": 22.984707,
+        "longitud": -105.878039
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 458,
+        "clase_2_b2": 458,
+        "clase_3_b3": 458,
+        "clase_2_t2": 458,
+        "clase_3_t3": 458,
+        "clase_4_t4": 458,
+        "clase_5_t5": 458,
+        "clase_6_t6": 458,
+        "clase_7_t7": 458,
+        "clase_8_t8": 458,
+        "clase_9_t9": 458,
+        "clase_10_motocicleta": 429
+      }
+    },
+    {
+      "nombre": "Rosario A1",
+      "ubicacion": {
+        "latitud": 22.985107,
+        "longitud": -105.875275
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 459,
+        "clase_2_b2": 459,
+        "clase_3_b3": 459,
+        "clase_2_t2": 459,
+        "clase_3_t3": 459,
+        "clase_4_t4": 459,
+        "clase_5_t5": 459,
+        "clase_6_t6": 459,
+        "clase_7_t7": 459,
+        "clase_8_t8": 459,
+        "clase_9_t9": 459,
+        "clase_10_motocicleta": 430
+      }
+    },
+    {
+      "nombre": "Rosario A2",
+      "ubicacion": {
+        "latitud": 22.985107,
+        "longitud": -105.875275
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 460,
+        "clase_2_b2": 460,
+        "clase_3_b3": 460,
+        "clase_2_t2": 460,
+        "clase_3_t3": 460,
+        "clase_4_t4": 460,
+        "clase_5_t5": 460,
+        "clase_6_t6": 460,
+        "clase_7_t7": 460,
+        "clase_8_t8": 460,
+        "clase_9_t9": 460,
+        "clase_10_motocicleta": 431
+      }
+    },
+    {
+      "nombre": "Ruiz A2",
+      "ubicacion": {
+        "latitud": 21.953097,
+        "longitud": -105.120877
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 461,
+        "clase_2_b2": 461,
+        "clase_3_b3": 461,
+        "clase_2_t2": 461,
+        "clase_3_t3": 461,
+        "clase_4_t4": 461,
+        "clase_5_t5": 461,
+        "clase_6_t6": 461,
+        "clase_7_t7": 461,
+        "clase_8_t8": 461,
+        "clase_9_t9": 461,
+        "clase_10_motocicleta": 432
+      }
+    },
+    {
+      "nombre": "Ruíz",
+      "ubicacion": {
+        "latitud": 21.951811,
+        "longitud": -105.116064
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 462,
+        "clase_2_b2": 462,
+        "clase_3_b3": 462,
+        "clase_2_t2": 462,
+        "clase_3_t3": 462,
+        "clase_4_t4": 462,
+        "clase_5_t5": 462,
+        "clase_6_t6": 462,
+        "clase_7_t7": 462,
+        "clase_8_t8": 462,
+        "clase_9_t9": 462,
+        "clase_10_motocicleta": 433
+      }
+    },
+    {
+      "nombre": "Ruíz A1",
+      "ubicacion": {
+        "latitud": 21.953097,
+        "longitud": -105.120877
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 463,
+        "clase_2_b2": 463,
+        "clase_3_b3": 463,
+        "clase_2_t2": 463,
+        "clase_3_t3": 463,
+        "clase_4_t4": 463,
+        "clase_5_t5": 463,
+        "clase_6_t6": 463,
+        "clase_7_t7": 463,
+        "clase_8_t8": 463,
+        "clase_9_t9": 463,
+        "clase_10_motocicleta": 434
+      }
+    },
+    {
+      "nombre": "Trapichillo",
+      "ubicacion": {
+        "latitud": 21.571769,
+        "longitud": -104.987465
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 465,
+        "clase_2_b2": 465,
+        "clase_3_b3": 465,
+        "clase_2_t2": 465,
+        "clase_3_t3": 465,
+        "clase_4_t4": 465,
+        "clase_5_t5": 465,
+        "clase_6_t6": 465,
+        "clase_7_t7": 465,
+        "clase_8_t8": 465,
+        "clase_9_t9": 465,
+        "clase_10_motocicleta": 436
+      }
+    },
+    {
+      "nombre": "Yago A1",
+      "ubicacion": {
+        "latitud": 21.844631,
+        "longitud": -105.084918
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 466,
+        "clase_2_b2": 466,
+        "clase_3_b3": 466,
+        "clase_2_t2": 466,
+        "clase_3_t3": 466,
+        "clase_4_t4": 466,
+        "clase_5_t5": 466,
+        "clase_6_t6": 466,
+        "clase_7_t7": 466,
+        "clase_8_t8": 466,
+        "clase_9_t9": 466,
+        "clase_10_motocicleta": 437
+      }
+    },
+    {
+      "nombre": "Yago A2",
+      "ubicacion": {
+        "latitud": 21.845203,
+        "longitud": -105.086575
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 467,
+        "clase_2_b2": 467,
+        "clase_3_b3": 467,
+        "clase_2_t2": 467,
+        "clase_3_t3": 467,
+        "clase_4_t4": 467,
+        "clase_5_t5": 467,
+        "clase_6_t6": 467,
+        "clase_7_t7": 467,
+        "clase_8_t8": 467,
+        "clase_9_t9": 467,
+        "clase_10_motocicleta": 438
+      }
+    },
+    {
+      "nombre": "Tuxpam",
+      "ubicacion": {
+        "latitud": 20.918939,
+        "longitud": -97.415892
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 468,
+        "clase_2_b2": 468,
+        "clase_3_b3": 468,
+        "clase_2_t2": 468,
+        "clase_3_t3": 468,
+        "clase_4_t4": 468,
+        "clase_5_t5": 468,
+        "clase_6_t6": 468,
+        "clase_7_t7": 468,
+        "clase_8_t8": 468,
+        "clase_9_t9": 468,
+        "clase_10_motocicleta": 439
+      }
+    },
+    {
+      "nombre": "La Cuchilla",
+      "ubicacion": {
+        "latitud": 25.627001,
+        "longitud": -102.878215
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 469,
+        "clase_2_b2": 469,
+        "clase_3_b3": 469,
+        "clase_2_t2": 469,
+        "clase_3_t3": 469,
+        "clase_4_t4": 469,
+        "clase_5_t5": 469,
+        "clase_6_t6": 469,
+        "clase_7_t7": 469,
+        "clase_8_t8": 469,
+        "clase_9_t9": 469,
+        "clase_10_motocicleta": 440
+      }
+    },
+    {
+      "nombre": "Plan de Ayala",
+      "ubicacion": {
+        "latitud": 25.444123,
+        "longitud": -101.303947
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 470,
+        "clase_2_b2": 470,
+        "clase_3_b3": 470,
+        "clase_2_t2": 470,
+        "clase_3_t3": 470,
+        "clase_4_t4": 470,
+        "clase_5_t5": 470,
+        "clase_6_t6": 470,
+        "clase_7_t7": 470,
+        "clase_8_t8": 470,
+        "clase_9_t9": 470,
+        "clase_10_motocicleta": 441
+      }
+    },
+    {
+      "nombre": "Chiapa de Corzo",
+      "ubicacion": {
+        "latitud": 16.730618,
+        "longitud": -93.0095
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 471,
+        "clase_2_b2": 471,
+        "clase_3_b3": 471,
+        "clase_2_t2": 471,
+        "clase_3_t3": 471,
+        "clase_4_t4": 471,
+        "clase_5_t5": 471,
+        "clase_6_t6": 471,
+        "clase_7_t7": 471,
+        "clase_8_t8": 471,
+        "clase_9_t9": 471,
+        "clase_10_motocicleta": 442
+      }
+    },
+    {
+      "nombre": "Santa Casilda",
+      "ubicacion": {
+        "latitud": 19.152932,
+        "longitud": -101.97813
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 472,
+        "clase_2_b2": 472,
+        "clase_3_b3": 472,
+        "clase_2_t2": 472,
+        "clase_3_t3": 472,
+        "clase_4_t4": 472,
+        "clase_5_t5": 472,
+        "clase_6_t6": 472,
+        "clase_7_t7": 472,
+        "clase_8_t8": 472,
+        "clase_9_t9": 472,
+        "clase_10_motocicleta": 443
+      }
+    },
+    {
+      "nombre": "Santa Casilda A1",
+      "ubicacion": {
+        "latitud": 19.156446,
+        "longitud": -101.976099
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 473,
+        "clase_2_b2": 473,
+        "clase_3_b3": 473,
+        "clase_2_t2": 473,
+        "clase_3_t3": 473,
+        "clase_4_t4": 473,
+        "clase_5_t5": 473,
+        "clase_6_t6": 473,
+        "clase_7_t7": 473,
+        "clase_8_t8": 473,
+        "clase_9_t9": 473,
+        "clase_10_motocicleta": 444
+      }
+    },
+    {
+      "nombre": "Taretán",
+      "ubicacion": {
+        "latitud": 19.355443,
+        "longitud": -101.917902
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 475,
+        "clase_2_b2": 475,
+        "clase_3_b3": 475,
+        "clase_2_t2": 475,
+        "clase_3_t3": 475,
+        "clase_4_t4": 475,
+        "clase_5_t5": 475,
+        "clase_6_t6": 475,
+        "clase_7_t7": 475,
+        "clase_8_t8": 475,
+        "clase_9_t9": 475,
+        "clase_10_motocicleta": 446
+      }
+    },
+    {
+      "nombre": "Taretán A1",
+      "ubicacion": {
+        "latitud": 19.351874,
+        "longitud": -101.917368
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 476,
+        "clase_2_b2": 476,
+        "clase_3_b3": 476,
+        "clase_2_t2": 476,
+        "clase_3_t3": 476,
+        "clase_4_t4": 476,
+        "clase_5_t5": 476,
+        "clase_6_t6": 476,
+        "clase_7_t7": 476,
+        "clase_8_t8": 476,
+        "clase_9_t9": 476,
+        "clase_10_motocicleta": 447
+      }
+    },
+    {
+      "nombre": "Cuencamé III",
+      "ubicacion": {
+        "latitud": 24.981671,
+        "longitud": -103.73525
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 478,
+        "clase_2_b2": 478,
+        "clase_3_b3": 478,
+        "clase_2_t2": 478,
+        "clase_3_t3": 478,
+        "clase_4_t4": 478,
+        "clase_5_t5": 478,
+        "clase_6_t6": 478,
+        "clase_7_t7": 478,
+        "clase_8_t8": 478,
+        "clase_9_t9": 478,
+        "clase_10_motocicleta": 449
+      }
+    },
+    {
+      "nombre": "Cuencamé III A2",
+      "ubicacion": {
+        "latitud": 24.980948,
+        "longitud": -103.736669
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 479,
+        "clase_2_b2": 479,
+        "clase_3_b3": 479,
+        "clase_2_t2": 479,
+        "clase_3_t3": 479,
+        "clase_4_t4": 479,
+        "clase_5_t5": 479,
+        "clase_6_t6": 479,
+        "clase_7_t7": 479,
+        "clase_8_t8": 479,
+        "clase_9_t9": 479,
+        "clase_10_motocicleta": 450
+      }
+    },
+    {
+      "nombre": "Cuencamé III A1",
+      "ubicacion": {
+        "latitud": 24.980356,
+        "longitud": -103.734326
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 480,
+        "clase_2_b2": 480,
+        "clase_3_b3": 480,
+        "clase_2_t2": 480,
+        "clase_3_t3": 480,
+        "clase_4_t4": 480,
+        "clase_5_t5": 480,
+        "clase_6_t6": 480,
+        "clase_7_t7": 480,
+        "clase_8_t8": 480,
+        "clase_9_t9": 480,
+        "clase_10_motocicleta": 451
+      }
+    },
+    {
+      "nombre": "León Guzmán A2",
+      "ubicacion": {
+        "latitud": 25.519483,
+        "longitud": -103.63969
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 481,
+        "clase_2_b2": 481,
+        "clase_3_b3": 481,
+        "clase_2_t2": 481,
+        "clase_3_t3": 481,
+        "clase_4_t4": 481,
+        "clase_5_t5": 481,
+        "clase_6_t6": 481,
+        "clase_7_t7": 481,
+        "clase_8_t8": 481,
+        "clase_9_t9": 481,
+        "clase_10_motocicleta": 452
+      }
+    },
+    {
+      "nombre": "León Guzmán",
+      "ubicacion": {
+        "latitud": 25.520619,
+        "longitud": -103.639462
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 482,
+        "clase_2_b2": 482,
+        "clase_3_b3": 482,
+        "clase_2_t2": 482,
+        "clase_3_t3": 482,
+        "clase_4_t4": 482,
+        "clase_5_t5": 482,
+        "clase_6_t6": 482,
+        "clase_7_t7": 482,
+        "clase_8_t8": 482,
+        "clase_9_t9": 482,
+        "clase_10_motocicleta": 453
+      }
+    },
+    {
+      "nombre": "León Guzmán A1",
+      "ubicacion": {
+        "latitud": 25.519463,
+        "longitud": -103.639408
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 483,
+        "clase_2_b2": 483,
+        "clase_3_b3": 483,
+        "clase_2_t2": 483,
+        "clase_3_t3": 483,
+        "clase_4_t4": 483,
+        "clase_5_t5": 483,
+        "clase_6_t6": 483,
+        "clase_7_t7": 483,
+        "clase_8_t8": 483,
+        "clase_9_t9": 483,
+        "clase_10_motocicleta": 454
+      }
+    },
+    {
+      "nombre": "Zacapalco",
+      "ubicacion": {
+        "latitud": 18.537976,
+        "longitud": -99.447394
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 484,
+        "clase_2_b2": 484,
+        "clase_3_b3": 484,
+        "clase_2_t2": 484,
+        "clase_3_t3": 484,
+        "clase_4_t4": 484,
+        "clase_5_t5": 484,
+        "clase_6_t6": 484,
+        "clase_7_t7": 484,
+        "clase_8_t8": 484,
+        "clase_9_t9": 484,
+        "clase_10_motocicleta": 455
+      }
+    },
+    {
+      "nombre": "Jalostotitlán",
+      "ubicacion": {
+        "latitud": 21.117576,
+        "longitud": -102.458041
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 485,
+        "clase_2_b2": 485,
+        "clase_3_b3": 485,
+        "clase_2_t2": 485,
+        "clase_3_t3": 485,
+        "clase_4_t4": 485,
+        "clase_5_t5": 485,
+        "clase_6_t6": 485,
+        "clase_7_t7": 485,
+        "clase_8_t8": 485,
+        "clase_9_t9": 485,
+        "clase_10_motocicleta": 456
+      }
+    },
+    {
+      "nombre": "Jalostotitlán A1",
+      "ubicacion": {
+        "latitud": 21.119064,
+        "longitud": -102.455793
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 487,
+        "clase_2_b2": 487,
+        "clase_3_b3": 487,
+        "clase_2_t2": 487,
+        "clase_3_t3": 487,
+        "clase_4_t4": 487,
+        "clase_5_t5": 487,
+        "clase_6_t6": 487,
+        "clase_7_t7": 487,
+        "clase_8_t8": 487,
+        "clase_9_t9": 487,
+        "clase_10_motocicleta": 458
+      }
+    },
+    {
+      "nombre": "Jalostotitlán A2",
+      "ubicacion": {
+        "latitud": 21.120273,
+        "longitud": -102.455559
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 488,
+        "clase_2_b2": 488,
+        "clase_3_b3": 488,
+        "clase_2_t2": 488,
+        "clase_3_t3": 488,
+        "clase_4_t4": 488,
+        "clase_5_t5": 488,
+        "clase_6_t6": 488,
+        "clase_7_t7": 488,
+        "clase_8_t8": 488,
+        "clase_9_t9": 488,
+        "clase_10_motocicleta": 459
+      }
+    },
+    {
+      "nombre": "San Juan A1",
+      "ubicacion": {
+        "latitud": 21.224694,
+        "longitud": -102.313144
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 489,
+        "clase_2_b2": 489,
+        "clase_3_b3": 489,
+        "clase_2_t2": 489,
+        "clase_3_t3": 489,
+        "clase_4_t4": 489,
+        "clase_5_t5": 489,
+        "clase_6_t6": 489,
+        "clase_7_t7": 489,
+        "clase_8_t8": 489,
+        "clase_9_t9": 489,
+        "clase_10_motocicleta": 460
+      }
+    },
+    {
+      "nombre": "San Juan A2",
+      "ubicacion": {
+        "latitud": 21.225663,
+        "longitud": -102.313651
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 490,
+        "clase_2_b2": 490,
+        "clase_3_b3": 490,
+        "clase_2_t2": 490,
+        "clase_3_t3": 490,
+        "clase_4_t4": 490,
+        "clase_5_t5": 490,
+        "clase_6_t6": 490,
+        "clase_7_t7": 490,
+        "clase_8_t8": 490,
+        "clase_9_t9": 490,
+        "clase_10_motocicleta": 461
+      }
+    },
+    {
+      "nombre": "Tepatitlán",
+      "ubicacion": {
+        "latitud": 20.824618,
+        "longitud": -102.794958
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 491,
+        "clase_2_b2": 491,
+        "clase_3_b3": 491,
+        "clase_2_t2": 491,
+        "clase_3_t3": 491,
+        "clase_4_t4": 491,
+        "clase_5_t5": 491,
+        "clase_6_t6": 491,
+        "clase_7_t7": 491,
+        "clase_8_t8": 491,
+        "clase_9_t9": 491,
+        "clase_10_motocicleta": 462
+      }
+    },
+    {
+      "nombre": "Tepatitlán Aux.",
+      "ubicacion": {
+        "latitud": 20.82091,
+        "longitud": -102.794064
+      },
+      "tipo": "general",
+      "costos": {
+        "clase_1": 493,
+        "clase_2_b2": 493,
+        "clase_3_b3": 493,
+        "clase_2_t2": 493,
+        "clase_3_t3": 493,
+        "clase_4_t4": 493,
+        "clase_5_t5": 493,
+        "clase_6_t6": 493,
+        "clase_7_t7": 493,
+        "clase_8_t8": 493,
+        "clase_9_t9": 493,
+        "clase_10_motocicleta": 464
+      }
     }
   ]
 }

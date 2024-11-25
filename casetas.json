@@ -1548,18 +1548,18 @@
       },
       "tipo": "general",
       "costos": {
-        "clase_1": 163,
-        "clase_2_b2": 163,
-        "clase_3_b3": 163,
-        "clase_2_t2": 163,
-        "clase_3_t3": 163,
-        "clase_4_t4": 163,
-        "clase_5_t5": 163,
-        "clase_6_t6": 163,
-        "clase_7_t7": 163,
-        "clase_8_t8": 163,
-        "clase_9_t9": 163,
-        "clase_10_motocicleta": 134
+        "clase_1": 26,
+        "clase_2_b2": 44,
+        "clase_3_b3": 44,
+        "clase_2_t2": 44,
+        "clase_3_t3": 44,
+        "clase_4_t4": 92,
+        "clase_5_t5": 92,
+        "clase_6_t6": 126,
+        "clase_7_t7": 126,
+        "clase_8_t8": 126,
+        "clase_9_t9": 126,
+        "clase_10_motocicleta": 13
       }
     },
     {
@@ -5552,18 +5552,18 @@
       },
       "tipo": "general",
       "costos": {
-        "clase_1": 374,
-        "clase_2_b2": 374,
-        "clase_3_b3": 374,
-        "clase_2_t2": 374,
-        "clase_3_t3": 374,
-        "clase_4_t4": 374,
-        "clase_5_t5": 374,
-        "clase_6_t6": 374,
-        "clase_7_t7": 374,
-        "clase_8_t8": 374,
-        "clase_9_t9": 374,
-        "clase_10_motocicleta": 345
+        "clase_1": 33,
+        "clase_2_b2": 57,
+        "clase_3_b3": 57,
+        "clase_2_t2": 57,
+        "clase_3_t3": 57,
+        "clase_4_t4": 118,
+        "clase_5_t5": 118,
+        "clase_6_t6": 157,
+        "clase_7_t7": 157,
+        "clase_8_t8": 157,
+        "clase_9_t9": 157,
+        "clase_10_motocicleta": 16
       }
     },
     {

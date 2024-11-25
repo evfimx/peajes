@@ -4628,18 +4628,18 @@
       },
       "tipo": "general",
       "costos": {
-        "clase_1": 329,
-        "clase_2_b2": 329,
-        "clase_3_b3": 329,
-        "clase_2_t2": 329,
-        "clase_3_t3": 329,
-        "clase_4_t4": 329,
-        "clase_5_t5": 329,
-        "clase_6_t6": 329,
-        "clase_7_t7": 329,
-        "clase_8_t8": 329,
-        "clase_9_t9": 329,
-        "clase_10_motocicleta": 300
+        "clase_1": 65,
+        "clase_2_b2": 129,
+        "clase_3_b3": 129,
+        "clase_2_t2": 129,
+        "clase_3_t3": 129,
+        "clase_4_t4": 261,
+        "clase_5_t5": 261,
+        "clase_6_t6": 395,
+        "clase_7_t7": 395,
+        "clase_8_t8": 395,
+        "clase_9_t9": 395,
+        "clase_10_motocicleta": 32
       }
     },
     {

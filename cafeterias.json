@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "cafe_001",
       "name": "Café Aroma Hidalgo",
@@ -210,6 +209,4 @@
       "pet_friendly": true,
       "has_parking": true
     }
-  ],
-  "status": "OK"
-}
+  ]

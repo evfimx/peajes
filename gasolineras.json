@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "gas_001",
       "name": "Pemex Pachuca Centro",
@@ -152,6 +151,4 @@
       "user_ratings_total": 101,
       "phone_number": "+52 55 5587 4421"
     }
-  ],
-  "status": "OK"
-}
+  ]

@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "place_id": "gas_001",
+      "name": "Pemex Pachuca Centro",
+      "latitude": 20.119789,
+      "longitude": -98.737010,
+      "vicinity": "Blvd. Everardo Márquez 105, Pachuca",
+      "tipo": "gas_station",
+      "rating": 4.2,
+      "user_ratings_total": 210,
+      "phone_number": "+52 771 711 1123"
+    },
+    {
+      "place_id": "gas_002",
+      "name": "G500 Reforma",
+      "latitude": 20.103880,
+      "longitude": -98.741200,
+      "vicinity": "Blvd. Luis Donaldo Colosio 501, Pachuca",
+      "tipo": "gas_station",
+      "rating": 4.0,
+      "user_ratings_total": 122
+    },
+    {
+      "place_id": "gas_003",
+      "name": "Pemex Tizayuca Norte",
+      "latitude": 19.992100,
+      "longitude": -98.950500,
+      "vicinity": "Carretera México - Pachuca Km 80, Tizayuca",
+      "tipo": "gas_station",
+      "rating": 4.1,
+      "user_ratings_total": 145
+    },
+    {
+      "place_id": "gas_004",
+      "name": "G500 La Calera",
+      "latitude": 19.965210,
+      "longitude": -98.906500,
+      "vicinity": "Km 68 Carretera México-Pachuca, Tizayuca",
+      "tipo": "gas_station",
+      "rating": 4.3,
+      "user_ratings_total": 98
+    },
+    {
+      "place_id": "gas_005",
+      "name": "Pemex Tecámac",
+      "latitude": 19.944200,
+      "longitude": -98.870990,
+      "vicinity": "Km 61 Carretera México-Pachuca, Tecámac",
+      "tipo": "gas_station",
+      "rating": 4.0,
+      "user_ratings_total": 102
+    },
+    {
+      "place_id": "gas_006",
+      "name": "Shell Ojo de Agua",
+      "latitude": 19.912700,
+      "longitude": -98.822001,
+      "vicinity": "Km 56 Carretera México-Pachuca, Ojo de Agua",
+      "tipo": "gas_station",
+      "rating": 4.5,
+      "user_ratings_total": 75
+    },
+    {
+      "place_id": "gas_007",
+      "name": "Pemex Ecatepec Norte",
+      "latitude": 19.896111,
+      "longitude": -98.813890,
+      "vicinity": "Km 54 Carretera México-Pachuca, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 4.0,
+      "user_ratings_total": 89
+    },
+    {
+      "place_id": "gas_008",
+      "name": "BP Ecatepec",
+      "latitude": 19.871222,
+      "longitude": -98.799400,
+      "vicinity": "Km 50 Carretera México-Pachuca, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 4.2,
+      "user_ratings_total": 77
+    },
+    {
+      "place_id": "gas_009",
+      "name": "Pemex Central Ecatepec",
+      "latitude": 19.866800,
+      "longitude": -98.792000,
+      "vicinity": "Km 49 Carretera México-Pachuca, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 4.3,
+      "user_ratings_total": 63
+    },
+    {
+      "place_id": "gas_010",
+      "name": "Pemex Las Américas",
+      "latitude": 19.849100,
+      "longitude": -98.782123,
+      "vicinity": "Blvd. de los Aztecas 192, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 4.4,
+      "user_ratings_total": 104
+    },
+    {
+      "place_id": "gas_011",
+      "name": "Shell Las Torres",
+      "latitude": 19.839800,
+      "longitude": -98.772011,
+      "vicinity": "Av. Central S/N, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 4.1,
+      "user_ratings_total": 55
+    },
+    {
+      "place_id": "gas_012",
+      "name": "Pemex Los Reyes",
+      "latitude": 19.818800,
+      "longitude": -98.755100,
+      "vicinity": "Km 43 Carretera México-Pachuca, Ecatepec",
+      "tipo": "gas_station",
+      "rating": 3.9,
+      "user_ratings_total": 34
+    },
+    {
+      "place_id": "gas_013",
+      "name": "G500 La Villa",
+      "latitude": 19.492780,
+      "longitude": -99.106420,
+      "vicinity": "Av. Río Bamba 200, CDMX",
+      "tipo": "gas_station",
+      "rating": 4.5,
+      "user_ratings_total": 80
+    },
+    {
+      "place_id": "gas_014",
+      "name": "Pemex Insurgentes Norte",
+      "latitude": 19.483900,
+      "longitude": -99.128000,
+      "vicinity": "Insurgentes Norte 383, CDMX",
+      "tipo": "gas_station",
+      "rating": 4.4,
+      "user_ratings_total": 92
+    },
+    {
+      "place_id": "gas_015",
+      "name": "Pemex Lindavista",
+      "latitude": 19.495800,
+      "longitude": -99.114555,
+      "vicinity": "Av. Montevideo 230, Lindavista, CDMX",
+      "tipo": "gas_station",
+      "rating": 4.3,
+      "user_ratings_total": 101,
+      "phone_number": "+52 55 5587 4421"
+    }
+  ],
+  "status": "OK"
+}

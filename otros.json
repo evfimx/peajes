@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "ot_oxxo_001",
       "name": "OXXO Pachuca Centro",
@@ -180,6 +179,4 @@
       "open_now": true,
       "has_parking": false
     }
-  ],
-  "status": "OK"
-}
+  ]

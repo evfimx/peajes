@@ -1,0 +1,158 @@
+{
+  "results": [
+    {
+      "place_id": "rest_001",
+      "name": "Restaurante El Camino Real",
+      "latitude": 20.125341,
+      "longitude": -98.733221,
+      "vicinity": "Carretera Pachuca-México, km 81, Pachuca",
+      "tipo": "restaurante",
+      "rating": 4.5,
+      "user_ratings_total": 220,
+      "phone_number": "+52 771 123 4567",
+      "website": "https://elcaminoreal.com"
+    },
+    {
+      "place_id": "rest_002",
+      "name": "Taquería La Carretera",
+      "latitude": 20.003210,
+      "longitude": -98.997210,
+      "vicinity": "Carretera Federal México - Pachuca, km 72, Tizayuca",
+      "tipo": "restaurante",
+      "rating": 4.2,
+      "user_ratings_total": 120,
+      "phone_number": "+52 55 2345 6789"
+    },
+    {
+      "place_id": "rest_003",
+      "name": "Cocina Doña Lupita",
+      "latitude": 19.987654,
+      "longitude": -98.950001,
+      "vicinity": "Km 70 Carretera México-Pachuca, Tizayuca",
+      "tipo": "restaurante",
+      "rating": 4.0,
+      "user_ratings_total": 85
+    },
+    {
+      "place_id": "rest_004",
+      "name": "Bistro San Antonio",
+      "latitude": 19.960100,
+      "longitude": -98.901110,
+      "vicinity": "Km 65 Carretera México-Pachuca, Tizayuca",
+      "tipo": "restaurante",
+      "rating": 4.3,
+      "user_ratings_total": 95
+    },
+    {
+      "place_id": "rest_005",
+      "name": "Pollo Asado El Norteño",
+      "latitude": 19.944000,
+      "longitude": -98.869876,
+      "vicinity": "Km 61 Carretera México-Pachuca, Tecámac",
+      "tipo": "restaurante",
+      "rating": 4.1,
+      "user_ratings_total": 72
+    },
+    {
+      "place_id": "rest_006",
+      "name": "Restaurante Las Palmas",
+      "latitude": 19.930000,
+      "longitude": -98.843000,
+      "vicinity": "Km 58 Carretera México-Pachuca, Tecámac",
+      "tipo": "restaurante",
+      "rating": 4.4,
+      "user_ratings_total": 100
+    },
+    {
+      "place_id": "rest_007",
+      "name": "El Fogón del Valle",
+      "latitude": 19.912345,
+      "longitude": -98.820234,
+      "vicinity": "Km 56 Carretera México-Pachuca, Tecámac",
+      "tipo": "restaurante",
+      "rating": 4.7,
+      "user_ratings_total": 210
+    },
+    {
+      "place_id": "rest_008",
+      "name": "Mariscos Costa Azul",
+      "latitude": 19.895002,
+      "longitude": -98.812000,
+      "vicinity": "Km 54 Carretera México-Pachuca, Tecámac",
+      "tipo": "restaurante",
+      "rating": 4.3,
+      "user_ratings_total": 80
+    },
+    {
+      "place_id": "rest_009",
+      "name": "Tacos y Tortas El Rayo",
+      "latitude": 19.874000,
+      "longitude": -98.801000,
+      "vicinity": "Km 51 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.2,
+      "user_ratings_total": 110
+    },
+    {
+      "place_id": "rest_010",
+      "name": "La Parrilla del Viajero",
+      "latitude": 19.865000,
+      "longitude": -98.793000,
+      "vicinity": "Km 50 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.1,
+      "user_ratings_total": 65
+    },
+    {
+      "place_id": "rest_011",
+      "name": "Restaurante Ojo de Agua",
+      "latitude": 19.847000,
+      "longitude": -98.780000,
+      "vicinity": "Km 47 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.4,
+      "user_ratings_total": 91
+    },
+    {
+      "place_id": "rest_012",
+      "name": "Barbacoa Los Abuelos",
+      "latitude": 19.835000,
+      "longitude": -98.770000,
+      "vicinity": "Km 45 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.5,
+      "user_ratings_total": 130
+    },
+    {
+      "place_id": "rest_013",
+      "name": "El Buen Sazón",
+      "latitude": 19.818000,
+      "longitude": -98.755000,
+      "vicinity": "Km 43 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.0,
+      "user_ratings_total": 58
+    },
+    {
+      "place_id": "rest_014",
+      "name": "Comedor Familiar Lupita",
+      "latitude": 19.809000,
+      "longitude": -98.748000,
+      "vicinity": "Km 41 Carretera México-Pachuca, Ecatepec",
+      "tipo": "restaurante",
+      "rating": 4.2,
+      "user_ratings_total": 64
+    },
+    {
+      "place_id": "rest_015",
+      "name": "Sushi Express Tecámac",
+      "latitude": 19.804000,
+      "longitude": -98.744000,
+      "vicinity": "Km 40 Carretera México-Pachuca, Tecámac",
+      "tipo": "restaurante",
+      "rating": 4.6,
+      "user_ratings_total": 145
+    }
+  ],
+  "status": "OK"
+}

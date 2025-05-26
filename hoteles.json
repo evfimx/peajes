@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "place_id": "hotel_001",
+      "name": "Hotel Camino Real Pachuca",
+      "latitude": 20.121111,
+      "longitude": -98.734555,
+      "vicinity": "Blvd. Everardo Márquez 100, Pachuca",
+      "tipo": "hotel",
+      "rating": 4.6,
+      "user_ratings_total": 640,
+      "phone_number": "+52 771 717 6000",
+      "website": "https://caminoreal.com"
+    },
+    {
+      "place_id": "hotel_002",
+      "name": "Hotel Holiday Inn Express",
+      "latitude": 20.105000,
+      "longitude": -98.751200,
+      "vicinity": "Carretera México - Pachuca km 85, Pachuca",
+      "tipo": "hotel",
+      "rating": 4.4,
+      "user_ratings_total": 310,
+      "phone_number": "+52 771 789 4567"
+    },
+    {
+      "place_id": "hotel_003",
+      "name": "Hotel Real de Tizayuca",
+      "latitude": 19.986210,
+      "longitude": -98.951001,
+      "vicinity": "Av. Hidalgo 11, Centro, Tizayuca",
+      "tipo": "hotel",
+      "rating": 4.2,
+      "user_ratings_total": 122
+    },
+    {
+      "place_id": "hotel_004",
+      "name": "Motel La Carreta",
+      "latitude": 19.955200,
+      "longitude": -98.905210,
+      "vicinity": "Km 65 Carretera México-Pachuca, Tizayuca",
+      "tipo": "hotel",
+      "rating": 4.0,
+      "user_ratings_total": 210
+    },
+    {
+      "place_id": "hotel_005",
+      "name": "Hotel El Encino",
+      "latitude": 19.944001,
+      "longitude": -98.869877,
+      "vicinity": "Km 61 Carretera México-Pachuca, Tecámac",
+      "tipo": "hotel",
+      "rating": 4.3,
+      "user_ratings_total": 150
+    },
+    {
+      "place_id": "hotel_006",
+      "name": "Hotel San Remo",
+      "latitude": 19.927000,
+      "longitude": -98.844000,
+      "vicinity": "Km 58 Carretera México-Pachuca, Tecámac",
+      "tipo": "hotel",
+      "rating": 4.1,
+      "user_ratings_total": 93
+    },
+    {
+      "place_id": "hotel_007",
+      "name": "Hotel El Refugio",
+      "latitude": 19.913222,
+      "longitude": -98.818222,
+      "vicinity": "Km 56 Carretera México-Pachuca, Tecámac",
+      "tipo": "hotel",
+      "rating": 4.0,
+      "user_ratings_total": 101
+    },
+    {
+      "place_id": "hotel_008",
+      "name": "Hotel Los Pinos",
+      "latitude": 19.895800,
+      "longitude": -98.812200,
+      "vicinity": "Km 54 Carretera México-Pachuca, Tecámac",
+      "tipo": "hotel",
+      "rating": 3.9,
+      "user_ratings_total": 78
+    },
+    {
+      "place_id": "hotel_009",
+      "name": "Hotel Villas del Sol",
+      "latitude": 19.870900,
+      "longitude": -98.799400,
+      "vicinity": "Km 50 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 4.2,
+      "user_ratings_total": 120
+    },
+    {
+      "place_id": "hotel_010",
+      "name": "Hotel Central Ecatepec",
+      "latitude": 19.866900,
+      "longitude": -98.792200,
+      "vicinity": "Km 49 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 4.1,
+      "user_ratings_total": 110
+    },
+    {
+      "place_id": "hotel_011",
+      "name": "Hotel Las Fuentes",
+      "latitude": 19.845200,
+      "longitude": -98.780123,
+      "vicinity": "Km 47 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 4.3,
+      "user_ratings_total": 89
+    },
+    {
+      "place_id": "hotel_012",
+      "name": "Hotel Real del Valle",
+      "latitude": 19.835900,
+      "longitude": -98.771000,
+      "vicinity": "Km 45 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 4.0,
+      "user_ratings_total": 57
+    },
+    {
+      "place_id": "hotel_013",
+      "name": "Hotel Luxor",
+      "latitude": 19.818800,
+      "longitude": -98.755100,
+      "vicinity": "Km 43 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 3.9,
+      "user_ratings_total": 66
+    },
+    {
+      "place_id": "hotel_014",
+      "name": "Hotel Flamingos",
+      "latitude": 19.809990,
+      "longitude": -98.748123,
+      "vicinity": "Km 41 Carretera México-Pachuca, Ecatepec",
+      "tipo": "hotel",
+      "rating": 4.1,
+      "user_ratings_total": 72
+    },
+    {
+      "place_id": "hotel_015",
+      "name": "Hotel City Express La Villa",
+      "latitude": 19.492700,
+      "longitude": -99.107310,
+      "vicinity": "Av. Río Bamba 147, Magdalena de las Salinas, CDMX",
+      "tipo": "hotel",
+      "rating": 4.5,
+      "user_ratings_total": 285,
+      "phone_number": "+52 55 9130 0900",
+      "website": "https://cityexpress.com.mx"
+    }
+  ],
+  "status": "OK"
+}

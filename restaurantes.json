@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "rest_001",
       "name": "Restaurante El Camino Real",
@@ -153,6 +152,4 @@
       "rating": 4.6,
       "user_ratings_total": 145
     }
-  ],
-  "status": "OK"
-}
+  ]

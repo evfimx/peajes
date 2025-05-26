@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "vul_001",
       "name": "Vulcanizadora El Rápido",
@@ -156,6 +155,4 @@
       "user_ratings_total": 9,
       "open_now": false
     }
-  ],
-  "status": "OK"
-}
+  ]

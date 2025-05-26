@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "hotel_001",
       "name": "Hotel Camino Real Pachuca",
@@ -155,6 +154,4 @@
       "phone_number": "+52 55 9130 0900",
       "website": "https://cityexpress.com.mx"
     }
-  ],
-  "status": "OK"
-}
+  ]

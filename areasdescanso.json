@@ -1,5 +1,4 @@
-{
-  "results": [
+[
     {
       "place_id": "desc_001",
       "name": "Área de Descanso El Valle",
@@ -197,6 +196,4 @@
       "tables": true,
       "parking": true
     }
-  ],
-  "status": "OK"
-}
+  ]

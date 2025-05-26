@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "place_id": "vul_001",
+      "name": "Vulcanizadora El Rápido",
+      "latitude": 20.097100,
+      "longitude": -98.748200,
+      "vicinity": "Blvd. Colosio Km 85, Pachuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.7,
+      "user_ratings_total": 29,
+      "phone_number": "+52 771 145 2211",
+      "open_now": true
+    },
+    {
+      "place_id": "vul_002",
+      "name": "Vulcanizadora El Rey",
+      "latitude": 20.045220,
+      "longitude": -98.895900,
+      "vicinity": "Carretera Pachuca-Tizayuca Km 72, Tolcayuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.5,
+      "user_ratings_total": 13,
+      "open_now": false
+    },
+    {
+      "place_id": "vul_003",
+      "name": "Vulcanizadora Hernández",
+      "latitude": 19.999210,
+      "longitude": -98.959999,
+      "vicinity": "Carretera México-Pachuca Km 79, Tizayuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.6,
+      "user_ratings_total": 21
+    },
+    {
+      "place_id": "vul_004",
+      "name": "Vulcanizadora Los Compadres",
+      "latitude": 19.983000,
+      "longitude": -98.935200,
+      "vicinity": "Carretera México-Pachuca Km 75, Tizayuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.2,
+      "user_ratings_total": 9
+    },
+    {
+      "place_id": "vul_005",
+      "name": "Vulcanizadora Santa María",
+      "latitude": 19.955400,
+      "longitude": -98.860900,
+      "vicinity": "Km 65, Tecámac",
+      "tipo": "vulcanizadora",
+      "rating": 4.1,
+      "user_ratings_total": 16
+    },
+    {
+      "place_id": "vul_006",
+      "name": "Vulcanizadora La Esperanza",
+      "latitude": 19.936500,
+      "longitude": -98.850000,
+      "vicinity": "Carretera México-Pachuca Km 62, Tecámac",
+      "tipo": "vulcanizadora",
+      "rating": 4.3,
+      "user_ratings_total": 18,
+      "phone_number": "+52 55 5933 1234"
+    },
+    {
+      "place_id": "vul_007",
+      "name": "Vulcanizadora Express",
+      "latitude": 19.918700,
+      "longitude": -98.823300,
+      "vicinity": "Col. Ojo de Agua, Tecámac",
+      "tipo": "vulcanizadora",
+      "rating": 4.7,
+      "user_ratings_total": 22
+    },
+    {
+      "place_id": "vul_008",
+      "name": "Vulcanizadora Ojo de Agua",
+      "latitude": 19.910800,
+      "longitude": -98.820500,
+      "vicinity": "Col. Ojo de Agua, Km 56, Tecámac",
+      "tipo": "vulcanizadora",
+      "rating": 4.5,
+      "user_ratings_total": 15
+    },
+    {
+      "place_id": "vul_009",
+      "name": "Vulcanizadora Las Torres",
+      "latitude": 19.895900,
+      "longitude": -98.814000,
+      "vicinity": "Carretera México-Pachuca Km 54, Ecatepec",
+      "tipo": "vulcanizadora",
+      "rating": 4.4,
+      "user_ratings_total": 19,
+      "open_now": true
+    },
+    {
+      "place_id": "vul_010",
+      "name": "Vulcanizadora El Tigre",
+      "latitude": 19.885111,
+      "longitude": -98.802222,
+      "vicinity": "Ecatepec Km 52, México-Pachuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.0,
+      "user_ratings_total": 8
+    },
+    {
+      "place_id": "vul_011",
+      "name": "Vulcanizadora El Amigo",
+      "latitude": 19.870800,
+      "longitude": -98.800100,
+      "vicinity": "Km 50, México-Pachuca",
+      "tipo": "vulcanizadora",
+      "rating": 4.3,
+      "user_ratings_total": 7
+    },
+    {
+      "place_id": "vul_012",
+      "name": "Vulcanizadora Rápida",
+      "latitude": 19.860222,
+      "longitude": -98.793450,
+      "vicinity": "Av. Central S/N, Ecatepec",
+      "tipo": "vulcanizadora",
+      "rating": 4.1,
+      "user_ratings_total": 11
+    },
+    {
+      "place_id": "vul_013",
+      "name": "Vulcanizadora La Villa",
+      "latitude": 19.500099,
+      "longitude": -99.107700,
+      "vicinity": "Av. Río Bamba, CDMX",
+      "tipo": "vulcanizadora",
+      "rating": 4.6,
+      "user_ratings_total": 14
+    },
+    {
+      "place_id": "vul_014",
+      "name": "Vulcanizadora Lindavista",
+      "latitude": 19.495900,
+      "longitude": -99.115010,
+      "vicinity": "Montevideo 210, Lindavista, CDMX",
+      "tipo": "vulcanizadora",
+      "rating": 4.8,
+      "user_ratings_total": 18
+    },
+    {
+      "place_id": "vul_015",
+      "name": "Vulcanizadora México DF",
+      "latitude": 19.487712,
+      "longitude": -99.120210,
+      "vicinity": "Insurgentes Norte 411, CDMX",
+      "tipo": "vulcanizadora",
+      "rating": 4.4,
+      "user_ratings_total": 9,
+      "open_now": false
+    }
+  ],
+  "status": "OK"
+}
